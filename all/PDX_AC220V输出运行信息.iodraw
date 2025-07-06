@@ -35,7 +35,7 @@
           <mxGeometry x="302.12377255081066" y="209.1176470588235" width="10.790134733957524" height="13.6275" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-6" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑;&quot;&gt;AC220V输出运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="5.21523178807947" y="7.9789473684210535" width="304.569536423841" height="24.94736842105263" as="geometry" />
+          <mxGeometry x="5.22" y="2.98" width="304.57" height="17.02" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="6.26" y="39.5" width="302.48" height="169.61764705882354" as="geometry" />
