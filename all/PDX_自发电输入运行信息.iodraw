@@ -41,7 +41,7 @@
           <mxGeometry x="3" y="22" width="308.74" height="189.12" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="7" y="24" width="301" height="19" as="geometry" />
+          <mxGeometry x="7" y="24" width="301" height="17" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-32" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="9" y="114.84" width="18" height="32" as="geometry" />
@@ -135,9 +135,6 @@
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-69" value="kΩ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="293.74" y="69" width="16" height="12" as="geometry" />
-        </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-70" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="7" y="24" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-7">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
