@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-75" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="11" y="113.84" width="18" height="32" as="geometry" />
+          <mxGeometry x="9" y="114.84" width="18" height="32" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="28" y="149.2" width="213" height="20" as="geometry" />
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-137" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="518.5" y="264" width="35.5" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="cehkrJD7YdUpguVaZu74-138" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="194" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
