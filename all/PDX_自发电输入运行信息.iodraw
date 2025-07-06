@@ -41,7 +41,7 @@
           <mxGeometry x="3" y="22" width="308.74" height="189.12" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="9" y="27" width="301" height="21" as="geometry" />
+          <mxGeometry x="7" y="27" width="301" height="21" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-18" value="故障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="6" y="96.84" width="59" height="20" as="geometry" />
@@ -117,6 +117,15 @@
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-57" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="264" width="36" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-58" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="573" y="295" width="44" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-59" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="573" y="332.12" width="44" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-60" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="573" y="314.28000000000003" width="44" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
