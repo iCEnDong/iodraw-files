@@ -167,7 +167,7 @@
           <mxGeometry x="175" y="115" width="72" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-128" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="30" y="131" width="36" height="16" as="geometry" />
+          <mxGeometry x="29" y="131" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-129" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="65.5" y="131" width="36" height="16" as="geometry" />
