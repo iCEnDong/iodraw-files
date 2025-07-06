@@ -145,12 +145,6 @@
             <mxRectangle width="48" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=#36393d;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="220.53" y="40.269999999999996" width="38.15" height="54.84" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=#36393d;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="220.52999999999997" y="111.16000000000003" width="38.15" height="54.84" as="geometry" />
-        </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
         </mxCell>
