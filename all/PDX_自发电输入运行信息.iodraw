@@ -14,7 +14,7 @@
           <mxGeometry x="400.5" y="345" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-4" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="390" width="70" height="25" as="geometry" />
+          <mxGeometry x="322.5" y="343" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-5" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="475" y="345" width="65" height="20" as="geometry" />
