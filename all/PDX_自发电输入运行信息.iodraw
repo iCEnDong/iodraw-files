@@ -10,7 +10,7 @@
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#48CCF5;fillColor=#2C7B94;gradientColor=#07305E;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="340" width="305" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-3" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=0;gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-3" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=0;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="400.5" y="345" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-4" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;" vertex="1" parent="1">
