@@ -8,19 +8,19 @@
           <mxGeometry x="310" y="130" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-49" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#48CCF5;fillColor=#2C7B94;gradientColor=#07305E;" vertex="1" parent="1">
-          <mxGeometry x="318" y="400" width="305" height="30" as="geometry" />
+          <mxGeometry x="317.5" y="340" width="305" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-50" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=0;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="325.5" y="405" width="65" height="20" as="geometry" />
+          <mxGeometry x="325" y="345" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-51" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="398.5" y="403" width="70" height="25" as="geometry" />
+          <mxGeometry x="398" y="343" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-52" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="475.5" y="405" width="65" height="20" as="geometry" />
+          <mxGeometry x="475" y="345" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-53" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="550.5" y="405" width="65" height="20" as="geometry" />
+          <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-2" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="313" y="133" width="315" height="204" as="geometry" />
