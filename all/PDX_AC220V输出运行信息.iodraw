@@ -148,6 +148,12 @@
         <mxCell id="cehkrJD7YdUpguVaZu74-121" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="250" y="152" width="44" height="13" as="geometry" />
         </mxCell>
+        <mxCell id="cehkrJD7YdUpguVaZu74-122" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
+          <mxGeometry x="248.78999999999996" y="169.2" width="44" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="cehkrJD7YdUpguVaZu74-123" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
+          <mxGeometry x="292.53" y="169.97999999999996" width="13" height="13" as="geometry" />
+        </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
         </mxCell>
