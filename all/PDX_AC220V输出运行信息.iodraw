@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-75" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="11" y="113.84" width="18" height="33.16" as="geometry" />
+          <mxGeometry x="11" y="113.84" width="18" height="32" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="28" y="149.2" width="213" height="20" as="geometry" />
