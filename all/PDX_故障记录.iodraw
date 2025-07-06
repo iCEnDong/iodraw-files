@@ -97,7 +97,7 @@
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-36" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="486" y="355" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hCblKkUK2Uyoiqfn_4M-52" value="220V自发电输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-hCblKkUK2Uyoiqfn_4M-52" value="AV220V输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="180" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
