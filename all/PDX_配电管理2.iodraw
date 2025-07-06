@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="y4uHGnvDTDMUDCzLGmwG">
-    <mxGraphModel dx="500" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,8 @@
         <mxCell id="O9z92F1vkBe3yt5MXpO8-12" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="O9z92F1vkBe3yt5MXpO8-3" vertex="1">
           <mxGeometry x="255.546357615894" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
         </mxCell>
-        <mxCell id="O9z92F1vkBe3yt5MXpO8-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="O9z92F1vkBe3yt5MXpO8-3" vertex="1">
-          <mxGeometry x="6.258278145695363" y="42.94736842105264" width="302.48344370860923" height="64.42105263157895" as="geometry" />
+        <mxCell id="O9z92F1vkBe3yt5MXpO8-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;aspect=fixed;" parent="O9z92F1vkBe3yt5MXpO8-3" vertex="1">
+          <mxGeometry x="6.258278145695363" y="42.94736842105264" width="316.1" height="67.32105263157895" as="geometry" />
         </mxCell>
         <mxCell id="O9z92F1vkBe3yt5MXpO8-14" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" parent="O9z92F1vkBe3yt5MXpO8-3" vertex="1">
           <mxGeometry x="261.8476821192053" y="64.42105263157895" width="44.85099337748344" height="21.47368421052632" as="geometry" />
