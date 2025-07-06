@@ -161,10 +161,10 @@
           <mxGeometry x="29" y="115" width="71" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-126" value="欠压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="99" y="115" width="71" height="16" as="geometry" />
+          <mxGeometry x="102" y="115" width="71" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-127" value="过流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="176" y="115" width="71" height="16" as="geometry" />
+          <mxGeometry x="175" y="115" width="72" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-128" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="29" y="131" width="35.5" height="16" as="geometry" />
