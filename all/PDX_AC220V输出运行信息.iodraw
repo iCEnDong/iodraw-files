@@ -149,10 +149,10 @@
           <mxGeometry x="250" y="152" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-122" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="249.78999999999996" y="189.12" width="44" height="13" as="geometry" />
+          <mxGeometry x="249.99999999999997" y="189.12" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-123" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="293.53" y="189.89999999999998" width="13" height="13" as="geometry" />
+          <mxGeometry x="293.73999999999995" y="189.89999999999998" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-124" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="250" y="169.28000000000003" width="44" height="13" as="geometry" />
