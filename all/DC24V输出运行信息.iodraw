@@ -64,10 +64,10 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-49" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="51" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-50" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-50" value="过流" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="87.5" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-54" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-54" value="短路" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="124" y="147" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-55" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
