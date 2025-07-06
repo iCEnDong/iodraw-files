@@ -7,7 +7,7 @@
         <mxCell id="8RAH-M7lXmXvQhUODDp6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="331.26" y="390" width="283.74" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="8RAH-M7lXmXvQhUODDp6-2" value="" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="1">
+        <mxCell id="8RAH-M7lXmXvQhUODDp6-2" value="黄色：设备告警" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="1">
           <mxGeometry x="395" y="409" width="215.21" height="16" as="geometry" />
         </mxCell>
         <mxCell id="8RAH-M7lXmXvQhUODDp6-3" value="翻页键：短按页面切换，长按退出" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="1">
