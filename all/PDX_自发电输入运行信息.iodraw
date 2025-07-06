@@ -109,7 +109,7 @@
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-59" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="9" y="85.12" width="44" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-60" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-60" value="漏电压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="9" y="67.28000000000003" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-61" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
