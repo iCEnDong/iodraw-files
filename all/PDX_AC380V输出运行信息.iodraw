@@ -175,6 +175,9 @@
         <mxCell id="1JfXEZD47u_oeZDNWeVV-51" value="频率：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
           <mxGeometry x="174" y="77" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1JfXEZD47u_oeZDNWeVV-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
+          <mxGeometry x="270" y="77" width="39.29" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1JfXEZD47u_oeZDNWeVV-52" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-7">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
         </mxCell>
@@ -189,9 +192,6 @@
         </mxCell>
         <mxCell id="1JfXEZD47u_oeZDNWeVV-56" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="264" width="36" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="1JfXEZD47u_oeZDNWeVV-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
