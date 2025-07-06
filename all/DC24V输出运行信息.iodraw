@@ -64,9 +64,6 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-38" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="9" y="189.12" width="19" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-39" value="其他故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="248.79" y="115" width="61" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="293.74" y="152.78" width="13" height="13" as="geometry" />
         </mxCell>
@@ -85,15 +82,6 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="293.74" y="172.06" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-46" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="29" y="115" width="72" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-47" value="欠压" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="102" y="115" width="72" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-48" value="过流" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="175" y="115" width="72" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-49" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="29" y="131" width="36" height="16" as="geometry" />
         </mxCell>
@@ -101,7 +89,7 @@
           <mxGeometry x="65.5" y="131" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hRNuxEG93Du0CO3iZK0M-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
-          <mxGeometry x="6" y="26" width="303" height="75" as="geometry" />
+          <mxGeometry x="6" y="25" width="303" height="75" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="qnBX3YJsnyxySM1EMNbd-7" vertex="1">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
