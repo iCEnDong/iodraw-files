@@ -52,13 +52,13 @@
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
           <mxGeometry x="6.26" y="164.2" width="283.74" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="s33WEgpFiDsP0t67RrVy-3" value="AC380V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;fillColor=#dae8fc;gradientColor=#0D3494;strokeColor=none;gradientDirection=west;fontFamily=黑体;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
+        <mxCell id="s33WEgpFiDsP0t67RrVy-3" value="AC380V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;fillColor=#dae8fc;gradientColor=#0D3494;strokeColor=none;gradientDirection=west;fontFamily=微软雅黑;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
           <mxGeometry x="5.22" y="32" width="99" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="s33WEgpFiDsP0t67RrVy-4" value="AC220V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=0;whiteSpace=wrap;labelPosition=center;align=left;gradientDirection=north;fillColor=#DAE8FC;fontFamily=黑体;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
+        <mxCell id="s33WEgpFiDsP0t67RrVy-4" value="AC220V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=0;whiteSpace=wrap;labelPosition=center;align=left;gradientDirection=north;fillColor=#DAE8FC;fontFamily=微软雅黑;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
           <mxGeometry x="107.96" y="32" width="99" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="s33WEgpFiDsP0t67RrVy-5" value="DC24V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=right;fillColor=#dae8fc;gradientColor=#0E3AA3;strokeColor=none;gradientDirection=west;flipH=1;fontFamily=黑体;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
+        <mxCell id="s33WEgpFiDsP0t67RrVy-5" value="DC24V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=right;fillColor=#dae8fc;gradientColor=#0E3AA3;strokeColor=none;gradientDirection=west;flipH=1;fontFamily=微软雅黑;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
           <mxGeometry x="210.78" y="32" width="99" height="17" as="geometry" />
         </mxCell>
         <mxCell id="s33WEgpFiDsP0t67RrVy-16" value="" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
