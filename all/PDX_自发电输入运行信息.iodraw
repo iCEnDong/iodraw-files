@@ -106,7 +106,7 @@
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-58" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="9" y="48" width="61" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-59" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-59" value="接地电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="9" y="85.12" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-60" value="漏电压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
