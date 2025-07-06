@@ -125,7 +125,7 @@
           <mxGeometry x="28" y="149.20000000000005" width="191" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="28" y="169.27999999999997" width="191" height="20" as="geometry" />
+          <mxGeometry x="28" y="169.28" width="212" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="28" y="189.12" width="191" height="20" as="geometry" />
@@ -148,7 +148,7 @@
         <mxCell id="cehkrJD7YdUpguVaZu74-121" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="250" y="152" width="44" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-122" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
+        <mxCell id="cehkrJD7YdUpguVaZu74-122" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="249.99999999999997" y="189.12" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-123" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
