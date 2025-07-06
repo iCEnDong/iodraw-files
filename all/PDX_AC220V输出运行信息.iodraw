@@ -118,17 +118,14 @@
         <mxCell id="cehkrJD7YdUpguVaZu74-75" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="11" y="113.84" width="18" height="33.16" as="geometry" />
         </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-77" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="29" y="113.84" width="61" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="28" y="149.20000000000005" width="191" height="20" as="geometry" />
+          <mxGeometry x="28" y="149.2" width="212" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="28" y="169.28" width="212" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="28" y="189.12" width="191" height="20" as="geometry" />
+          <mxGeometry x="28" y="189.12" width="212" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-115" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="9" y="169.27999999999997" width="19" height="20" as="geometry" />
@@ -159,6 +156,9 @@
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-125" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="293.74" y="172.06" width="13" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="cehkrJD7YdUpguVaZu74-77" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
+          <mxGeometry x="29" y="129.84" width="61" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
