@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ikVeLBr2YNNob7qrvOFb">
-    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,23 +22,8 @@
         <mxCell id="cehkrJD7YdUpguVaZu74-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="5.21523178807947" y="8.589473684210526" width="304.569536423841" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-7" value="设备名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="3.1291390728476816" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-8" value="相序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="81.35761589403972" y="3.221052631578947" width="33.377483443708606" height="32.21052631578947" as="geometry" />
-        </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-9" value="电压V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="115.77814569536423" y="3.221052631578947" width="51.109271523178805" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-10" value="电流A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="166.88741721854305" y="3.221052631578947" width="52.1523178807947" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-11" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="219.03973509933772" y="3.221052631578947" width="39.63576158940397" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-12" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="255.546357615894" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="6.26" y="34" width="302.48" height="67.37" as="geometry" />
