@@ -109,7 +109,7 @@
         <mxCell id="cehkrJD7YdUpguVaZu74-59" value="类 型：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="17" y="56.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-60" value="类 型：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
+        <mxCell id="cehkrJD7YdUpguVaZu74-60" value="节点号：&amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="17" y="86.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
