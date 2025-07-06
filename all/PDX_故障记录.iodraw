@@ -56,7 +56,7 @@
           <mxGeometry x="486" y="355" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="650.26" y="177.21000000000004" width="309.74" height="165.58" as="geometry" />
+          <mxGeometry x="650.26" y="177.21" width="309.74" height="152.79" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-32" value="序号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="177.21000000000004" width="43" height="20" as="geometry" />
