@@ -10,8 +10,8 @@
         <mxCell id="IAMXuEEvA_U2DrzmjSrc-2" value="蓝色：设备配电输出正常" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="1">
           <mxGeometry x="395" y="409" width="215.21" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="IAMXuEEvA_U2DrzmjSrc-3" value="确认键：功能选定" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="1">
-          <mxGeometry x="395" y="392" width="215.21" height="16" as="geometry" />
+        <mxCell id="IAMXuEEvA_U2DrzmjSrc-3" value="&amp;nbsp; &amp;nbsp; 确认键：功能选定" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;align=left;" vertex="1" parent="1">
+          <mxGeometry x="394" y="392" width="215.21" height="16" as="geometry" />
         </mxCell>
         <mxCell id="IAMXuEEvA_U2DrzmjSrc-4" value="显示提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333.34" y="409" width="61.66" height="16" as="geometry" />
