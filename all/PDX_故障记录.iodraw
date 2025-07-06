@@ -22,20 +22,8 @@
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="5.21523178807947" y="8.589473684210526" width="304.569536423841" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-8" value="类型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
-          <mxGeometry x="91.35761589403972" y="3.221052631578947" width="33.377483443708606" height="32.21052631578947" as="geometry" />
-        </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-9" value="电压V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="122.78" y="3.22" width="47.22" height="32.21" as="geometry" />
-        </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-10" value="电流A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
-          <mxGeometry x="170" y="3.22" width="49.04" height="32.21" as="geometry" />
-        </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-11" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
-          <mxGeometry x="219.03973509933772" y="3.221052631578947" width="39.63576158940397" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-12" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
-          <mxGeometry x="255.546357615894" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="6.258278145695363" y="42.94736842105264" width="302.48344370860923" height="67.42105263157895" as="geometry" />
