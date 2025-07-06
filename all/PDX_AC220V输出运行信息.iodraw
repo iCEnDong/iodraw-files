@@ -23,13 +23,10 @@
           <mxGeometry x="5.21523178807947" y="8.589473684210526" width="304.569536423841" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-9" value="AC220V输出运行信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="10" y="3.22" width="290" height="32.21" as="geometry" />
+          <mxGeometry x="12.5" y="10.06" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="6.26" y="34" width="302.48" height="67.37" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-14" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="261.8476821192053" y="56.951052631578946" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="93.87417218543045" y="35.94736842105264" width="125.16556291390728" height="64.42105263157895" as="geometry" />
@@ -87,9 +84,6 @@
           <mxGeometry x="77" width="48" height="21" as="geometry">
             <mxRectangle width="48" height="21" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-28" value="AC380V输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="8.344370860927151" y="58.421052631578945" width="83.44370860927152" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="6.26" y="103.37" width="302.48" height="67.37" as="geometry" />
@@ -150,15 +144,6 @@
           <mxGeometry x="77" width="48" height="21" as="geometry">
             <mxRectangle width="48" height="21" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-43" value="AC220V输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="8.344370860927151" y="127.9521052631579" width="83.44370860927152" height="21.47368421052632" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-44" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="261.8476821192053" y="173.7921052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
-        </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-45" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="261.8476821192053" y="127.84210526315789" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=#36393d;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="220.53" y="40.269999999999996" width="38.15" height="54.84" as="geometry" />
