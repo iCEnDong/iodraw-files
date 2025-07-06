@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qZA9im4hjoy56oEHvGgp">
-    <mxGraphModel dx="1551" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-6" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="204" y="379.02" width="65" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-10" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="269.12377255081066" y="376.1376470588235" width="10.790134733957524" height="13.6275" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑;&quot;&gt;市电输入运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" parent="1" vertex="1">
           <mxGeometry x="-27.779999999999973" y="170" width="304.57" height="17.02" as="geometry" />
