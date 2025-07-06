@@ -173,7 +173,7 @@
           <mxGeometry x="65.5" y="131" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-139" value="频率：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="167" y="77" width="60" height="30" as="geometry" />
+          <mxGeometry x="174" y="77" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
