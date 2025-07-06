@@ -158,7 +158,10 @@
           <mxGeometry x="293.74" y="172.06" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-77" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="29" y="115" width="61" height="16" as="geometry" />
+          <mxGeometry x="29" y="115" width="71" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="cehkrJD7YdUpguVaZu74-126" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
+          <mxGeometry x="99" y="115" width="71" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
