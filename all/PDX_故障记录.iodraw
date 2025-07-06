@@ -127,10 +127,10 @@
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-34" value="设备名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465.98" y="504.42" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hCblKkUK2Uyoiqfn_4M-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hCblKkUK2Uyoiqfn_4M-37" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="575.98" y="504.42" width="47" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hCblKkUK2Uyoiqfn_4M-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hCblKkUK2Uyoiqfn_4M-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;" vertex="1" parent="1">
           <mxGeometry x="312.98" y="524.42" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
