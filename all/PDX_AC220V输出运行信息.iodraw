@@ -22,7 +22,7 @@
         <mxCell id="cehkrJD7YdUpguVaZu74-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="5.21523178807947" y="8.589473684210526" width="304.569536423841" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-9" value="电压V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
+        <mxCell id="cehkrJD7YdUpguVaZu74-9" value="AC220V输出运行信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="115.77814569536423" y="3.221052631578947" width="51.109271523178805" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
