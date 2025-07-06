@@ -97,6 +97,9 @@
         <mxCell id="s33WEgpFiDsP0t67RrVy-3" value="AC380V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;" vertex="1" parent="OT1O4plWf7UrMRZ-p0lP-3">
           <mxGeometry x="11" y="31" width="99" height="17" as="geometry" />
         </mxCell>
+        <mxCell id="s33WEgpFiDsP0t67RrVy-4" value="AC380V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;" vertex="1" parent="OT1O4plWf7UrMRZ-p0lP-3">
+          <mxGeometry x="117" y="31" width="99" height="17" as="geometry" />
+        </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-31" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="OT1O4plWf7UrMRZ-p0lP-2" vertex="1">
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
         </mxCell>
