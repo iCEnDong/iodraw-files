@@ -172,9 +172,6 @@
         <mxCell id="cehkrJD7YdUpguVaZu74-129" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="63.5" y="131" width="35.5" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="cehkrJD7YdUpguVaZu74-138" value="333.3V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="17" y="146.2" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
         </mxCell>
