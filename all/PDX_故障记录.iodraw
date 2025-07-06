@@ -50,7 +50,7 @@
           <mxGeometry x="43" y="2.842170943040401e-14" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-34" value="设备名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" vertex="1" parent="-hCblKkUK2Uyoiqfn_4M-51">
-          <mxGeometry x="153" y="2.842170943040401e-14" width="110" height="20" as="geometry" />
+          <mxGeometry x="170" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-37" value="类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" vertex="1" parent="-hCblKkUK2Uyoiqfn_4M-51">
           <mxGeometry x="263" y="2.842170943040401e-14" width="47" height="20" as="geometry" />
