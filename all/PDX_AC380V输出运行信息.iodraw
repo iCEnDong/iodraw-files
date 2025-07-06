@@ -34,7 +34,7 @@
         <mxCell id="1JfXEZD47u_oeZDNWeVV-10" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
           <mxGeometry x="302.12377255081066" y="209.1176470588235" width="10.790134733957524" height="13.6275" as="geometry" />
         </mxCell>
-        <mxCell id="1JfXEZD47u_oeZDNWeVV-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑;&quot;&gt;AC220V输出运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
+        <mxCell id="1JfXEZD47u_oeZDNWeVV-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑;&quot;&gt;AC380V输出运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
           <mxGeometry x="5.22" y="2.98" width="304.57" height="17.02" as="geometry" />
         </mxCell>
         <mxCell id="1JfXEZD47u_oeZDNWeVV-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
