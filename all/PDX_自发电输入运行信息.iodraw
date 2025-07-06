@@ -118,7 +118,7 @@
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-63" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="77" y="48.71999999999997" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-64" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-64" value="漏电流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="174" y="48.72" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
