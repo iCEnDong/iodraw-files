@@ -61,7 +61,7 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-37" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="9" y="164.27999999999997" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-49" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-49" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="51" y="147" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-50" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
