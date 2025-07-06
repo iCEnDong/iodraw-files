@@ -109,14 +109,11 @@
         <mxCell id="hRNuxEG93Du0CO3iZK0M-11" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
           <mxGeometry x="237" y="42.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hRNuxEG93Du0CO3iZK0M-12" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
-          <mxGeometry x="237" y="25" width="60" height="30" as="geometry" />
+        <mxCell id="hRNuxEG93Du0CO3iZK0M-12" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
+          <mxGeometry x="237" y="22.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="qnBX3YJsnyxySM1EMNbd-7" vertex="1">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
-        </mxCell>
-        <mxCell id="hRNuxEG93Du0CO3iZK0M-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=none;fillColor=#1B73A8;gradientColor=#193754;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="110" y="90.5" width="168" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
