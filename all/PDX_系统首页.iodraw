@@ -112,7 +112,7 @@
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-36" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="s33WEgpFiDsP0t67RrVy-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a0dafc;gradientColor=#0b2c7c;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="s33WEgpFiDsP0t67RrVy-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a0dafc;gradientColor=#0b2c7c;strokeColor=none;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="50" height="2" as="geometry" />
         </mxCell>
       </root>
