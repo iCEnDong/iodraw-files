@@ -124,9 +124,6 @@
         <mxCell id="WbQ8-HEBWySjs1XRtXDc-11" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-2">
           <mxGeometry x="255.546357615894" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
         </mxCell>
-        <mxCell id="WbQ8-HEBWySjs1XRtXDc-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-2">
-          <mxGeometry x="6.258278145695363" y="42.94736842105264" width="302.48344370860923" height="67.42105263157895" as="geometry" />
-        </mxCell>
         <mxCell id="WbQ8-HEBWySjs1XRtXDc-13" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-2">
           <mxGeometry x="261.8476821192053" y="64.42105263157895" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
