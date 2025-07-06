@@ -310,17 +310,17 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-49" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xC9h95yztVeRMsZjqq_q-8">
           <mxGeometry x="186.13" y="24.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
+        <mxCell id="xC9h95yztVeRMsZjqq_q-51" value="绝缘电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="xC9h95yztVeRMsZjqq_q-8">
+          <mxGeometry x="173.63" y="63.129999999999995" width="61" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="xC9h95yztVeRMsZjqq_q-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xC9h95yztVeRMsZjqq_q-8">
+          <mxGeometry x="241.63" y="63.849999999999966" width="13" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="xC9h95yztVeRMsZjqq_q-53" value="kΩ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="xC9h95yztVeRMsZjqq_q-8">
+          <mxGeometry x="293.37" y="67.57" width="16" height="12" as="geometry" />
+        </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-50" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="xC9h95yztVeRMsZjqq_q-7">
           <mxGeometry width="10.790134733957522" height="13.687500000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-51" value="绝缘电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="497" y="203.56" width="61" height="13" as="geometry" />
-        </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="565" y="204.27999999999997" width="13" height="13" as="geometry" />
-        </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-53" value="kΩ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="616.74" y="208" width="16" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
