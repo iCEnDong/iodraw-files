@@ -37,24 +37,6 @@
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#23A4F2;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
           <mxGeometry x="200" y="11.06" width="103.12" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-45" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;gradientDirection=east;fillColor=#000066;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
-          <mxGeometry x="100" y="53" width="50" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
-          <mxGeometry x="101" y="72" width="49" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=radial;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
-          <mxGeometry x="154" y="53" width="49" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
-          <mxGeometry x="154" y="72" width="49" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=west;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
-          <mxGeometry x="207" y="52.47999999999999" width="49" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
-          <mxGeometry x="207" y="71.47999999999999" width="49" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
           <mxGeometry x="6.259999999999991" y="93" width="302.48" height="40.05" as="geometry" />
         </mxCell>
@@ -120,6 +102,9 @@
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-36" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s33WEgpFiDsP0t67RrVy-7" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
