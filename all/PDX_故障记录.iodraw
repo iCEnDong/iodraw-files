@@ -122,7 +122,7 @@
           <mxGeometry x="335" y="355" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-34" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="625" y="390" width="70" height="25" as="geometry" />
+          <mxGeometry x="558" y="352.5" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-35" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="410" y="355" width="65" height="20" as="geometry" />
