@@ -7,20 +7,17 @@
         <mxCell id="IAMXuEEvA_U2DrzmjSrc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="331.26" y="390" width="283.74" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="IAMXuEEvA_U2DrzmjSrc-2" value="蓝色：设备配电输出正常" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="IAMXuEEvA_U2DrzmjSrc-2" value="蓝色：设备配电输出正常" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" parent="1" vertex="1">
           <mxGeometry x="395" y="409" width="215.21" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="IAMXuEEvA_U2DrzmjSrc-3" value="确认键：功能选定" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="IAMXuEEvA_U2DrzmjSrc-3" value="确认键：功能选定" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" parent="1" vertex="1">
           <mxGeometry x="394" y="392" width="215.21" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="IAMXuEEvA_U2DrzmjSrc-4" value="显示提示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="IAMXuEEvA_U2DrzmjSrc-4" value="显示提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="333.34" y="409" width="61.66" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="IAMXuEEvA_U2DrzmjSrc-5" value="操作提示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="IAMXuEEvA_U2DrzmjSrc-5" value="操作提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="333.34" y="392" width="61.66" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="cfshM0feGGVn65Dg3OtN-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="428" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
