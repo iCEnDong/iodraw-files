@@ -43,9 +43,6 @@
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="7" y="27" width="301" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-18" value="故障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="6" y="96.84" width="59" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-32" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="9" y="114.84" width="18" height="32" as="geometry" />
         </mxCell>
