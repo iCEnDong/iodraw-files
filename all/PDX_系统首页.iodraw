@@ -73,9 +73,6 @@
         <mxCell id="s33WEgpFiDsP0t67RrVy-16" value="" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" parent="1" vertex="1">
           <mxGeometry x="354.78" y="566.2" width="215.21" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="291.04" y="547.2" width="283.74" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="WbQ8-HEBWySjs1XRtXDc-31" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="300" y="620" width="315" height="204" as="geometry" />
         </mxCell>
@@ -88,23 +85,8 @@
         <mxCell id="WbQ8-HEBWySjs1XRtXDc-34" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
           <mxGeometry x="302.12377255081066" y="191.25" width="10.790134733957524" height="11.73" as="geometry" />
         </mxCell>
-        <mxCell id="WbQ8-HEBWySjs1XRtXDc-36" value="设备名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
-          <mxGeometry x="3.1291390728476816" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="WbQ8-HEBWySjs1XRtXDc-37" value="类型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
-          <mxGeometry x="91.35761589403972" y="3.221052631578947" width="33.377483443708606" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="WbQ8-HEBWySjs1XRtXDc-38" value="电压V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
-          <mxGeometry x="122.78" y="3.22" width="47.22" height="32.21" as="geometry" />
-        </mxCell>
-        <mxCell id="WbQ8-HEBWySjs1XRtXDc-39" value="电流A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
-          <mxGeometry x="170" y="3.22" width="49.04" height="32.21" as="geometry" />
-        </mxCell>
-        <mxCell id="WbQ8-HEBWySjs1XRtXDc-40" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
-          <mxGeometry x="219.03973509933772" y="3.221052631578947" width="39.63576158940397" height="32.21052631578947" as="geometry" />
-        </mxCell>
-        <mxCell id="WbQ8-HEBWySjs1XRtXDc-41" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
-          <mxGeometry x="255.546357615894" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
+        <mxCell id="OT1O4plWf7UrMRZ-p0lP-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
+          <mxGeometry x="14.590000000000032" y="150" width="283.74" height="37" as="geometry" />
         </mxCell>
         <mxCell id="WbQ8-HEBWySjs1XRtXDc-60" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-31">
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
