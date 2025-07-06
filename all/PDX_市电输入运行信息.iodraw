@@ -35,121 +35,121 @@
           <mxGeometry x="302.12377255081066" y="205.31250000000006" width="10.790134733957522" height="12.592500000000003" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑;&quot;&gt;市电输入运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="5.350000000000023" y="2.430000000000007" width="304.57" height="17.02" as="geometry" />
+          <mxGeometry x="5.350000000000023" y="5.430000000000007" width="304.57" height="17.02" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="3.1299999999999955" y="21.450000000000045" width="308.74" height="189.12" as="geometry" />
+          <mxGeometry x="3.1299999999999955" y="24.450000000000045" width="308.74" height="189.12" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="7.1299999999999955" y="23.450000000000045" width="301" height="17" as="geometry" />
+          <mxGeometry x="7.1299999999999955" y="26.450000000000045" width="301" height="17" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-14" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="114.28999999999996" width="18" height="32" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="117.28999999999996" width="18" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="28.129999999999995" y="148.6500000000001" width="219" height="20" as="geometry" />
+          <mxGeometry x="28.129999999999995" y="151.6500000000001" width="219" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="28.129999999999995" y="168.73000000000002" width="219" height="20" as="geometry" />
+          <mxGeometry x="28.129999999999995" y="171.73000000000002" width="219" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="28.129999999999995" y="188.56999999999994" width="219" height="20" as="geometry" />
+          <mxGeometry x="28.129999999999995" y="191.56999999999994" width="219" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-18" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="168.73000000000002" width="19" height="20" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="171.73000000000002" width="19" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-19" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="148.73000000000002" width="19" height="20" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="151.73000000000002" width="19" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-20" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="188.56999999999994" width="19" height="20" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="191.56999999999994" width="19" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-21" value="其他故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="248.91999999999996" y="114.45000000000005" width="61" height="16" as="geometry" />
+          <mxGeometry x="248.91999999999996" y="117.45000000000005" width="61" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="293.87" y="152.23000000000002" width="13" height="13" as="geometry" />
+          <mxGeometry x="293.87" y="155.23000000000002" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-23" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="250.13" y="151.45000000000005" width="44" height="13" as="geometry" />
+          <mxGeometry x="250.13" y="154.45000000000005" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-24" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="250.13" y="188.56999999999994" width="44" height="13" as="geometry" />
+          <mxGeometry x="250.13" y="191.56999999999994" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="293.87" y="189.3499999999999" width="13" height="13" as="geometry" />
+          <mxGeometry x="293.87" y="192.3499999999999" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-26" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="250.13" y="170.73000000000002" width="44" height="13" as="geometry" />
+          <mxGeometry x="250.13" y="173.73000000000002" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="293.87" y="171.51" width="13" height="13" as="geometry" />
+          <mxGeometry x="293.87" y="174.51" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-28" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="29.129999999999995" y="114.45000000000005" width="72" height="16" as="geometry" />
+          <mxGeometry x="29.129999999999995" y="117.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-29" value="欠压" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="102.13" y="114.45000000000005" width="72" height="16" as="geometry" />
+          <mxGeometry x="102.13" y="117.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-30" value="过流" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="175.13" y="114.45000000000005" width="72" height="16" as="geometry" />
+          <mxGeometry x="175.13" y="117.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-31" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="29.129999999999995" y="130.45000000000005" width="36" height="16" as="geometry" />
+          <mxGeometry x="29.129999999999995" y="133.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-32" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="65.63" y="130.45000000000005" width="36" height="16" as="geometry" />
+          <mxGeometry x="65.63" y="133.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-33" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="41.450000000000045" width="61" height="13" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="44.450000000000045" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-34" value="接地电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="78.57000000000005" width="61" height="13" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="81.57000000000005" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-35" value="漏电压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="60.73000000000002" width="61" height="13" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="63.73000000000002" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="77.13" y="79.28999999999996" width="13" height="13" as="geometry" />
+          <mxGeometry x="77.13" y="82.28999999999996" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="77.13" y="61.450000000000045" width="13" height="13" as="geometry" />
+          <mxGeometry x="77.13" y="64.45000000000005" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="77.13" y="42.16999999999996" width="13" height="13" as="geometry" />
+          <mxGeometry x="77.13" y="45.16999999999996" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-39" value="漏电流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="174.13" y="42.170000000000016" width="61" height="13" as="geometry" />
+          <mxGeometry x="174.13" y="45.170000000000016" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="242.13" y="42.889999999999986" width="13" height="13" as="geometry" />
+          <mxGeometry x="242.13" y="45.889999999999986" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-43" value="mA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="293.87" y="45.889999999999986" width="16" height="12" as="geometry" />
+          <mxGeometry x="293.87" y="48.889999999999986" width="16" height="12" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-45" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="6.079999999999984" y="93.29000000000002" width="301" height="17" as="geometry" />
+          <mxGeometry x="6.079999999999984" y="96.29000000000002" width="301" height="17" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-46" value="自发电输入：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="9.129999999999995" y="93.29000000000002" width="91" height="17" as="geometry" />
+          <mxGeometry x="9.129999999999995" y="96.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-47" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="187.13" y="93.29000000000002" width="91" height="17" as="geometry" />
+          <mxGeometry x="187.13" y="96.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-49" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="102.13" y="130.45000000000005" width="36" height="16" as="geometry" />
+          <mxGeometry x="102.13" y="133.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-50" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="138.63" y="130.45000000000005" width="36" height="16" as="geometry" />
+          <mxGeometry x="138.63" y="133.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-51" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="175.13" y="130.45000000000005" width="36" height="16" as="geometry" />
+          <mxGeometry x="175.13" y="133.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-52" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="211.63" y="130.45000000000005" width="36" height="16" as="geometry" />
+          <mxGeometry x="211.63" y="133.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-53" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
-          <mxGeometry x="187.13" y="23.29000000000002" width="91" height="17" as="geometry" />
+          <mxGeometry x="187.13" y="26.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
         <mxCell id="o1pGeIPbHLXDOvQSTfIg-29" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="o1pGeIPbHLXDOvQSTfIg-7">
           <mxGeometry width="10.790134733957522" height="13.687500000000004" as="geometry" />
