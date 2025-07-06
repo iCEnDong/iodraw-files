@@ -22,9 +22,6 @@
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="5.21523178807947" y="8.589473684210526" width="304.569536423841" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-7" value="设备名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
-          <mxGeometry x="3.1291390728476816" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
-        </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-8" value="类型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="91.35761589403972" y="3.221052631578947" width="33.377483443708606" height="32.21052631578947" as="geometry" />
         </mxCell>
