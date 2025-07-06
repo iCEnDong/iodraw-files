@@ -41,7 +41,7 @@
           <mxGeometry x="3" y="22" width="308.74" height="189.12" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-18" value="故障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="6" y="96.84" width="59" height="20" as="geometry" />
+          <mxGeometry x="6" y="127" width="59" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hRNuxEG93Du0CO3iZK0M-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
           <mxGeometry x="6" y="25" width="303" height="75" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="50" y="164.2" width="256" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="50" y="184.28" width="250" height="20" as="geometry" />
+          <mxGeometry x="50" y="184.28" width="256" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-36" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="9" y="184.27999999999997" width="40" height="20" as="geometry" />
