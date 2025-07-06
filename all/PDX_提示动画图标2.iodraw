@@ -13,10 +13,10 @@
         <mxCell id="p52FPePlos4Ct6lD7Dmi-3" value="复位键：短按复位故障，长按消音" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;fontFamily=微软雅黑;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="395" y="392" width="215.21" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="p52FPePlos4Ct6lD7Dmi-4" value="显示提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p52FPePlos4Ct6lD7Dmi-4" value="显示提示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="333.34" y="409" width="61.66" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="p52FPePlos4Ct6lD7Dmi-5" value="操作提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p52FPePlos4Ct6lD7Dmi-5" value="操作提示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="333.34" y="392" width="61.66" height="16" as="geometry" />
         </mxCell>
       </root>
