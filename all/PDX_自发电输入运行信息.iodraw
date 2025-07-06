@@ -41,7 +41,7 @@
           <mxGeometry x="3" y="22" width="308.74" height="189.12" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="9" y="27" width="127.88" height="21" as="geometry" />
+          <mxGeometry x="9" y="27" width="301" height="21" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-18" value="故障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="6" y="96.84" width="59" height="20" as="geometry" />
@@ -102,12 +102,6 @@
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-50" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="65.5" y="131" width="36" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-51" value="频率：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="174" y="77" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-52" value="Hz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="280" y="84" width="25.29" height="17" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-7">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
