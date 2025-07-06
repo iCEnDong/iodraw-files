@@ -104,13 +104,13 @@
           <mxGeometry x="11" y="23" width="168" height="97" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-58" value="状 态：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="17" y="27" width="60" height="30" as="geometry" />
+          <mxGeometry x="17" y="26" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-59" value="类 型：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="17" y="46.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-60" value="节点号：&amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="18" y="64.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="18" y="65.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="cehkrJD7YdUpguVaZu74-2">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
