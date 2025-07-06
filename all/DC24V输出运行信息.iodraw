@@ -76,8 +76,11 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-56" value="异常" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="197" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-57" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-57" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="233.5" y="147" width="36" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRNuxEG93Du0CO3iZK0M-4" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
+          <mxGeometry x="269.5" y="147" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="qnBX3YJsnyxySM1EMNbd-7" vertex="1">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
