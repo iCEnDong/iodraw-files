@@ -122,10 +122,10 @@
           <mxGeometry x="28" y="149.2" width="219" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="28" y="169.28" width="220" height="20" as="geometry" />
+          <mxGeometry x="28" y="169.28" width="219" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="28" y="189.12" width="213" height="20" as="geometry" />
+          <mxGeometry x="28" y="189.12" width="219" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-115" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="9" y="169.27999999999997" width="19" height="20" as="geometry" />
@@ -185,7 +185,7 @@
           <mxGeometry x="484" y="264" width="35.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-137" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="518.5" y="264" width="35.5" height="16" as="geometry" />
+          <mxGeometry x="523.5" y="264" width="35.5" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
