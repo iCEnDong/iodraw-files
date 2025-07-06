@@ -40,9 +40,6 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
           <mxGeometry x="3" y="22" width="308.74" height="189.12" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=none;fillColor=#1B73A8;gradientColor=#193754;gradientDirection=east;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
-          <mxGeometry x="11" y="23" width="168" height="77" as="geometry" />
-        </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-15" value="状&amp;nbsp; &amp;nbsp; 态：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
           <mxGeometry x="13" y="26" width="60" height="30" as="geometry" />
         </mxCell>
@@ -111,12 +108,6 @@
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-50" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
           <mxGeometry x="65.5" y="131" width="36" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-51" value="频率：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
-          <mxGeometry x="174" y="77" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-52" value="Hz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-8">
-          <mxGeometry x="280" y="84" width="25.29" height="17" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="qnBX3YJsnyxySM1EMNbd-7">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
