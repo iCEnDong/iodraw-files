@@ -22,9 +22,6 @@
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-9" value="故障记录列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="111.42" width="90.07" height="16.78" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
-          <mxGeometry x="6.258278145695363" y="42.94736842105264" width="302.48344370860923" height="67.42105263157895" as="geometry" />
-        </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-14" value="首页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="26.99768211920527" y="179.51105263157893" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
@@ -117,6 +114,9 @@
         </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-36" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="486" y="355" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qdKfhoaO3O2m9NiBm8b7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="1" vertex="1">
+          <mxGeometry x="349.99827814569534" y="449.99736842105267" width="302.48344370860923" height="67.42105263157895" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
