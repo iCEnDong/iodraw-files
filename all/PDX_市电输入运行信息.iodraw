@@ -23,19 +23,19 @@
           <mxGeometry x="550" y="614" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o1pGeIPbHLXDOvQSTfIg-7" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="313" y="403" width="315" height="218" as="geometry" />
+          <mxGeometry x="313" y="403" width="315" height="219" as="geometry" />
         </mxCell>
         <mxCell id="o1pGeIPbHLXDOvQSTfIg-8" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="o1pGeIPbHLXDOvQSTfIg-7">
-          <mxGeometry width="315" height="218.00000000000006" as="geometry" />
+          <mxGeometry width="315" height="219.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="o1pGeIPbHLXDOvQSTfIg-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6.92;gradientDirection=north;shadow=1;gradientColor=#07305E;fillColor=#1a6385;" vertex="1" parent="o1pGeIPbHLXDOvQSTfIg-8">
-          <mxGeometry width="312.91390728476813" height="216.91542288557218" as="geometry" />
+          <mxGeometry width="312.91390728476813" height="217.91044776119406" as="geometry" />
         </mxCell>
         <mxCell id="o1pGeIPbHLXDOvQSTfIg-10" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" vertex="1" parent="o1pGeIPbHLXDOvQSTfIg-8">
-          <mxGeometry x="302.12377255081066" y="204.37500000000006" width="10.790134733957522" height="12.535000000000004" as="geometry" />
+          <mxGeometry x="302.12377255081066" y="205.31250000000006" width="10.790134733957522" height="12.592500000000003" as="geometry" />
         </mxCell>
         <mxCell id="o1pGeIPbHLXDOvQSTfIg-29" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="o1pGeIPbHLXDOvQSTfIg-7">
-          <mxGeometry width="10.790134733957522" height="13.625000000000004" as="geometry" />
+          <mxGeometry width="10.790134733957522" height="13.687500000000004" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑;&quot;&gt;市电输入运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" parent="1" vertex="1">
           <mxGeometry x="292.22" y="170" width="304.57" height="17.02" as="geometry" />
