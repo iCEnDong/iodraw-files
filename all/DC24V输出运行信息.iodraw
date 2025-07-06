@@ -97,6 +97,15 @@
         <mxCell id="hRNuxEG93Du0CO3iZK0M-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=none;fillColor=#1B73A8;gradientColor=#193754;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="110" y="90.5" width="168" height="77" as="geometry" />
         </mxCell>
+        <mxCell id="hRNuxEG93Du0CO3iZK0M-5" value="状&amp;nbsp; &amp;nbsp; 态：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hRNuxEG93Du0CO3iZK0M-6" value="类&amp;nbsp; &amp;nbsp; 型：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hRNuxEG93Du0CO3iZK0M-7" value="节点号：&amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="70.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
