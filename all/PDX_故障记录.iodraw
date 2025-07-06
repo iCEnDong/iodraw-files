@@ -47,7 +47,7 @@
           <mxGeometry y="2.842170943040401e-14" width="43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-33" value="故障发生时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" vertex="1" parent="-hCblKkUK2Uyoiqfn_4M-51">
-          <mxGeometry x="43" y="2.842170943040401e-14" width="110" height="20" as="geometry" />
+          <mxGeometry x="43" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-34" value="设备名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" vertex="1" parent="-hCblKkUK2Uyoiqfn_4M-51">
           <mxGeometry x="170" width="93" height="20" as="geometry" />
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-36" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="486" y="355" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-hCblKkUK2Uyoiqfn_4M-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
