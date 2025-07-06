@@ -46,8 +46,8 @@
         <mxCell id="1JfXEZD47u_oeZDNWeVV-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;strokeColor=none;fillColor=#1B73A8;gradientColor=#193754;gradientDirection=east;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
           <mxGeometry x="11" y="23" width="168" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="1JfXEZD47u_oeZDNWeVV-15" value="状&amp;nbsp; &amp;nbsp; 态：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
-          <mxGeometry x="17" y="26" width="60" height="30" as="geometry" />
+        <mxCell id="1JfXEZD47u_oeZDNWeVV-15" value="状&amp;nbsp; &amp;nbsp;态：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
+          <mxGeometry x="12" y="26" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JfXEZD47u_oeZDNWeVV-16" value="类 型：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
           <mxGeometry x="17" y="46.5" width="60" height="30" as="geometry" />
