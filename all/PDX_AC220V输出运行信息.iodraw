@@ -56,7 +56,7 @@
           <mxGeometry x="18" y="66.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-61" value="故障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
-          <mxGeometry x="11" y="101.84" width="59" height="20" as="geometry" />
+          <mxGeometry x="6" y="96.84" width="59" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cehkrJD7YdUpguVaZu74-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="cehkrJD7YdUpguVaZu74-3">
           <mxGeometry x="179" y="23" width="127.74" height="58.84" as="geometry" />
