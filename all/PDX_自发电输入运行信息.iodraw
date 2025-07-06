@@ -118,6 +118,12 @@
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-63" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="77" y="48.71999999999997" width="13" height="13" as="geometry" />
         </mxCell>
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-64" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
+          <mxGeometry x="174" y="48.72" width="61" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
+          <mxGeometry x="242" y="49.43999999999997" width="13" height="13" as="geometry" />
+        </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-7">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
         </mxCell>
@@ -132,12 +138,6 @@
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-57" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="264" width="36" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-64" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="332" y="191" width="61" height="13" as="geometry" />
-        </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="191.71999999999997" width="13" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
