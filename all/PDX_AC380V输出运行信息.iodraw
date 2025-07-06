@@ -47,7 +47,7 @@
           <mxGeometry x="11" y="23" width="168" height="77" as="geometry" />
         </mxCell>
         <mxCell id="1JfXEZD47u_oeZDNWeVV-15" value="状&amp;nbsp; &amp;nbsp; 态：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
-          <mxGeometry x="15" y="26" width="60" height="30" as="geometry" />
+          <mxGeometry x="13" y="26" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JfXEZD47u_oeZDNWeVV-16" value="类&amp;nbsp; &amp;nbsp; 型：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1JfXEZD47u_oeZDNWeVV-8">
           <mxGeometry x="13" y="46.5" width="60" height="30" as="geometry" />
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="1JfXEZD47u_oeZDNWeVV-56" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="264" width="36" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1JfXEZD47u_oeZDNWeVV-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
