@@ -127,7 +127,7 @@
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-35" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="410" y="355" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-36" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="qdKfhoaO3O2m9NiBm8b7-36" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="486" y="355" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
