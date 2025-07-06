@@ -37,8 +37,11 @@
         <mxCell id="1cOxvqvshk1BSv7MBXcs-53" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="156.84" width="91" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-8" value="" style="group;shadow=0;direction=south;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="359.5" y="86.5" width="237" height="330" as="geometry" />
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-7" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="313" y="133" width="330" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-8" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1cOxvqvshk1BSv7MBXcs-7">
+          <mxGeometry width="330" height="237" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6.92;gradientDirection=north;shadow=1;gradientColor=#07305E;fillColor=#1a6385;" vertex="1" parent="1cOxvqvshk1BSv7MBXcs-8">
           <mxGeometry width="312.91" height="220.73529411764704" as="geometry" />
@@ -148,8 +151,8 @@
         <mxCell id="1cOxvqvshk1BSv7MBXcs-47" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1cOxvqvshk1BSv7MBXcs-8">
           <mxGeometry x="187" y="93.84" width="91" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="133" width="10.790134733957524" height="13.13804347826087" as="geometry" />
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="1cOxvqvshk1BSv7MBXcs-7">
+          <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
