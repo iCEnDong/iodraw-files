@@ -133,6 +133,9 @@
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-68" value="mA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
           <mxGeometry x="290.74" y="50.44" width="16" height="12" as="geometry" />
         </mxCell>
+        <mxCell id="EwuRHxFo8iQJgUSHYYFj-69" value="kΩ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
+          <mxGeometry x="248.74" y="69" width="16" height="12" as="geometry" />
+        </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-7">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
         </mxCell>
@@ -147,9 +150,6 @@
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-57" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="264" width="36" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="EwuRHxFo8iQJgUSHYYFj-69" value="kΩ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="604" y="201.44" width="16" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
