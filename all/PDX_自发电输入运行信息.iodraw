@@ -140,7 +140,7 @@
           <mxGeometry x="5.949999999999989" y="93.84" width="301" height="17" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-72" value="自发电输入：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-8">
-          <mxGeometry x="9" y="93.84" width="91" height="17" as="geometry" />
+          <mxGeometry x="203" y="92.84" width="91" height="17" as="geometry" />
         </mxCell>
         <mxCell id="EwuRHxFo8iQJgUSHYYFj-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="EwuRHxFo8iQJgUSHYYFj-7">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
