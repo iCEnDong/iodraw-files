@@ -8,10 +8,10 @@
           <mxGeometry x="310" y="130" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-2" value="" style="group;shadow=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="313" y="133" width="315" height="204" as="geometry" />
+          <mxGeometry x="313" y="133" width="315" height="205" as="geometry" />
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-3" value="" style="group;shadow=1;" parent="OT1O4plWf7UrMRZ-p0lP-2" vertex="1" connectable="0">
-          <mxGeometry width="315" height="204" as="geometry" />
+          <mxGeometry width="315" height="205" as="geometry" />
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6.92;gradientDirection=north;shadow=1;gradientColor=#07305E;fillColor=#1a6385;" parent="OT1O4plWf7UrMRZ-p0lP-3" vertex="1">
           <mxGeometry width="312.9139072847682" height="202.98507462686567" as="geometry" />
@@ -61,6 +61,9 @@
         <mxCell id="s33WEgpFiDsP0t67RrVy-5" value="DC24V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=right;fillColor=#dae8fc;gradientColor=#0E3AA3;strokeColor=none;gradientDirection=west;flipH=1;" vertex="1" parent="OT1O4plWf7UrMRZ-p0lP-3">
           <mxGeometry x="210.78" y="32" width="99" height="17" as="geometry" />
         </mxCell>
+        <mxCell id="s33WEgpFiDsP0t67RrVy-15" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="OT1O4plWf7UrMRZ-p0lP-3">
+          <mxGeometry x="7" y="165" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-31" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="OT1O4plWf7UrMRZ-p0lP-2" vertex="1">
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
         </mxCell>
@@ -78,9 +81,6 @@
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-36" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="s33WEgpFiDsP0t67RrVy-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
