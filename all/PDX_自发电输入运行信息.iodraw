@@ -70,16 +70,16 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="288.87" y="153.23000000000002" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-23" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=14;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-23" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="249.13" y="152.45000000000005" width="44" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-24" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=14;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-24" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="249.13" y="189.56999999999994" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="288.87" y="190.3499999999999" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-26" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=14;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-26" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="249.13" y="171.73000000000002" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
@@ -152,7 +152,7 @@
           <mxGeometry x="186.13" y="24.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-51" value="绝缘电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
-          <mxGeometry x="173.63" y="63.129999999999995" width="61" height="13" as="geometry" />
+          <mxGeometry x="171.63" y="63.129999999999995" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="234.63" y="63.849999999999966" width="13" height="13" as="geometry" />
