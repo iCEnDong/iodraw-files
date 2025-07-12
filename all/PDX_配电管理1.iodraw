@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="G3THZ1yZ0gun7CckdOId">
-    <mxGraphModel dx="875" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,16 +187,16 @@
         <mxCell id="ckTxdfvFvKNsddqfeYYc-50" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#48CCF5;fillColor=#2C7B94;gradientColor=#07305E;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="340" width="305" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-51" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=0;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-51" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=0;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="325" y="345" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-52" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-52" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="398" y="343" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-53" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-53" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="475" y="345" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-54" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-54" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
