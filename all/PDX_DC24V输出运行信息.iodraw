@@ -34,7 +34,7 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-10" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="302.12377255081066" y="209.1176470588235" width="10.790134733957524" height="13.6275" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑;&quot;&gt;DC24V输出运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 13px;&quot;&gt;DC24V输出运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;fontSize=13;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="5.22" y="2.98" width="304.57" height="17.02" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
@@ -55,10 +55,10 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="50" y="184.28" width="256" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-36" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-36" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;fontSize=13;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="9" y="184.27999999999997" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-37" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-37" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;fontSize=13;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="9" y="164.27999999999997" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-49" value="过压" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
