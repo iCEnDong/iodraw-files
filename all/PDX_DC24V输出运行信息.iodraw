@@ -104,13 +104,13 @@
           <mxGeometry x="163" y="62.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hRNuxEG93Du0CO3iZK0M-10" value="℃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="237" y="63" width="60" height="30" as="geometry" />
+          <mxGeometry x="241" y="63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hRNuxEG93Du0CO3iZK0M-11" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="237" y="42.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="241" y="42.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hRNuxEG93Du0CO3iZK0M-12" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
-          <mxGeometry x="237" y="22.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="241" y="22.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-53" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="qnBX3YJsnyxySM1EMNbd-7" vertex="1">
           <mxGeometry width="10.790134733957524" height="13.13804347826087" as="geometry" />
