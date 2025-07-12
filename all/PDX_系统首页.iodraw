@@ -70,10 +70,10 @@
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-28" value="市电输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=left;fontFamily=宋体;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="9.470000000000027" y="59.639999999999986" width="71.66" height="21.47" as="geometry" />
         </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-67" value="自发电输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=left;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
+        <mxCell id="OT1O4plWf7UrMRZ-p0lP-67" value="自发电输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=left;fontFamily=宋体;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="9.470000000000027" y="102.69000000000005" width="71.66" height="21.47" as="geometry" />
         </mxCell>
-        <mxCell id="OT1O4plWf7UrMRZ-p0lP-75" value="蓄电池输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=left;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
+        <mxCell id="OT1O4plWf7UrMRZ-p0lP-75" value="蓄电池输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=left;fontFamily=宋体;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="9.470000000000027" y="138.45999999999992" width="71.66" height="21.47" as="geometry" />
         </mxCell>
         <mxCell id="s33WEgpFiDsP0t67RrVy-23" value="操作提示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
