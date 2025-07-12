@@ -29,7 +29,7 @@
           <mxGeometry x="81.35761589403972" y="3.221052631578947" width="33.377483443708606" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-10" value="电压V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;fontSize=14;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
-          <mxGeometry x="115.77814569536423" y="3.221052631578947" width="51.109271523178805" height="32.21052631578947" as="geometry" />
+          <mxGeometry x="117.77814569536423" y="3.221052631578947" width="51.109271523178805" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-11" value="电流A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;fontSize=14;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="166.88741721854305" y="3.221052631578947" width="52.1523178807947" height="32.21052631578947" as="geometry" />
