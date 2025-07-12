@@ -140,22 +140,22 @@
           <mxGeometry x="248.79" y="115" width="61" height="16" as="geometry" />
         </mxCell>
         <mxCell id="2r3cq7nbUq3RS3-QVPFX-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
-          <mxGeometry x="293.74" y="152.78" width="13" height="13" as="geometry" />
+          <mxGeometry x="289.74" y="152.78" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="2r3cq7nbUq3RS3-QVPFX-41" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
+        <mxCell id="2r3cq7nbUq3RS3-QVPFX-41" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
           <mxGeometry x="250" y="152" width="44" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="2r3cq7nbUq3RS3-QVPFX-42" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
+        <mxCell id="2r3cq7nbUq3RS3-QVPFX-42" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
           <mxGeometry x="249.99999999999997" y="189.12" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="2r3cq7nbUq3RS3-QVPFX-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
-          <mxGeometry x="293.73999999999995" y="189.89999999999998" width="13" height="13" as="geometry" />
+          <mxGeometry x="289.73999999999995" y="189.89999999999998" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="2r3cq7nbUq3RS3-QVPFX-44" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
+        <mxCell id="2r3cq7nbUq3RS3-QVPFX-44" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
           <mxGeometry x="250" y="171.28000000000003" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="2r3cq7nbUq3RS3-QVPFX-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
-          <mxGeometry x="293.74" y="172.06" width="13" height="13" as="geometry" />
+          <mxGeometry x="289.74" y="172.06" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="2r3cq7nbUq3RS3-QVPFX-46" value="过压" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#62A2E3;" parent="2r3cq7nbUq3RS3-QVPFX-8" vertex="1">
           <mxGeometry x="29" y="115" width="72" height="16" as="geometry" />
