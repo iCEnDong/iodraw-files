@@ -19,7 +19,7 @@
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-5" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="302.12377255081066" y="191.25" width="10.790134733957524" height="11.73" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-9" value="故障记录列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
+        <mxCell id="qdKfhoaO3O2m9NiBm8b7-9" value="故障记录列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;fontSize=16;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
           <mxGeometry x="111.42" width="90.07" height="16.78" as="geometry" />
         </mxCell>
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-14" value="首页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" parent="qdKfhoaO3O2m9NiBm8b7-3" vertex="1">
