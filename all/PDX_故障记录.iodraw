@@ -85,16 +85,16 @@
         <mxCell id="qdKfhoaO3O2m9NiBm8b7-32" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#48CCF5;fillColor=#2C7B94;gradientColor=#07305E;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="350" width="305" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-33" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=0;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="qdKfhoaO3O2m9NiBm8b7-33" value="系统主页" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=0;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="335" y="355" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-34" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="qdKfhoaO3O2m9NiBm8b7-34" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;glass=1;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="558" y="352.5" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-35" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="qdKfhoaO3O2m9NiBm8b7-35" value="配电管理1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="410" y="355" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qdKfhoaO3O2m9NiBm8b7-36" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;" parent="1" vertex="1">
+        <mxCell id="qdKfhoaO3O2m9NiBm8b7-36" value="配电管理2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="486" y="355" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
