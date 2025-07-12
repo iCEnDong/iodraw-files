@@ -64,7 +64,7 @@
         <mxCell id="s33WEgpFiDsP0t67RrVy-4" value="AC220V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=0;whiteSpace=wrap;labelPosition=center;align=left;gradientDirection=north;fillColor=#DAE8FC;fontFamily=微软雅黑;fontStyle=1;fontSize=12;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="109.09000000000003" y="32.39999999999998" width="99" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="s33WEgpFiDsP0t67RrVy-5" value="DC24V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=right;fillColor=#dae8fc;gradientColor=#0E3AA3;strokeColor=none;gradientDirection=west;flipH=1;fontFamily=微软雅黑;fontStyle=1;fontSize=12;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
+        <mxCell id="s33WEgpFiDsP0t67RrVy-5" value="DC24V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;fillColor=#dae8fc;gradientColor=#0E3AA3;strokeColor=none;gradientDirection=west;flipH=1;fontFamily=微软雅黑;fontStyle=1;fontSize=12;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="211.90999999999997" y="32.39999999999998" width="99" height="17" as="geometry" />
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-28" value="市电输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
