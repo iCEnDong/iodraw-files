@@ -88,8 +88,8 @@
         <mxCell id="PnhpyHj8h6vI-Pj-tkEu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
           <mxGeometry x="263" y="51.72" width="44.25" height="37.31" as="geometry" />
         </mxCell>
-        <mxCell id="PnhpyHj8h6vI-Pj-tkEu-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;频率(Hz)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
-          <mxGeometry x="255" y="49" width="60" height="21" as="geometry" />
+        <mxCell id="PnhpyHj8h6vI-Pj-tkEu-8" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;宋体&quot;&gt;频率(Hz)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;" vertex="1" parent="WbQ8-HEBWySjs1XRtXDc-32">
+          <mxGeometry x="256" y="49" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="WbQ8-HEBWySjs1XRtXDc-60" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="WbQ8-HEBWySjs1XRtXDc-31" vertex="1">
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
