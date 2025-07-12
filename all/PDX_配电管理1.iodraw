@@ -43,7 +43,7 @@
         <mxCell id="ckTxdfvFvKNsddqfeYYc-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="6.26" y="34" width="302.48" height="67.37" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="261.8476821192053" y="56.951052631578946" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-16" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
@@ -103,7 +103,7 @@
             <mxRectangle width="48" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-29" value="AC380V输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-29" value="AC380V输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="8.344370860927151" y="58.421052631578945" width="83.44370860927152" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
@@ -166,13 +166,13 @@
             <mxRectangle width="48" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-44" value="AC220V输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-44" value="AC220V输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="8.344370860927151" y="127.9521052631579" width="83.44370860927152" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-45" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-45" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="261.8476821192053" y="173.7921052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="261.8476821192053" y="127.84210526315789" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=#36393d;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
