@@ -43,7 +43,7 @@
         <mxCell id="1cOxvqvshk1BSv7MBXcs-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="6.1299999999999955" y="24.450000000000045" width="301" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-14" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-14" value="类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="8.129999999999995" y="115.28999999999996" width="18" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="1cOxvqvshk1BSv7MBXcs-20" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="8.129999999999995" y="189.56999999999994" width="19" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-21" value="其他故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-21" value="其他故障" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="247.91999999999996" y="115.45000000000005" width="61" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
@@ -85,19 +85,19 @@
         <mxCell id="1cOxvqvshk1BSv7MBXcs-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="292.87" y="172.51" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-28" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-28" value="过压" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="28.129999999999995" y="115.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-29" value="欠压" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-29" value="欠压" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="101.13" y="115.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-30" value="过流" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-30" value="过流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="174.13" y="115.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-31" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-31" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="28.129999999999995" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-32" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-32" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="64.63" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-33" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
@@ -136,16 +136,16 @@
         <mxCell id="1cOxvqvshk1BSv7MBXcs-47" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="186.13" y="94.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-49" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-49" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="101.13" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-50" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-50" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="137.63" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-51" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-51" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="174.13" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-52" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-52" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="210.63" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-53" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
