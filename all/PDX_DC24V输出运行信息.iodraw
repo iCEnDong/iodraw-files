@@ -46,7 +46,7 @@
         <mxCell id="hRNuxEG93Du0CO3iZK0M-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;whiteSpace=wrap;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="6" y="25" width="303" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-32" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-32" value="类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="9" y="147" width="41" height="16" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
@@ -61,25 +61,25 @@
         <mxCell id="qnBX3YJsnyxySM1EMNbd-37" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="9" y="164.27999999999997" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-49" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-49" value="过压" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="51" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-50" value="过流" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-50" value="过流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="87.5" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-54" value="短路" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-54" value="短路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="124" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-55" value="过热" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-55" value="过热" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="160.5" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-56" value="异常" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-56" value="异常" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="197" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="qnBX3YJsnyxySM1EMNbd-57" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="qnBX3YJsnyxySM1EMNbd-57" value="预留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="233.5" y="147" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="hRNuxEG93Du0CO3iZK0M-4" value="预留" style="rounded=0;whiteSpace=wrap;html=1;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
+        <mxCell id="hRNuxEG93Du0CO3iZK0M-4" value="预留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
           <mxGeometry x="270.5" y="147" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="qnBX3YJsnyxySM1EMNbd-15" value="状&amp;nbsp; &amp;nbsp; 态：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qnBX3YJsnyxySM1EMNbd-8" vertex="1">
