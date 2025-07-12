@@ -100,13 +100,13 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-32" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="64.63" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-33" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-33" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="8.129999999999995" y="42.450000000000045" width="61" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-34" value="接地电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-34" value="接地电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="8.129999999999995" y="79.57000000000005" width="61" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-35" value="漏电压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-35" value="漏电压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="8.129999999999995" y="61.73000000000002" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
@@ -118,7 +118,7 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="76.13" y="43.16999999999996" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-39" value="漏电流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-39" value="漏电流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="173.13" y="43.170000000000016" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
@@ -151,7 +151,7 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-49" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="186.13" y="24.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-51" value="绝缘电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-51" value="绝缘电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="173.63" y="63.129999999999995" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
