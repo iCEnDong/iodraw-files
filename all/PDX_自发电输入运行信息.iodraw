@@ -43,7 +43,7 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="6.1299999999999955" y="24.450000000000045" width="301" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-14" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-14" value="类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="8.129999999999995" y="115.28999999999996" width="18" height="32" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-20" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A6085;strokeColor=none;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="8.129999999999995" y="189.56999999999994" width="19" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-21" value="其他故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-21" value="其他故障" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="247.91999999999996" y="115.45000000000005" width="61" height="16" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
@@ -85,19 +85,19 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="288.87" y="172.51" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-28" value="过压" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-28" value="过压" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="28.129999999999995" y="115.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-29" value="欠压" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-29" value="欠压" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="101.13" y="115.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-30" value="过流" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-30" value="过流" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="174.13" y="115.45000000000005" width="72" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-31" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-31" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="28.129999999999995" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-32" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-32" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="64.63" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-33" value="漏电自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
@@ -136,23 +136,23 @@
         <mxCell id="xC9h95yztVeRMsZjqq_q-44" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="186.13" y="94.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-45" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-45" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="101.13" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-46" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-46" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="137.63" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-47" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-47" value="告警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="174.13" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="xC9h95yztVeRMsZjqq_q-48" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
+        <mxCell id="xC9h95yztVeRMsZjqq_q-48" value="故障" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="210.63" y="131.45000000000005" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-49" value="节点号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="186.13" y="24.29000000000002" width="91" height="17" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-51" value="绝缘电阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
-          <mxGeometry x="171.63" y="63.129999999999995" width="61" height="13" as="geometry" />
+          <mxGeometry x="166.63" y="63.129999999999995" width="61" height="13" as="geometry" />
         </mxCell>
         <mxCell id="xC9h95yztVeRMsZjqq_q-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="xC9h95yztVeRMsZjqq_q-8" vertex="1">
           <mxGeometry x="234.63" y="63.849999999999966" width="13" height="13" as="geometry" />
