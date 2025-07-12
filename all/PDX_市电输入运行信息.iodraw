@@ -70,16 +70,16 @@
         <mxCell id="1cOxvqvshk1BSv7MBXcs-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="288.87" y="153.23000000000002" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-23" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-23" value="缺相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="249.13" y="152.45000000000005" width="44" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-24" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-24" value="短路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="249.13" y="189.56999999999994" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="288.87" y="190.3499999999999" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="1cOxvqvshk1BSv7MBXcs-26" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
+        <mxCell id="1cOxvqvshk1BSv7MBXcs-26" value="错相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
           <mxGeometry x="249.13" y="171.73000000000002" width="44" height="13" as="geometry" />
         </mxCell>
         <mxCell id="1cOxvqvshk1BSv7MBXcs-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="o1pGeIPbHLXDOvQSTfIg-8" vertex="1">
