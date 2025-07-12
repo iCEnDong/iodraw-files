@@ -100,6 +100,9 @@
         <mxCell id="PnhpyHj8h6vI-Pj-tkEu-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;(Hz)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="569" y="224.5" width="60" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="PnhpyHj8h6vI-Pj-tkEu-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAb5JREFUWEftlz9PwkAYxp+3mGhMXBxMNFLC6lcwMfAFjJOJLiTGVtl0chQmRxMXof4JOujgYFxdUD+BC7NQow4OOmqkd+ZAaBDaw/4BY7yt5XLP733u7u0Doc+D+qyPXw5w+DSF97cx3y4NDpWwNP7caR1nB4R49aPkW1wsQHQGLTr/M4DduwQikSKAK58Qidoaupr0BsB5FiuxjGcIw+R/FGCvHAejVIsznZwKzQHDPAGw8AXwClhJ6PHbtq0KBcB4mAWsi6YY5+tgzBZPx+2DGzhA/nEYVL0EMN1WLWERmnra8j54gIp9I4g2m2KkpKBNHvdmC4RKvrIGou2aINEytOhBx6sauAMNFcM8BzAHIA1dzTn2iRABXiC2QIvuuDapUAAyXMGEuQE9tiXtkKEA5MwZrKo3UnExIQCAIzBWaIpFBkRvt4dVdc8UilIEkY+PUVdlSif5AOC8DKKyVMJ5QsifY5EbGkO04O/PAZwB9zxgmCK02FXWBQHLSkIA9Qig7oFIPXUgAZDtDYDscATiAGPec2EjV3rOhLIKu/vdwzXcvx8F5wVwjHSn4TKL82unYPvL/xn5Ll2+wL8DnxggKjC8txhlAAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="32" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
