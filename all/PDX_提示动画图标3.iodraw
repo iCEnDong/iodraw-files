@@ -7,10 +7,10 @@
         <mxCell id="8RAH-M7lXmXvQhUODDp6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="331.26" y="390" width="283.74" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="8RAH-M7lXmXvQhUODDp6-2" value="黄色：设备告警" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;fontFamily=微软雅黑;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8RAH-M7lXmXvQhUODDp6-2" value="黄色：设备告警" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="395" y="409" width="215.21" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="8RAH-M7lXmXvQhUODDp6-3" value="翻页键：短按页面切换，长按退出" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;fontStyle=1;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="8RAH-M7lXmXvQhUODDp6-3" value="翻页键：短按页面切换，长按退出" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;fontStyle=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="395" y="392" width="215.21" height="16" as="geometry" />
         </mxCell>
         <mxCell id="8RAH-M7lXmXvQhUODDp6-4" value="显示提示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
