@@ -55,7 +55,7 @@
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#23A4F2;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="201.13" y="11.460000000000036" width="103.12" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="s33WEgpFiDsP0t67RrVy-3" value="AC380V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;fillColor=#9AA4B3;gradientColor=#0D3494;strokeColor=none;gradientDirection=west;fontFamily=微软雅黑;fontStyle=1;fontSize=13;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
+        <mxCell id="s33WEgpFiDsP0t67RrVy-3" value="AC380V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;fillColor=#A3AEBD;gradientColor=#0D3494;strokeColor=none;gradientDirection=west;fontFamily=微软雅黑;fontStyle=1;fontSize=13;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="2.3500000000000227" y="32.39999999999998" width="99" height="17" as="geometry" />
         </mxCell>
         <mxCell id="s33WEgpFiDsP0t67RrVy-4" value="AC220V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=0;whiteSpace=wrap;labelPosition=center;align=left;gradientDirection=north;fillColor=#DAE8FC;fontFamily=微软雅黑;fontStyle=1;fontSize=13;gradientColor=#0E3AA3;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
