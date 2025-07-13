@@ -4,21 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sZRuTjKKAkURWICLGfsw-1" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="313" y="133" width="187" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="sZRuTjKKAkURWICLGfsw-2" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="sZRuTjKKAkURWICLGfsw-1">
-          <mxGeometry width="187" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="sZRuTjKKAkURWICLGfsw-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6.92;gradientDirection=north;shadow=1;gradientColor=#07305E;fillColor=#1a6385;" vertex="1" parent="sZRuTjKKAkURWICLGfsw-2">
-          <mxGeometry width="185.7615894039735" height="126.3681592039801" as="geometry" />
-        </mxCell>
-        <mxCell id="sZRuTjKKAkURWICLGfsw-4" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" vertex="1" parent="sZRuTjKKAkURWICLGfsw-2">
-          <mxGeometry x="179.35601735556062" y="119.0625" width="6.405572048412879" height="7.3025" as="geometry" />
-        </mxCell>
-        <mxCell id="sZRuTjKKAkURWICLGfsw-47" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="sZRuTjKKAkURWICLGfsw-1">
-          <mxGeometry width="6.405572048412879" height="7.9375" as="geometry" />
-        </mxCell>
         <mxCell id="sZRuTjKKAkURWICLGfsw-49" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.85;size=10;position=0.77;base=10;strokeColor=#6c8ebf;fillColor=#07305E;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="313" y="280" width="180" height="120" as="geometry" />
         </mxCell>
