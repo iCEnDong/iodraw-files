@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sZRuTjKKAkURWICLGfsw-49" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.85;size=10;position=0.77;base=10;strokeColor=#6c8ebf;fillColor=#07305E;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="313" y="280" width="180" height="120" as="geometry" />
+          <mxGeometry x="313" y="280" width="179" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sZRuTjKKAkURWICLGfsw-50" value="注意" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="373" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sZRuTjKKAkURWICLGfsw-51" value="配置更改中." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="sZRuTjKKAkURWICLGfsw-51" value="配置更改中." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="318" y="325" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
