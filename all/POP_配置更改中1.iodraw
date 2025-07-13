@@ -10,7 +10,7 @@
         <mxCell id="sZRuTjKKAkURWICLGfsw-50" value="注意" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="373" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sZRuTjKKAkURWICLGfsw-51" value="配置更改中.." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="sZRuTjKKAkURWICLGfsw-51" value="配置更改中..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="318" y="325" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
