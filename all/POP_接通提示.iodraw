@@ -10,7 +10,7 @@
         <mxCell id="5x3MFXzzuRPYr_M0eIeL-2" value="提示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="373" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5x3MFXzzuRPYr_M0eIeL-3" value="接通按键为自锁类型按键，按下时为接通状态，如果没有正常输出请根据详情页或者故障历史记录排除故障。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="5x3MFXzzuRPYr_M0eIeL-3" value="&lt;font color=&quot;#3399ff&quot;&gt;接通&lt;/font&gt;/&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;关断&lt;/font&gt;&lt;/span&gt;按键为自锁类型按键，按下时为接通状态，如果没有正常输出请根据详情页或者故障历史记录排除故障。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="318" y="300" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
