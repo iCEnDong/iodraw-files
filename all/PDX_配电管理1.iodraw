@@ -43,9 +43,6 @@
         <mxCell id="ckTxdfvFvKNsddqfeYYc-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="6.26" y="34" width="302.48" height="67.37" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
-          <mxGeometry x="261.8476821192053" y="56.951052631578946" width="44.85099337748344" height="21.47368421052632" as="geometry" />
-        </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-16" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="93.87417218543045" y="35.94736842105264" width="125.16556291390728" height="64.42105263157895" as="geometry" />
         </mxCell>
@@ -198,6 +195,9 @@
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-54" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="649.9976821192053" y="191.42105263157896" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
