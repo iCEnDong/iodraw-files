@@ -10,7 +10,7 @@
         <mxCell id="YuRelSSzV119eF3MfuDj-2" value="警告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="373" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YuRelSSzV119eF3MfuDj-3" value="复位前请确认:&lt;br&gt;①断开所有输出&lt;div&gt;②所有故障已经排除&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="YuRelSSzV119eF3MfuDj-3" value="复位前请确认:&lt;br&gt;①所有输出已经断开&lt;div&gt;②所有故障已经排除&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="318" y="300" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
