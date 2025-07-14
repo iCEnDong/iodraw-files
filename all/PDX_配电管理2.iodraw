@@ -109,6 +109,15 @@
         <mxCell id="UR3ZgjKgTBCkNXOTUaun-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1E7299;" vertex="1" parent="O9z92F1vkBe3yt5MXpO8-3">
           <mxGeometry x="261.8399999999999" y="35.43000000000001" width="50" height="156" as="geometry" />
         </mxCell>
+        <mxCell id="UR3ZgjKgTBCkNXOTUaun-2" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" vertex="1" parent="O9z92F1vkBe3yt5MXpO8-3">
+          <mxGeometry x="264.4176821192052" y="48.43105263157898" width="44.85099337748344" height="21.47368421052632" as="geometry" />
+        </mxCell>
+        <mxCell id="UR3ZgjKgTBCkNXOTUaun-3" value="关断" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" vertex="1" parent="O9z92F1vkBe3yt5MXpO8-3">
+          <mxGeometry x="264.4076821192052" y="104.8021052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
+        </mxCell>
+        <mxCell id="UR3ZgjKgTBCkNXOTUaun-4" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" vertex="1" parent="O9z92F1vkBe3yt5MXpO8-3">
+          <mxGeometry x="264.4076821192052" y="167.4321052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
+        </mxCell>
         <mxCell id="O9z92F1vkBe3yt5MXpO8-48" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="O9z92F1vkBe3yt5MXpO8-2" vertex="1">
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
         </mxCell>
@@ -126,15 +135,6 @@
         </mxCell>
         <mxCell id="O9z92F1vkBe3yt5MXpO8-53" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UR3ZgjKgTBCkNXOTUaun-2" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="682.5776821192052" y="185.00105263157897" width="44.85099337748344" height="21.47368421052632" as="geometry" />
-        </mxCell>
-        <mxCell id="UR3ZgjKgTBCkNXOTUaun-3" value="关断" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="682.5676821192052" y="241.3721052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
-        </mxCell>
-        <mxCell id="UR3ZgjKgTBCkNXOTUaun-4" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="682.5676821192052" y="304.0021052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
