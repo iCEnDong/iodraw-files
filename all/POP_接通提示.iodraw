@@ -10,8 +10,8 @@
         <mxCell id="5x3MFXzzuRPYr_M0eIeL-2" value="提示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="373" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5x3MFXzzuRPYr_M0eIeL-3" value="配置更改中&lt;font style=&quot;font-size: 26px;&quot;&gt;.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="318" y="300" width="170" height="54.5" as="geometry" />
+        <mxCell id="5x3MFXzzuRPYr_M0eIeL-3" value="接通按键为自锁类型按键，按下时为接通状态，如果没有正常输出请根据详情页或者故障历史记录排除故障后复位。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="318" y="300" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
