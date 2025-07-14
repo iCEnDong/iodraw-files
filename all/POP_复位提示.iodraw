@@ -7,7 +7,7 @@
         <mxCell id="GUPrRasbHkIsE-yiLKAj-1" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.85;size=10;position=0.77;base=10;strokeColor=#6c8ebf;fillColor=#07305E;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="313" y="280" width="179" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="GUPrRasbHkIsE-yiLKAj-2" value="注意" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="GUPrRasbHkIsE-yiLKAj-2" value="注意" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="373" y="280" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUPrRasbHkIsE-yiLKAj-3" value="&lt;font color=&quot;#3399ff&quot;&gt;复位&lt;/font&gt;按键可用于在故障排除后恢复系统的配电功能。&lt;font color=&quot;#ff8000&quot;&gt;为确保安全，在按下复位前，请确认所有输出已断开。&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
