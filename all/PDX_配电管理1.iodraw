@@ -175,6 +175,9 @@
         <mxCell id="QAfgygICX60SZuLbmT1d-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1A6385;" vertex="1" parent="ckTxdfvFvKNsddqfeYYc-4">
           <mxGeometry x="261.84" y="34" width="50" height="156" as="geometry" />
         </mxCell>
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
+          <mxGeometry x="264.4176821192052" y="47.00105263157897" width="44.85099337748344" height="21.47368421052632" as="geometry" />
+        </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-49" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" parent="ckTxdfvFvKNsddqfeYYc-3" vertex="1">
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
         </mxCell>
@@ -192,9 +195,6 @@
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-54" value="故障记录" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#07325a;fontColor=#FFFFFF;fillColor=#23A4F2;gradientDirection=north;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="345" width="65" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="669.9976821192053" y="180.00105263157897" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="649.9976821192053" y="259.3221052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
