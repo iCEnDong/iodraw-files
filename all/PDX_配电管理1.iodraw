@@ -41,7 +41,7 @@
           <mxGeometry x="255.546357615894" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
-          <mxGeometry x="6.26" y="34" width="302.48" height="67.37" as="geometry" />
+          <mxGeometry x="6.26" y="34" width="253.74" height="67.37" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-16" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="93.87417218543045" y="35.94736842105264" width="125.16556291390728" height="64.42105263157895" as="geometry" />
@@ -169,9 +169,6 @@
         <mxCell id="ckTxdfvFvKNsddqfeYYc-45" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="261.8476821192053" y="173.7921052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
-          <mxGeometry x="261.8476821192053" y="127.84210526315789" width="44.85099337748344" height="21.47368421052632" as="geometry" />
-        </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=#36393d;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="220.53" y="40.269999999999996" width="38.15" height="54.84" as="geometry" />
         </mxCell>
@@ -198,6 +195,9 @@
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="649.9976821192053" y="191.42105263157896" width="44.85099337748344" height="21.47368421052632" as="geometry" />
+        </mxCell>
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="649.9976821192053" y="259.3221052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
