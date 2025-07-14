@@ -178,7 +178,7 @@
         <mxCell id="ckTxdfvFvKNsddqfeYYc-15" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="264.4176821192052" y="47.00105263157897" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="关断" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="264.4076821192052" y="103.37210526315788" width="44.85099337748344" height="21.47368421052632" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-45" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
