@@ -166,9 +166,6 @@
         <mxCell id="ckTxdfvFvKNsddqfeYYc-44" value="AC220V输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="8.344370860927151" y="127.9521052631579" width="83.44370860927152" height="21.47368421052632" as="geometry" />
         </mxCell>
-        <mxCell id="ckTxdfvFvKNsddqfeYYc-45" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
-          <mxGeometry x="261.8476821192053" y="173.7921052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
-        </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=#36393d;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="220.53" y="40.269999999999996" width="38.15" height="54.84" as="geometry" />
         </mxCell>
@@ -198,6 +195,12 @@
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-46" value="接通" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="649.9976821192053" y="259.3221052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
+        </mxCell>
+        <mxCell id="ckTxdfvFvKNsddqfeYYc-45" value="复位" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#183552;fontColor=#FFFFFF;fillColor=#5995AB;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="659.9976821192053" y="303.7421052631579" width="44.85099337748344" height="21.47368421052632" as="geometry" />
+        </mxCell>
+        <mxCell id="QAfgygICX60SZuLbmT1d-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="365" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
