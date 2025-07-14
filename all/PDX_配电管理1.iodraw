@@ -35,10 +35,10 @@
           <mxGeometry x="166.88741721854305" y="3.221052631578947" width="52.1523178807947" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-12" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;fontSize=14;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
-          <mxGeometry x="219.03973509933772" y="3.221052631578947" width="39.63576158940397" height="32.21052631578947" as="geometry" />
+          <mxGeometry x="215.90973509933772" y="3.221052631578947" width="39.63576158940397" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-13" value="操作提示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=微软雅黑;fontSize=14;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
-          <mxGeometry x="255.546357615894" y="3.221052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
+          <mxGeometry x="250.326357615894" y="3.741052631578947" width="62.58278145695364" height="32.21052631578947" as="geometry" />
         </mxCell>
         <mxCell id="ckTxdfvFvKNsddqfeYYc-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="ckTxdfvFvKNsddqfeYYc-4" vertex="1">
           <mxGeometry x="6.26" y="34" width="302.48" height="67.37" as="geometry" />
