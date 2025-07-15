@@ -7,7 +7,7 @@
         <mxCell id="cqQw84fOvQMsAFJJudEo-1" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.85;size=10;position=0.77;base=10;strokeColor=#6c8ebf;fillColor=#b0f2f3;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="313" y="280" width="179" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="cqQw84fOvQMsAFJJudEo-2" value="提示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="cqQw84fOvQMsAFJJudEo-2" value="提示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="373" y="280" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cqQw84fOvQMsAFJJudEo-3" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#3399ff&quot;&gt;接通&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;/&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffff33&quot;&gt;关断&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;按键为自锁类型按键，按下时为接通状态，如果没有正常输出请根据详情页或者故障历史记录排除故障。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
