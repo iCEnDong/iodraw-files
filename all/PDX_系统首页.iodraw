@@ -35,7 +35,7 @@
           <mxGeometry x="302.12377255081066" y="191.25" width="10.790134733957524" height="11.73" as="geometry" />
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
-          <mxGeometry x="10" y="4" width="300.91" height="25.46" as="geometry" />
+          <mxGeometry x="10" y="3" width="300.91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="2.3899999999999864" y="93.39999999999998" width="308" height="40.05" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="129.13" y="4.399999999999977" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OT1O4plWf7UrMRZ-p0lP-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#23A4F2;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
-          <mxGeometry x="201.13" y="11.460000000000036" width="103.12" height="16" as="geometry" />
+          <mxGeometry x="201.13" y="8.460000000000036" width="103.12" height="19" as="geometry" />
         </mxCell>
         <mxCell id="s33WEgpFiDsP0t67RrVy-3" value="AC380V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;fillColor=#CBD8EB;gradientColor=#0D3494;strokeColor=none;gradientDirection=west;fontFamily=微软雅黑;fontStyle=1;fontSize=13;" parent="WbQ8-HEBWySjs1XRtXDc-32" vertex="1">
           <mxGeometry x="2.3500000000000227" y="32.39999999999998" width="99" height="17" as="geometry" />
