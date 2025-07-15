@@ -44,16 +44,16 @@
           <mxGeometry x="0.2599999999999909" width="309.74" height="145" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-32" value="序号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;fontSize=14;" parent="-hCblKkUK2Uyoiqfn_4M-51" vertex="1">
-          <mxGeometry y="-8.999999999999972" width="43" height="20" as="geometry" />
+          <mxGeometry y="2.842170943040401e-14" width="43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-33" value="故障发生时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;fontSize=14;" parent="-hCblKkUK2Uyoiqfn_4M-51" vertex="1">
-          <mxGeometry x="43" y="-9" width="127" height="20" as="geometry" />
+          <mxGeometry x="43" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-34" value="设备名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;fontSize=14;" parent="-hCblKkUK2Uyoiqfn_4M-51" vertex="1">
-          <mxGeometry x="170" y="-9" width="93" height="20" as="geometry" />
+          <mxGeometry x="170" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-37" value="类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62A2E3;fontSize=14;" parent="-hCblKkUK2Uyoiqfn_4M-51" vertex="1">
-          <mxGeometry x="263" y="-8.999999999999972" width="47" height="20" as="geometry" />
+          <mxGeometry x="263" y="2.842170943040401e-14" width="47" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-hCblKkUK2Uyoiqfn_4M-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#244F79;strokeColor=none;" parent="-hCblKkUK2Uyoiqfn_4M-51" vertex="1">
           <mxGeometry y="19.99999999999997" width="310" height="16" as="geometry" />
