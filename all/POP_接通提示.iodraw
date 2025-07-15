@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_W6-4QP4mrDUiClMSR1u">
-    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="cqQw84fOvQMsAFJJudEo-3" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#3399ff&quot;&gt;接通&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;/&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffff33&quot;&gt;关断&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;按键为自锁类型按键，按下时为接通状态，如果没有正常输出请根据详情页或者故障历史记录排除故障。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="319" y="305" width="168" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nW9iB8zxUjyoat8rnOU8-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABN1JREFUWEftlmtsFFUUx/9nZne7LS3N7iK0gMWaPgShrVgoD0VSRALEaJps5APGKHRmTYwB9JOJofjFEKVVpO3cWRFQFLSibIxGE/oIFqHSSKAItIs8C7Ut3c229rm7c3WIxNLOPsAPfOF+mznn/O/vnnvuuZdwjwfd4/lxH+B/ZUCW5VlhUeSB7u62mpqa8N1s5x0BlLpcLxKwDJo2G0SzAST8O2kIQAuIzkLTvKqqlsULExeAs6zMYuvo2ApgA4CDHDgtACeIqCkUCoUEQcjnRHlElAfOSwC0aUSbPlaUhlggMQHWu1xLBc7rAbRzovVuRflJF53+VXmi1Wqdj7CWAQFmkdAT4vT7su9PpkEQysH5PHBeoarqpmgQUQFKXa41xPk+DnzqZuwlXSjn2+3zuSDqmVgDGJ6iU5xztfiHU5kgegPABypjGyNBRASQJCkJRP0AalXGntYFsjyVm/8JiHN/6ee5x84fTPX1b+OaNt/tdh83gogG4AHREypjDj0w21NVBfBXx4rYL3fBMjCCfkcK+ianjjFTx6K6M8cShoKZfp+v0OikGAKUulyvEOc7OdHLbkXZne2pfBvAO0YryGxqheNCJy4V5eDGw2njXCzDQe/iunNmAAdURXlzrIMhgCzLewEkMcZKsjzVjxG03yLtYXrLJST3/IWu3KkIpNsN3XJOX/tl2pWeSSpjuXEBSLLcCs6/UFV1S7Znx26Abhbg2CGOBDHFex3XH50R9bQ5uvqQ13wRoiDYq6ur/aOdx2VAkqQMEF3mRCVuRTmY7anUCzFx3N5f6caDzedhHg7i4oJH0JM5OSKEZTiIxbVn9SOziDF2NCqALMslHDgAzrMaVs52cEFsMppc/2e70g3b1Ru4uCAXPZlTombhyUNnBswjodcYY7tiZWADiCpMophyaOWc5VzTvomkXLjv8E3TyeeKEEy61ZWNvYsOt/Yn9Q1tUVX1vVgARSA6xjVtcf2q/Okk0JdGkildAeTWnkT/pIk4u7wg6up149IfWzRB488zxr6LCuB0Oi02uz1AwMaG1QVtGtdqjdQzms9jsvc6/pyVgfb8h6ICpPQOorDRq9dADmPMGxVAN0qyfIgD3roVBZsFUes0Ui/4+ghMwTDaiufANByCL+OBiBDp7X5kn24f2lmtjCtmwz4gSdL7IHoGnK+oX52/H8CS0eq30j+Ukghr3yBal+UbdMH/ImaeuopJnb0tn+yoyourD6xbt26GaDI16vVVtypvHwF6Y7ptzDjuhSYKCKTZ0DvVuAHpAWntfugA4LxYVVX9Vr1tRLwLZFley4HPwHlZ/ar8x0F4NmaljXGwDo5gYf05+O0TymveLddvxnEj6nUsyTLTS2JggsXV9NTM1wE+K16IVH8/5h79A8NWy6U9H36UGSku5oNEkuUK/SUUSjDt/3VRdtZworkwFkRuSzumXvUhaDZ17tpROf6GGiUQE0D3LS0tnUeCoAJI7Zhmv9CdPnFJwJZkDplNN6XEsIbk3kEk9w1hyjU/Uv0DGEhO+Hzvtu1rY8HGBaCLOJ1O0eZwbAXnL+gvMv3fiMUUCAskJg4Fk/XvsEADYVFotoa0txRFORJrct0eN8BoMUmS5nKiBQQs5IAGokaB8xM+n+/EnT7P7wognpXF63Mf4J5n4G/DrtMw6pM/CQAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
