@@ -100,7 +100,7 @@
         <mxCell id="gOiWBLEAGfHLHMK2flx0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1000" width="350" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="gOiWBLEAGfHLHMK2flx0-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gOiWBLEAGfHLHMK2flx0-2" value="屏幕可能出现的问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="1000" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
