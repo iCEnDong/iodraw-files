@@ -16,10 +16,10 @@
         <mxCell id="18fFX71KvzWUdTNbRBK--4" value="幕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="315" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="18fFX71KvzWUdTNbRBK--5" value="化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="18fFX71KvzWUdTNbRBK--5" value="故" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="399" y="315" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="18fFX71KvzWUdTNbRBK--6" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="18fFX71KvzWUdTNbRBK--6" value="障" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="420" y="315" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
