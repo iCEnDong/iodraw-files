@@ -103,11 +103,8 @@
         <mxCell id="gOiWBLEAGfHLHMK2flx0-2" value="屏幕需要注意的问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="1000" width="350" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gOiWBLEAGfHLHMK2flx0-3" value="1.错位：当界面切换失败时可能会导致屏幕的显示界面和正在运行的代码逻辑不一致。&lt;div&gt;2.损坏：屏幕实际上已经损毁，虽然逻辑中不涉及对配电箱的操作，但应加以限制，如屏幕没有响应时判断为离线-》丢弃按键操作。&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="238" y="1220" width="350" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="gOiWBLEAGfHLHMK2flx0-6" value="4.上电：如果核心板一直在运行，但是屏幕意外掉电，此时会导致屏幕显示为默认第一页，同样可能造成错位，所有在心跳函数中应当检查。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1150" width="350" height="50" as="geometry" />
+        <mxCell id="gOiWBLEAGfHLHMK2flx0-3" value="1.错位：当界面切换失败时可能会导致屏幕的显示界面和正在运行的代码逻辑不一致。&lt;div&gt;&lt;br&gt;&lt;div&gt;2.损坏：屏幕实际上已经损毁，虽然逻辑中不涉及对配电箱的操作，但应加以限制，如屏幕没有响应时判断为离线-》丢弃按键操作。&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.息屏：在设计方案中有提到，在按下电源键前，屏幕应当保持息屏状态，同样的此时应-》丢弃按键操作。&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.上电：如果核心板一直在运行，但是屏幕意外掉电，此时会导致屏幕显示为默认第一页，同样可能造成错位，所有在心跳函数中应当检查。&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1070" width="350" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
