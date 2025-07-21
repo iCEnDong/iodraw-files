@@ -101,7 +101,10 @@
           <mxGeometry x="220" y="1000" width="350" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gOiWBLEAGfHLHMK2flx0-2" value="屏幕可能出现的问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1000" width="350" height="40" as="geometry" />
+          <mxGeometry x="220" y="1000" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gOiWBLEAGfHLHMK2flx0-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
