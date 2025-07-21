@@ -103,8 +103,8 @@
         <mxCell id="gOiWBLEAGfHLHMK2flx0-2" value="屏幕需要注意的问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="990" width="350" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gOiWBLEAGfHLHMK2flx0-3" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1020" width="350" height="170" as="geometry" />
+        <mxCell id="gOiWBLEAGfHLHMK2flx0-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1010" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
