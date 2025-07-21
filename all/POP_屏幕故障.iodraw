@@ -20,7 +20,7 @@
           <mxGeometry x="420" y="315" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q6NN1xoSpvysT-oyrukZ-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAArJJREFUWEfFl0FPE1EUhc+doUONO/uqwQQjLORH2EAMJLCAxHSKG1cGFrCABBZuwR8gJLCARImuXEhfYwILSCAqqRv/AYlBE6JEO3VhYmxf6VwzRZFB2pl5QLibppm553w9777OG8IFF12wP7QBKlJMMTAIoMQuVpsHnWmdH6MFoKQYBvDEb8gPLLv4PCpEZIDSS9FhNiHPDHHUjAhOdR+p+D1nOwpEZAAlxVMAQ3VMlizb8dIJXZEA9nOi32WsNFI3CANNaWc1LEEkACXFWwCdAeJblu10nTmAyokJMGZ86854yMQFgJ75DAmTVtqZDQMRKoGSvNZuoppnoOWoqGU7tX4lBfvAgL0qzFTc/roTBBEKQGXFAggjx8XqAdTuYyxaGWf01ACV7NVeJnftJKGGAACIjb5Y5tt6I4jABCo5scGMbi0AwmYs7fRoAyiZHAN4rp5AUAIHfTRu2YX5ehp1E+BXV1pV1XhHQOtpABjYtUz3Nt39vnuSTl0AJRNzAI01ii9cArWJnLfs4nhogF/LiW7ToI2gCQ4PAFRd7rk0WNw8rnliAmWZWCNQ71kCMHi92S72BQKonBgBYyHI3LseJYGDecSolXYWj/1p/fv6U4qWGJAH0H4uAMBOBUhdtp29v/q+JVBZMQPCRBhz756qizvep2ngddgeMGatjDP5H0BFJjsZ7D3tzr0I1BWzC1sHq/KnylmxQoT+c3f3NiVjtTnjDBwCKJkcAtg76UQqrSU4dKBhyy4s0Y8X10U8rvJgdERy19kF/vHfLpWsFFWyYpIJj6Oa14bQ2G8zXTMJ0HudfnbxiJRMfATopo4AwJ8YpAi4pdNPhC9UlmJbV0DH1NdDeEPlZTFNBqZOLaYhwMD92jasQZjUBvANDZ3oLYwP7OKz9zoXeCKKrh6t48IBfgOgrQBfDXxxoQAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="30" height="30" as="geometry" />
+          <mxGeometry x="340" y="320" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
