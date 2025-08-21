@@ -14,25 +14,28 @@
           <mxGeometry x="20" y="60" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-4" value="应答解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="110" width="260" height="20" as="geometry" />
+          <mxGeometry x="80" y="110" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-6" value="固定标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-7" value="5a5a5a5a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="130" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-9" value="消息ID（大端）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-10" value="8001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="170" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="170" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-11" value="消息体属" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-12" value="8001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
