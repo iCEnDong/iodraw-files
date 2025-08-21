@@ -28,6 +28,12 @@
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-10" value="8001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-11" value="消息ID（大端）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-12" value="8001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
