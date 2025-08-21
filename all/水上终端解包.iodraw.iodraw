@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="110" width="260" height="370" as="geometry" />
+          <mxGeometry x="80" y="110" width="300" height="370" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-2" value="5a5a5a5a 0003 0000 000000000321 0015 34" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="30" width="310" height="30" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-7" value="5a5a5a5a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="130" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-9" value="消息ID（大端）2B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-9" value="消息ID（大端）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-10" value="8001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
