@@ -8,10 +8,10 @@
           <mxGeometry x="80" y="110" width="300" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-2" value="5a5a5a5a 0003 0000 000000000321 0015 34" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="30" width="310" height="30" as="geometry" />
+          <mxGeometry x="60" y="40" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-3" value="&lt;div&gt;5a5a5a5a 8001 0005 ffffffff0000 0000 0015 0003 00 92&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="60" width="310" height="30" as="geometry" />
+          <mxGeometry x="70" y="70" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-4" value="应答解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="300" height="20" as="geometry" />
@@ -94,7 +94,7 @@
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-32" value="1B" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="450" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-33" value="00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-33" value="92" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="450" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
