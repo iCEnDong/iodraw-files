@@ -55,10 +55,10 @@
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-19" value="流水号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-20" value="6B" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-20" value="2B" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-21" value="ff ff ff ff 00 00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-21" value="00 00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
