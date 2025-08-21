@@ -88,6 +88,15 @@
         <mxCell id="PhwdCJ1iAQdeIqXrLq3I-30" value="00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="410" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-31" value="结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-32" value="1B" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhwdCJ1iAQdeIqXrLq3I-33" value="00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
