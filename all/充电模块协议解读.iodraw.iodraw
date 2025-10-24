@@ -115,7 +115,7 @@
         <mxCell id="lvWCb9lBv0xQQxIN1L3U-40" value="SA(源地址)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="560" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lvWCb9lBv0xQQxIN1L3U-41" value="CAN ID组成 一个方形为1bit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-41" value="CAN ID组成(一个方形为1bit)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
