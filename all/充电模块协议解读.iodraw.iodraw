@@ -7,6 +7,9 @@
         <mxCell id="lvWCb9lBv0xQQxIN1L3U-1" value="1.帧格式: CAN2.0B (扩展帧) J1939风格&lt;div style=&quot;font-size: 16px;&quot;&gt;2.波特率: 125kbps&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="460" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="390" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
