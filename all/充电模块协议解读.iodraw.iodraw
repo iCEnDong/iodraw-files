@@ -88,6 +88,33 @@
         <mxCell id="lvWCb9lBv0xQQxIN1L3U-31" value="PS(PDU特定 目标地址)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="490" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-35" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-40" value="PS(PDU特定 目标地址)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
