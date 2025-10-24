@@ -58,7 +58,7 @@
         <mxCell id="lvWCb9lBv0xQQxIN1L3U-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lvWCb9lBv0xQQxIN1L3U-22" value="P(优先级)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-22" value="PF(PDU格式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
