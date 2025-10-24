@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="200" width="460" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lvWCb9lBv0xQQxIN1L3U-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="260" height="290" as="geometry" />
+          <mxGeometry x="260" y="290" width="260" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lvWCb9lBv0xQQxIN1L3U-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="20" height="20" as="geometry" />
@@ -112,7 +112,7 @@
         <mxCell id="lvWCb9lBv0xQQxIN1L3U-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="530" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lvWCb9lBv0xQQxIN1L3U-40" value="PS(PDU特定 目标地址)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lvWCb9lBv0xQQxIN1L3U-40" value="SA(源地址)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="560" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
