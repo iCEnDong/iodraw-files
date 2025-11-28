@@ -10,7 +10,7 @@
         <mxCell id="3po8CZ2y1jRPwJUNFDFw-2" value="明确离线版功能职责:&lt;div style=&quot;font-size: 20px;&quot;&gt;1.设备系统参数的设置与查询&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;2.设备信息展示&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;3.AIS/VHF参数查询和设置&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;4.白名单设置与查询&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;5.虚拟航标设置与查询&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;6.预警区设置与查询&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;7.实时通讯&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;8.预警信息&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;9.轨迹信息&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;10.地图相关(测量 POI)&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;11.日志&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;12.升级&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-280" y="230" width="270" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="3po8CZ2y1jRPwJUNFDFw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3po8CZ2y1jRPwJUNFDFw-3" value="水上终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
