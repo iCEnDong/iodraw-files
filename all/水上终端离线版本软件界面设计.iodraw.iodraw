@@ -7,7 +7,7 @@
         <mxCell id="3po8CZ2y1jRPwJUNFDFw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="110" width="1020" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="3po8CZ2y1jRPwJUNFDFw-2" value="明确离线版功能职责:" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3po8CZ2y1jRPwJUNFDFw-2" value="明确离线版功能职责:&lt;div&gt;1.设备系统参数的设置与查询&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="-290" width="610" height="130" as="geometry" />
         </mxCell>
       </root>
