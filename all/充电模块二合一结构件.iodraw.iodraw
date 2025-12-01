@@ -22,6 +22,9 @@
         <mxCell id="viA3d5-YG2UxqyHncyts-8" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="570" y="410" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="viA3d5-YG2UxqyHncyts-9" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
