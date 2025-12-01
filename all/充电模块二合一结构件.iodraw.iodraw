@@ -10,7 +10,7 @@
         <mxCell id="viA3d5-YG2UxqyHncyts-2" value="面板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="viA3d5-YG2UxqyHncyts-3" value="面板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="viA3d5-YG2UxqyHncyts-3" value="顶盖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="410" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
