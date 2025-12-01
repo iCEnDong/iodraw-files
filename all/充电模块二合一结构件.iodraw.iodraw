@@ -14,7 +14,7 @@
           <mxGeometry x="450" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="viA3d5-YG2UxqyHncyts-6" value="底盖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="505" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="viA3d5-YG2UxqyHncyts-7" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="60" height="30" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="viA3d5-YG2UxqyHncyts-9" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="410" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="viA3d5-YG2UxqyHncyts-10" value="顶盖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
