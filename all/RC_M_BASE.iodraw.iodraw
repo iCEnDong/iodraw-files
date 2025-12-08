@@ -22,6 +22,9 @@
         <mxCell id="5BKpo96qZqWuwXBiChe2-6" value="19:23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="750" y="290" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kpMiM4RiijoNkQQQKUpL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#c9caca;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="260" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
