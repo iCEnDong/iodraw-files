@@ -79,6 +79,9 @@
         <mxCell id="alxdyK3Et3GZoYugvUpy-27" value="&amp;nbsp; °&amp;nbsp; &amp;nbsp; .&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;N" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="845" y="690" width="185" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="alxdyK3Et3GZoYugvUpy-30" value="&amp;nbsp; °&amp;nbsp; &amp;nbsp; .&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;E" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="845" y="720" width="185" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
