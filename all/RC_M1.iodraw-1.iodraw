@@ -91,8 +91,8 @@
         <mxCell id="qE9ZvtNSMmewhnHzKDoD-30" value="MAUNAL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1060" y="727.06" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qE9ZvtNSMmewhnHzKDoD-34" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=31.5;" vertex="1" parent="1">
-          <mxGeometry x="318.5" y="432.5" width="224" height="100" as="geometry" />
+        <mxCell id="qE9ZvtNSMmewhnHzKDoD-34" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=31.5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="318" y="425" width="224" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qE9ZvtNSMmewhnHzKDoD-31" value="J3E&lt;div&gt;SSB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="390" y="405" width="70" height="100" as="geometry" />
