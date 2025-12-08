@@ -88,9 +88,6 @@
         <mxCell id="kpMiM4RiijoNkQQQKUpL-33" value="113°32.267 E" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="850" y="720" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpMiM4RiijoNkQQQKUpL-36" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="820" width="80" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
