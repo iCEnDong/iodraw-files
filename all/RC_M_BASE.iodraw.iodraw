@@ -7,6 +7,9 @@
         <mxCell id="5BKpo96qZqWuwXBiChe2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="380" y="280" width="800" height="480" as="geometry" />
         </mxCell>
+        <mxCell id="kpMiM4RiijoNkQQQKUpL-37" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="735" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="5BKpo96qZqWuwXBiChe2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#c9caca;fillColor=#c9caca;" parent="1" vertex="1">
           <mxGeometry x="380" y="280" width="800" height="50" as="geometry" />
         </mxCell>
@@ -78,9 +81,6 @@
         </mxCell>
         <mxCell id="kpMiM4RiijoNkQQQKUpL-31" value="19:23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="750" y="705" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kpMiM4RiijoNkQQQKUpL-37" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="830" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kpMiM4RiijoNkQQQKUpL-32" value="23°07.278 N" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="845" y="690" width="185" height="30" as="geometry" />
