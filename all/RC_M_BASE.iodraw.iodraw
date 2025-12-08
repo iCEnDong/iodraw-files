@@ -43,8 +43,8 @@
         <mxCell id="kpMiM4RiijoNkQQQKUpL-8" value="KHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="920" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpMiM4RiijoNkQQQKUpL-10" value="AGC:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="380" y="690" width="60" height="30" as="geometry" />
+        <mxCell id="kpMiM4RiijoNkQQQKUpL-10" value="AGC ▶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="690" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpMiM4RiijoNkQQQKUpL-11" value="SQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="380" y="720" width="60" height="30" as="geometry" />
