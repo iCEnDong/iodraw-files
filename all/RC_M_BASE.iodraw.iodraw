@@ -85,11 +85,11 @@
         <mxCell id="kpMiM4RiijoNkQQQKUpL-32" value="23°07.278 N" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="845" y="690" width="185" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kpMiM4RiijoNkQQQKUpL-38" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-90;flipV=0;flipH=1;size=33;strokeWidth=2;fillColor=#C9CACA;" vertex="1" parent="1">
+          <mxGeometry x="957.5" y="537.5" width="80" height="365" as="geometry" />
+        </mxCell>
         <mxCell id="kpMiM4RiijoNkQQQKUpL-33" value="113°32.267 E" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="850" y="720" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kpMiM4RiijoNkQQQKUpL-38" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-90;flipV=0;flipH=1;size=33;strokeWidth=2;fillColor=#C9CACA;" vertex="1" parent="1">
-          <mxGeometry x="860" y="635" width="80" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
