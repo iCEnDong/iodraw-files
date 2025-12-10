@@ -97,6 +97,9 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-56" value="话筒" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qiavoPhc18KloZtKGgpW-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
