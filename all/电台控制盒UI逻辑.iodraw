@@ -22,7 +22,7 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="135" width="145" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-8" value="画点 绘制&lt;div&gt;ui_driver&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qiavoPhc18KloZtKGgpW-8" value="事件处理&lt;div&gt;ui_core&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="138" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-9" value="ui_display 驱动 画点&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ui_graphics 绘制&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
