@@ -106,8 +106,8 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-61" value="面板" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qiavoPhc18KloZtKGgpW-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-63" value="数字键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1020" width="120" height="60" as="geometry" />
+        <mxCell id="qiavoPhc18KloZtKGgpW-64" value="数字键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1030" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
