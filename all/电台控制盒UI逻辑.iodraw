@@ -46,11 +46,17 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-14" value="输入事件(离散按钮/旋钮等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-15" target="qiavoPhc18KloZtKGgpW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-15" value="ui_input_event_push()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-19" value="光标操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
