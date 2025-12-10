@@ -44,26 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-14" value="输入事件(离散按钮/旋钮等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-15" target="qiavoPhc18KloZtKGgpW-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-15" value="ui_input_event_push()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="185" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="395" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="395" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="560" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-24" value="分发给对应的事件处理器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="285" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
