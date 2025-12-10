@@ -67,7 +67,7 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-31" value="离散按键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-32" value="小菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiavoPhc18KloZtKGgpW-32" value="话筒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-33" value="旋钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
