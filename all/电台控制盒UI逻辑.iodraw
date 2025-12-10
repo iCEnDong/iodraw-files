@@ -58,11 +58,14 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24" target="qiavoPhc18KloZtKGgpW-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24" target="qiavoPhc18KloZtKGgpW-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-24" value="分发给对应的事件处理器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-31" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-32" value="小菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="880" width="120" height="60" as="geometry" />
