@@ -97,17 +97,17 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-56" value="话筒" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qiavoPhc18KloZtKGgpW-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="990" width="120" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-41" target="qiavoPhc18KloZtKGgpW-59">
+        <mxCell id="qiavoPhc18KloZtKGgpW-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="950" as="sourcePoint" />
-            <mxPoint x="580" y="950" as="targetPoint" />
+            <mxPoint x="460" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-61" value="面板" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qiavoPhc18KloZtKGgpW-60">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
