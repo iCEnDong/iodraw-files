@@ -52,20 +52,18 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-15" value="ui_input_event_push()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24" target="qiavoPhc18KloZtKGgpW-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qiavoPhc18KloZtKGgpW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="395" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24" target="qiavoPhc18KloZtKGgpW-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qiavoPhc18KloZtKGgpW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="395" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-24" value="分发给对应的事件处理器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-27" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="395" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
