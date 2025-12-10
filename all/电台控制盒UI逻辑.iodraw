@@ -52,14 +52,6 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-15" value="ui_input_event_push()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24" target="qiavoPhc18KloZtKGgpW-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-24" target="qiavoPhc18KloZtKGgpW-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
