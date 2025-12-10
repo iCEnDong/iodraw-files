@@ -49,7 +49,7 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-15" value="ui_input_event_push()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiavoPhc18KloZtKGgpW-19" value="光标操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
