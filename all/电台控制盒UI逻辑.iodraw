@@ -49,9 +49,6 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-15" value="分发给对应的处理函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="290" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
