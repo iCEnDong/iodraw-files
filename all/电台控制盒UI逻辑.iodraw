@@ -112,6 +112,9 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-65" value="方向键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="345" y="1030" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-66" value="功能键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1030" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
