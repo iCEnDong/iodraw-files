@@ -16,8 +16,8 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="135" width="145" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-5" value="画点 绘制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="135" width="140" height="30" as="geometry" />
+        <mxCell id="qiavoPhc18KloZtKGgpW-5" value="画点 绘制&lt;div&gt;ui_driver&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="136" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
