@@ -70,6 +70,15 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-46" value="话筒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="500" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-52" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qiavoPhc18KloZtKGgpW-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
