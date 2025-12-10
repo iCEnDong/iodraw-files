@@ -88,6 +88,15 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-54" value="旋钮" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qiavoPhc18KloZtKGgpW-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="850" as="sourcePoint" />
+            <mxPoint x="400" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qiavoPhc18KloZtKGgpW-56" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qiavoPhc18KloZtKGgpW-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
