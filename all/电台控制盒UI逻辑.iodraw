@@ -7,8 +7,8 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-1" value="&lt;div&gt;.&lt;/div&gt;&lt;div&gt;├── a.out&lt;/div&gt;&lt;div&gt;├── ui_config.h&lt;/div&gt;&lt;div&gt;├── ui_core&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── dictionary.c&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── dictionary.h&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_input.c&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_input.h&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_notify.c&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_notify.h&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_state.c&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;└── ui_state.h&lt;/div&gt;&lt;div&gt;├── ui_driver&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_display.c&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_display.h&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ui_graphics.c&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;└── ui_graphics.h&lt;/div&gt;&lt;div&gt;├── ui_main.h&lt;/div&gt;&lt;div&gt;└── ui_screens&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ├── ui_screen_main.h&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ├── ui_screen_menu.c&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ├── ui_screen_menu.h&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ├── ui_screen_settings.c&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── ui_screen_settings.h&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="80" width="410" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-2" value="文件结构设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="90" width="60" height="30" as="geometry" />
+        <mxCell id="qiavoPhc18KloZtKGgpW-2" value="文件结构设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
