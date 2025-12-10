@@ -115,7 +115,7 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-66" value="功能键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="420" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-67" value="功能键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qiavoPhc18KloZtKGgpW-67" value="操作键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="490" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
