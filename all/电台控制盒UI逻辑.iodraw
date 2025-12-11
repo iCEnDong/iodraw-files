@@ -258,8 +258,14 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-31" value="主界面" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="325" y="1120" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-32" target="HCrCC9Fpk3qwmc4GawHv-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-32" value="设置页" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="1120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-33" target="HCrCC9Fpk3qwmc4GawHv-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-33" value="菜单页" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="1120" width="60" height="60" as="geometry" />
