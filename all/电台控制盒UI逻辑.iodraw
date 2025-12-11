@@ -466,7 +466,7 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-111" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="240" y="2070" width="20" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-112" value="xxx通信设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-112" value="xxx通信设置条目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="2060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-113" value="xxx通信设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
