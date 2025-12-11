@@ -252,14 +252,24 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-16" value="主界面" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-16">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-16" target="HCrCC9Fpk3qwmc4GawHv-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1140" as="sourcePoint" />
             <mxPoint x="620" y="1140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="1150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-18" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HCrCC9Fpk3qwmc4GawHv-17">
+          <mxGeometry x="-0.4598" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1220" width="120" height="60" as="geometry" />
