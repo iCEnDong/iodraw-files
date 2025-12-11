@@ -422,7 +422,7 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-100" value="模式" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.691;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-95">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="2220" as="sourcePoint" />
             <mxPoint x="120" y="2260" as="targetPoint" />
@@ -441,6 +441,7 @@
             <mxPoint x="60" y="2060" as="targetPoint" />
             <Array as="points">
               <mxPoint x="60" y="2290" />
+              <mxPoint x="60" y="2055" />
             </Array>
           </mxGeometry>
         </mxCell>
