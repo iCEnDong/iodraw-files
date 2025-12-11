@@ -106,7 +106,7 @@
             <mxPoint x="460" y="990" as="targetPoint" />
             <Array as="points">
               <mxPoint x="460" y="970" />
-              <mxPoint x="522" y="970" />
+              <mxPoint x="562" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,13 +120,13 @@
           <mxGeometry x="325" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-65" value="方向键" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1000" width="60" height="60" as="geometry" />
+          <mxGeometry x="660" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-66" value="功能键" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="402.5" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-67" value="操作键" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1000" width="60" height="60" as="geometry" />
+          <mxGeometry x="740" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-69" value="光标状态" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="990" width="80" height="80" as="geometry" />
