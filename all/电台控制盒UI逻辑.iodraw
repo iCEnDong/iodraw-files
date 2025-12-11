@@ -532,7 +532,7 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-134" value="光标选中菜单&lt;div&gt;条目确定跳转&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-135" value="Note:如果X设置页有多页, 切完才显示下一类设置页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-135" value="Note:如果某类设置页有多页内容要显示, 切完才显示下一类设置页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="737" y="2288" width="133" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-136" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.49999786376953126;arrowSize=0.1975000305175781;" vertex="1" parent="1">
@@ -574,9 +574,6 @@
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-152" value="消息通知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="2195" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-153" value="Note:关闭后退出到" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="2280" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
