@@ -409,6 +409,19 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-98" value="模式" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="2095" as="sourcePoint" />
+            <mxPoint x="130" y="2135" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="2095" />
+              <mxPoint x="110" y="2135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-100" value="模式" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
