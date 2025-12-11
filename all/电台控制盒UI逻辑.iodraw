@@ -104,6 +104,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="950" as="sourcePoint" />
             <mxPoint x="460" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="950" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-61" value="面板" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="qiavoPhc18KloZtKGgpW-60" connectable="0" vertex="1">
