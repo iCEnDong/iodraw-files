@@ -217,7 +217,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-11" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-10">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-11" value="滑动条" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-65" as="offset" />
           </mxGeometry>
