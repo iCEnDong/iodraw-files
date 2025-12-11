@@ -533,7 +533,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-135" value="Note:如果X设置页有多页, 切完才显示下一类设置页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="737" y="2290" width="133" height="30" as="geometry" />
+          <mxGeometry x="737" y="2288" width="133" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
