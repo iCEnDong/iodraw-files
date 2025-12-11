@@ -387,10 +387,13 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-93" value="主页面1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-94" value="主页面1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-94" value="主页面2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-95" value="主页面1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-96" value="主页面1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="2220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
