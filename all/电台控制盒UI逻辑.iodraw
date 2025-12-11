@@ -62,7 +62,7 @@
           <mxGeometry x="420" y="870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-43" value="事件来源" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="800" width="80" height="80" as="geometry" />
+          <mxGeometry x="870" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-46" value="&lt;span style=&quot;background-color: rgb(255, 0, 0);&quot;&gt;按键功能待确定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="210" y="880" width="120" height="60" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-52" value="离散按键" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="qiavoPhc18KloZtKGgpW-51" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qiavoPhc18KloZtKGgpW-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="qiavoPhc18KloZtKGgpW-43" edge="1">
+        <mxCell id="qiavoPhc18KloZtKGgpW-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="qiavoPhc18KloZtKGgpW-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="800" as="sourcePoint" />
             <mxPoint x="760" y="800" as="targetPoint" />
