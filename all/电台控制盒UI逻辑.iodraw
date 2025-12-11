@@ -449,7 +449,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-106" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="343" y="2020" width="217" height="320" as="geometry" />
+          <mxGeometry x="343" y="2020" width="217" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-111" target="HCrCC9Fpk3qwmc4GawHv-106">
           <mxGeometry relative="1" as="geometry">
@@ -522,9 +522,6 @@
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-131" value="F3&lt;div&gt;下一页&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="678.25" y="2250" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-132" value="光标选中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="2310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
