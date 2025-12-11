@@ -484,7 +484,7 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-118" value="F2&lt;div&gt;上一页&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361" y="2070" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-119" value="下一页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-119" value="F3&lt;div&gt;下一页&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360.5" y="2259" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-120" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-106" target="HCrCC9Fpk3qwmc4GawHv-111">
