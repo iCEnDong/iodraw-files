@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-105" value="主页面" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2010" width="210" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1280" width="370" height="330" as="geometry" />
         </mxCell>
@@ -454,9 +451,9 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-106" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="343" y="2010" width="177" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-105" target="HCrCC9Fpk3qwmc4GawHv-106">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HCrCC9Fpk3qwmc4GawHv-106">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="2170" as="sourcePoint" />
+            <mxPoint x="260" y="2165.0000000000005" as="sourcePoint" />
             <mxPoint x="380" y="2170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
