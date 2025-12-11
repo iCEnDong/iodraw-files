@@ -226,7 +226,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-13" value="复选框" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-12">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-13" value="复选框&lt;div&gt;单选框&lt;/div&gt;&lt;div&gt;进度条&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90" as="offset" />
           </mxGeometry>
