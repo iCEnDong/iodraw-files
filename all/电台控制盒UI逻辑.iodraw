@@ -301,7 +301,7 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-32" value="方向键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="1110" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-33" value="功能键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-33" value="菜单" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="1110" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-34" value="操作键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
