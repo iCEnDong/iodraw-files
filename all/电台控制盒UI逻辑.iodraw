@@ -500,7 +500,7 @@
           <mxGeometry x="660" y="2020" width="217" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-124" value="系统设置页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="2270" width="120" height="40" as="geometry" />
+          <mxGeometry x="748.5" y="2245" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-125" value="xxx通信设置页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="747" y="2060" width="120" height="40" as="geometry" />
@@ -531,6 +531,9 @@
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-134" value="光标选中菜单&lt;div&gt;条目确定跳转&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-133">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-135" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="737" y="2290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
