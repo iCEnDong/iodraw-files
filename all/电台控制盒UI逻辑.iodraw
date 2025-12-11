@@ -293,19 +293,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="1100" width="455" height="80" as="geometry" />
+          <mxGeometry x="295" y="1100" width="275" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-31" value="主界面" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="325" y="1110" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-32" value="方向键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-32" value="设置页" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="1110" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-33" value="菜单页" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="1110" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-34" value="操作键" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1110" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
