@@ -163,7 +163,7 @@
         <mxCell id="qiavoPhc18KloZtKGgpW-80" value="F" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="qiavoPhc18KloZtKGgpW-79" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-1" value="主页面" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-1" value="控件类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-69" target="HCrCC9Fpk3qwmc4GawHv-1">
