@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qiavoPhc18KloZtKGgpW-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="295" y="990" width="330" height="80" as="geometry" />
+          <mxGeometry x="295" y="990" width="345" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="80" width="490" height="430" as="geometry" />
@@ -241,6 +241,9 @@
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-15" value="划分10等分, 0~9快速设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
