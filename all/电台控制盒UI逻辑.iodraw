@@ -572,6 +572,9 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-151" value="确认操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="2090" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-152" value="消息通知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2195" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
