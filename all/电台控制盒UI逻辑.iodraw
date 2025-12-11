@@ -119,7 +119,7 @@
           <mxGeometry x="462.5" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-66" value="功能键" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="382.5" y="1090" width="60" height="60" as="geometry" />
+          <mxGeometry x="400" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiavoPhc18KloZtKGgpW-67" value="操作键" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="535" y="1000" width="60" height="60" as="geometry" />
