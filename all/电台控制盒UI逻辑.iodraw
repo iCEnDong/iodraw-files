@@ -191,6 +191,9 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-6" value="下拉框" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
