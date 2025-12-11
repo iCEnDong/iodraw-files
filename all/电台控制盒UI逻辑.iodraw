@@ -496,8 +496,8 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-121" value="F1(退出)" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="2020" width="120" height="60" as="geometry" />
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-122" value="设置" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2020" width="200" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
