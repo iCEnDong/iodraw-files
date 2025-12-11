@@ -381,6 +381,9 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-90" value="输入事件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=56;" vertex="1" parent="1">
           <mxGeometry x="50" y="550" width="460" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-92" value="输入事件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=56;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="460" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
