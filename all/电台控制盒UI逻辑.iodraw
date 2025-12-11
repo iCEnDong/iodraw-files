@@ -249,6 +249,15 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-16" value="主界面" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1140" as="sourcePoint" />
+            <mxPoint x="620" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-18" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
