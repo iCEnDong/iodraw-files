@@ -557,8 +557,11 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2070" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-146" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-146" value="是" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="2120" width="40" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-147" value="否" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="2120" width="40" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
