@@ -523,13 +523,13 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-131" value="F3&lt;div&gt;下一页&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="678.25" y="2250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-133" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-133" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCrCC9Fpk3qwmc4GawHv-106" target="HCrCC9Fpk3qwmc4GawHv-123">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="2190" as="sourcePoint" />
             <mxPoint x="680" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-134" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-133">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-134" value="光标选中菜单&lt;div&gt;条目确定跳转&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HCrCC9Fpk3qwmc4GawHv-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
