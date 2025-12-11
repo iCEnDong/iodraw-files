@@ -319,10 +319,13 @@
           <mxGeometry x="325" y="1300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1300" width="60" height="60" as="geometry" />
+          <mxGeometry x="402.5" y="1300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="1300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1300" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
