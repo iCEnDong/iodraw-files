@@ -249,7 +249,7 @@
         <mxCell id="HCrCC9Fpk3qwmc4GawHv-16" value="主界面" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HCrCC9Fpk3qwmc4GawHv-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HCrCC9Fpk3qwmc4GawHv-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiavoPhc18KloZtKGgpW-66" target="HCrCC9Fpk3qwmc4GawHv-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1140" as="sourcePoint" />
             <mxPoint x="620" y="1140" as="targetPoint" />
