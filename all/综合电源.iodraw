@@ -156,7 +156,7 @@
           <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-39" value="主控板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="330" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="W3komqxWCd1lCjeV9r7H-39" target="W3komqxWCd1lCjeV9r7H-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
