@@ -58,6 +58,9 @@
         <mxCell id="W3komqxWCd1lCjeV9r7H-15" value="UPS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="720" y="560" width="90" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="W3komqxWCd1lCjeV9r7H-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
