@@ -59,7 +59,7 @@
           <mxGeometry x="720" y="560" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-17" value="DC/AC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="610" width="100" height="60" as="geometry" />
+          <mxGeometry x="610" y="610" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="W3komqxWCd1lCjeV9r7H-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
