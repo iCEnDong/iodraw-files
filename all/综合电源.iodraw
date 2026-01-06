@@ -53,7 +53,7 @@
           <mxGeometry x="960" y="335" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-15" value="UPS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="730" y="560" width="80" height="110" as="geometry" />
+          <mxGeometry x="730" y="610" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-17" value="DC/AC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="610" y="660" width="100" height="60" as="geometry" />
@@ -63,7 +63,7 @@
             <mxPoint x="710" y="588" as="sourcePoint" />
             <mxPoint x="570" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="588" />
+              <mxPoint x="570" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-27" value="AC220V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="960" y="555" width="120" height="120" as="geometry" />
+          <mxGeometry x="960" y="605" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W3komqxWCd1lCjeV9r7H-15" target="W3komqxWCd1lCjeV9r7H-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
