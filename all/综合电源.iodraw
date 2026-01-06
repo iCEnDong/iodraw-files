@@ -75,7 +75,7 @@
             <mxPoint x="540" y="400" as="sourcePoint" />
             <mxPoint x="540" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="660" />
+              <mxPoint x="540" y="675" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,6 +172,12 @@
         </mxCell>
         <mxCell id="W3komqxWCd1lCjeV9r7H-44" value="1.采集 &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;①交流输出电压&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;②DC输入电压&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;③电池电压&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="860" y="930" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="W3komqxWCd1lCjeV9r7H-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="590" as="sourcePoint" />
+            <mxPoint x="950" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
