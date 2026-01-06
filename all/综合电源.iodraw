@@ -61,12 +61,12 @@
         <mxCell id="W3komqxWCd1lCjeV9r7H-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="610" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W3komqxWCd1lCjeV9r7H-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="W3komqxWCd1lCjeV9r7H-15">
+        <mxCell id="W3komqxWCd1lCjeV9r7H-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="640" as="sourcePoint" />
-            <mxPoint x="520" y="280" as="targetPoint" />
+            <mxPoint x="710" y="588" as="sourcePoint" />
+            <mxPoint x="570" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="588" />
+              <mxPoint x="570" y="588" />
             </Array>
           </mxGeometry>
         </mxCell>
