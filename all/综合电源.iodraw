@@ -155,7 +155,7 @@
         <mxCell id="W3komqxWCd1lCjeV9r7H-38" value="转换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W3komqxWCd1lCjeV9r7H-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="W3komqxWCd1lCjeV9r7H-39" value="主控板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="330" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
