@@ -149,6 +149,9 @@
         <mxCell id="W3komqxWCd1lCjeV9r7H-36" value="输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W3komqxWCd1lCjeV9r7H-37" value="输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
