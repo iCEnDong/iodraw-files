@@ -13,8 +13,11 @@
         <mxCell id="W3komqxWCd1lCjeV9r7H-3" value="DC28V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="330" y="365" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W3komqxWCd1lCjeV9r7H-4" value="AC220V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+        <mxCell id="W3komqxWCd1lCjeV9r7H-4" value="电池" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3komqxWCd1lCjeV9r7H-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
