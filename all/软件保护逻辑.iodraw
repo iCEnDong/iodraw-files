@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="KyUFNBfokFggW0jdJJOq">
-    <mxGraphModel dx="500" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-26" value="发送报警CAN信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="300" as="targetPoint" />
             <mxPoint x="450" y="520" as="sourcePoint" />
@@ -108,6 +108,11 @@
               <mxPoint x="371" y="520" />
               <mxPoint x="371" y="300" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f3ikeLvIMA7b6u6srMxH-32">
+          <mxGeometry x="-0.0776" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-29" value="系统进入启动状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
