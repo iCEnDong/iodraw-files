@@ -125,12 +125,7 @@
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="241" y="855" />
-              <mxPoint x="241" y="290" />
-              <mxPoint x="420" y="290" />
-            </Array>
+            <mxPoint x="240" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-40" value="无法接入&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;div&gt;CAN上报详细故障信息&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
