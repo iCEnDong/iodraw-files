@@ -51,7 +51,7 @@
           <mxGeometry x="340" y="710" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-15" value="判断电池组输入反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="640" width="110" height="50" as="geometry" />
+          <mxGeometry x="280" y="640" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-17" value="采集交流输出&lt;div&gt;电压电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="730" width="110" height="50" as="geometry" />
