@@ -208,7 +208,12 @@
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="270" as="targetPoint" />
+            <mxPoint x="800" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="1070" />
+              <mxPoint x="1030" y="1070" />
+              <mxPoint x="1030" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-85" value="CAN上报具体告警/故障信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
