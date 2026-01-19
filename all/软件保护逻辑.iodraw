@@ -101,11 +101,6 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-29" target="f3ikeLvIMA7b6u6srMxH-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f3ikeLvIMA7b6u6srMxH-36">
-          <mxGeometry x="0.0005" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-29" value="系统进入启动状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="480" width="120" height="80" as="geometry" />
         </mxCell>
