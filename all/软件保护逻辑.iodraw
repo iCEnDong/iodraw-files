@@ -246,8 +246,8 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-88" value="采集&lt;div&gt;交流输入电压&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="640" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-89" value="存在欠压/微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="720" width="120" height="80" as="geometry" />
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-89" value="存在过欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="710" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
