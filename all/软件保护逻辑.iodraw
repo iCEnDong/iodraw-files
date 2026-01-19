@@ -155,7 +155,7 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-57" value="存在过欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-59" value="采集&lt;div&gt;电池组输入电压&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-59" value="切断直流输入&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="830" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
