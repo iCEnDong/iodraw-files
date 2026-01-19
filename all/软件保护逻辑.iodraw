@@ -16,6 +16,9 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-2" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-4" target="f3ikeLvIMA7b6u6srMxH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-4" value="读取CAN通信指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -35,6 +38,9 @@
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-6" value="系统进入启动状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
