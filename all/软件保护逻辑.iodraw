@@ -69,7 +69,7 @@
           <mxGeometry x="340" y="900" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-18" value="判断交流输出短路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="760" width="110" height="50" as="geometry" />
+          <mxGeometry x="620" y="640" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-19" value="判断直流输出短路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="820" width="110" height="50" as="geometry" />
