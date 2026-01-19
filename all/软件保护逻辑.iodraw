@@ -59,34 +59,8 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-15" value="判断&lt;div&gt;直流输入反接/&lt;/div&gt;&lt;div&gt;电池组输入反接&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="640" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-17" value="采集&lt;div&gt;直流输出电压电流/交流输出&lt;span style=&quot;background-color: initial;&quot;&gt;电压电流&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="805" y="1120" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-18" value="判断交流输出短路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="1060" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-19" value="判断直流输出短路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1150" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-22" target="f3ikeLvIMA7b6u6srMxH-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-25" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f3ikeLvIMA7b6u6srMxH-24">
-          <mxGeometry x="-0.3444" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-22" value="触发xx保护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1080" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-23" target="f3ikeLvIMA7b6u6srMxH-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-23" value="xx处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-26" value="发送报警CAN信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-29">
           <mxGeometry relative="1" as="geometry">
