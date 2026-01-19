@@ -47,14 +47,11 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-6" value="CAN指令是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-11" value="采集交流输入电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-11" value="采集交流输入/直流输入/电池组输入&lt;div&gt;电压&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="640" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-12" value="采集直流输入电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="740" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-13" value="采集电池组输入电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="730" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-15" value="判断电池组输入反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="640" width="110" height="50" as="geometry" />
