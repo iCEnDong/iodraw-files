@@ -48,11 +48,14 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-13" value="采集电池组输入电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="550" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-14" value="判断直流输入反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="490" width="110" height="50" as="geometry" />
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-14" value="采集直流输出&lt;div&gt;电压电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-15" value="判断电池组输入反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="550" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-16" value="判断直流输入反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
