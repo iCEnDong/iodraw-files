@@ -125,10 +125,13 @@
             <mxPoint x="420" y="660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="750" />
-              <mxPoint x="410" y="670" />
-              <mxPoint x="420" y="670" />
-              <mxPoint x="420" y="665" />
+              <mxPoint x="410" y="665" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-46" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f3ikeLvIMA7b6u6srMxH-45">
+          <mxGeometry x="-0.3727" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-39" value="存在反接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
