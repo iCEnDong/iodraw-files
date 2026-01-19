@@ -19,8 +19,8 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-4" value="读取CAN通信指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-6" value="系统进入启动状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
