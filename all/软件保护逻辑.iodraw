@@ -10,6 +10,9 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-2" target="f3ikeLvIMA7b6u6srMxH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-2" value="系统上电&lt;div&gt;初始化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="100" height="40" as="geometry" />
         </mxCell>
@@ -33,7 +36,7 @@
             <mxPoint x="2" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-6" value="系统进入启动状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-6" value="CAN指令是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-11" value="采集交流输入电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
