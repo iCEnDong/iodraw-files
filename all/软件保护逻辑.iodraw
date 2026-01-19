@@ -140,15 +140,6 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-39" value="存在反接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="300" as="targetPoint" />
-            <mxPoint x="580" y="1050" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="241" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-40" value="无法接入&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="830" width="110" height="50" as="geometry" />
         </mxCell>
