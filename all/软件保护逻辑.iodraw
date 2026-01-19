@@ -89,7 +89,7 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-23" value="xx处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-26" value="发送报警CAN信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
