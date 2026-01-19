@@ -287,6 +287,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="590" as="sourcePoint" />
             <mxPoint x="740" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="600" />
+              <mxPoint x="930" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-136" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="f3ikeLvIMA7b6u6srMxH-135">
