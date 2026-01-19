@@ -223,10 +223,10 @@
           <mxGeometry x="485" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-73" value="蜂鸣器间歇报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="930" width="110" height="50" as="geometry" />
+          <mxGeometry x="410" y="930" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-77" value="切断直流输出&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="930" width="110" height="50" as="geometry" />
+          <mxGeometry x="530" y="930" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-84" value="" style="endArrow=classic;html=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f3ikeLvIMA7b6u6srMxH-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -264,7 +264,7 @@
           <mxGeometry x="645" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-94" value="蜂鸣器间歇报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="930" width="110" height="50" as="geometry" />
+          <mxGeometry x="650" y="930" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
