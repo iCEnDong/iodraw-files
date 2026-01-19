@@ -100,9 +100,9 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-26" value="发送报警CAN信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-29">
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="300" as="targetPoint" />
+            <mxPoint x="420" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-29" value="系统进入启动状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
