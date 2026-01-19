@@ -285,7 +285,7 @@
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-135" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f3ikeLvIMA7b6u6srMxH-120">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="590" as="sourcePoint" />
+            <mxPoint x="520" y="600" as="sourcePoint" />
             <mxPoint x="740" y="590" as="targetPoint" />
             <Array as="points">
               <mxPoint x="790" y="600" />
@@ -294,7 +294,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-136" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="f3ikeLvIMA7b6u6srMxH-135">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="-40" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
