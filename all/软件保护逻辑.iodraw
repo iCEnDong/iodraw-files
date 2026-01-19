@@ -228,9 +228,6 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-85" value="CAN上报具体告警/故障信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="1010" width="710" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-86" value="存在欠压/微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="910" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-88" target="f3ikeLvIMA7b6u6srMxH-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -312,7 +309,7 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-117" value="≥50kΩ±5kΩ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-118" value="切断直流输出&lt;br&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-118" value="&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="860" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
