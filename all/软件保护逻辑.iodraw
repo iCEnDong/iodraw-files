@@ -66,6 +66,9 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-19" value="判断直流输出短路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="550" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-20" value="判断交流输出短路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
