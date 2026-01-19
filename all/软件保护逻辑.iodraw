@@ -66,7 +66,7 @@
           <mxGeometry x="795" y="1060" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-19" value="判断直流输出短路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1000" width="110" height="50" as="geometry" />
+          <mxGeometry x="440" y="1150" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-20" value="接地保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="580" width="110" height="50" as="geometry" />
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-53" value="CAN上报具体故障信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="960" width="710" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f3ikeLvIMA7b6u6srMxH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.161;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-40" target="f3ikeLvIMA7b6u6srMxH-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
