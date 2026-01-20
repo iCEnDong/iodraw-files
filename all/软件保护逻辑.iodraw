@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="460" y="-230" width="80" height="40" as="geometry" />
+          <mxGeometry x="470" y="-230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-2" value="系统上电&lt;div&gt;初始化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-160" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="-160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-4" target="f3ikeLvIMA7b6u6srMxH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -330,7 +330,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-8" value="判断&lt;div&gt;直流输入反接/&lt;/div&gt;&lt;div&gt;电池组输入反接&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="30" width="110" height="50" as="geometry" />
+          <mxGeometry x="457.5" y="-70" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-13" target="W5Ow8FNKOgPTnfSUTwc4-14">
           <mxGeometry relative="1" as="geometry" />
@@ -342,10 +342,10 @@
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-13" target="W5Ow8FNKOgPTnfSUTwc4-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="50" as="targetPoint" />
+            <mxPoint x="597.5" y="-50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="432.5" y="140" />
-              <mxPoint x="432.5" y="55" />
+              <mxPoint x="587.5" y="40" />
+              <mxPoint x="587.5" y="-45" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -355,10 +355,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-13" value="存在反接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="452.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-14" value="无法接入&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="210" width="110" height="50" as="geometry" />
+          <mxGeometry x="457.5" y="110" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
