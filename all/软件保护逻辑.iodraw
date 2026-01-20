@@ -126,8 +126,18 @@
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-3" value="自检完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="730" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="s1KcE1wlHEYcWyM3YdGm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-6" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1KcE1wlHEYcWyM3YdGm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-12" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="640" width="120" height="60" as="geometry" />
