@@ -10,53 +10,14 @@
         <mxCell id="pYshjimT05k-dWfylcja-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-9" target="pYshjimT05k-dWfylcja-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-5">
-          <mxGeometry x="-0.3733" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-9" target="pYshjimT05k-dWfylcja-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-7">
-          <mxGeometry x="-0.4544" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-9" value="存在过流/短路" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.50000000000006" y="710" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-11" target="pYshjimT05k-dWfylcja-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-11" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="180" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="339.99999999999994" y="820" as="sourcePoint" />
-            <mxPoint x="339.99999999999994" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;切断交流输出&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292.83000000000004" y="770" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="940" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510.00000000000006" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340.00000000000006" y="920" />
-            </Array>
-            <mxPoint x="339.99999999999994" y="900" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-24" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="287.83000000000004" y="840" width="120" height="60" as="geometry" />
