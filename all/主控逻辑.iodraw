@@ -1,0 +1,223 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="ZUqzuVNba5w15OyyMEt5">
+    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-2" target="ninNOT8_ZLoJMXSdcKhE-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="640" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-4" target="ninNOT8_ZLoJMXSdcKhE-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-4" value="系统上电&lt;div&gt;初始化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-6" target="ninNOT8_ZLoJMXSdcKhE-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-6" value="读取CAN通信指令&lt;div&gt;/远程控制&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-113" target="ninNOT8_ZLoJMXSdcKhE-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-113" value="按照预定参数输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-115" target="ninNOT8_ZLoJMXSdcKhE-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-115" value="读取CAN通信指令&lt;div&gt;/远程控制&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-117" target="ninNOT8_ZLoJMXSdcKhE-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-177" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-176" vertex="1" connectable="0">
+          <mxGeometry x="-0.3271" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-117" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="830" />
+              <mxPoint x="930" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-179" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-178" vertex="1" connectable="0">
+          <mxGeometry x="-0.9123" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-117" value="停止或触发保护" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-126" target="ninNOT8_ZLoJMXSdcKhE-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-136" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-135" vertex="1" connectable="0">
+          <mxGeometry x="-0.5643" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-126" value="满足电池充电条件" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="575" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-128" target="ninNOT8_ZLoJMXSdcKhE-139" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="360" />
+              <mxPoint x="520" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-128" value="基于采集的输入数据根据电源优先级选择接入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-133" target="ninNOT8_ZLoJMXSdcKhE-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-133" value="为电池充电" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="680" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-139" target="ninNOT8_ZLoJMXSdcKhE-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-143" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-142" vertex="1" connectable="0">
+          <mxGeometry x="0.1481" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-139" target="ninNOT8_ZLoJMXSdcKhE-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-161" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-158" vertex="1" connectable="0">
+          <mxGeometry x="-0.5816" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-139" value="交流供电" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-141" target="ninNOT8_ZLoJMXSdcKhE-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-146" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-145" vertex="1" connectable="0">
+          <mxGeometry x="0.1955" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-141" target="ninNOT8_ZLoJMXSdcKhE-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-162" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-159" vertex="1" connectable="0">
+          <mxGeometry x="-0.3057" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-141" value="直流供电" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-144" target="ninNOT8_ZLoJMXSdcKhE-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-163" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-160" vertex="1" connectable="0">
+          <mxGeometry x="-0.2598" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-144" value="电池组供电" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-147" target="ninNOT8_ZLoJMXSdcKhE-128" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="970" />
+              <mxPoint x="441" y="970" />
+              <mxPoint x="441" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-147" value="CAN上报&lt;div&gt;工作状态&lt;span style=&quot;background-color: initial;&quot;&gt;信息和&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电压电流检测信息&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="890" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-149" target="ninNOT8_ZLoJMXSdcKhE-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-149" value="按照预定参数输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-152" target="ninNOT8_ZLoJMXSdcKhE-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-151" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-150" vertex="1" connectable="0">
+          <mxGeometry x="-0.5643" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-152" target="ninNOT8_ZLoJMXSdcKhE-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-152" value="满足电池充电条件" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="575" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-154" target="ninNOT8_ZLoJMXSdcKhE-157" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-154" value="按照预定参数输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-157" target="ninNOT8_ZLoJMXSdcKhE-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-156" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-155" vertex="1" connectable="0">
+          <mxGeometry x="-0.5643" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-157" value="满足电池充电条件" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="575" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.134;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-126" target="ninNOT8_ZLoJMXSdcKhE-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.864;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-157" target="ninNOT8_ZLoJMXSdcKhE-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-169" target="ninNOT8_ZLoJMXSdcKhE-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-173" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-171" vertex="1" connectable="0">
+          <mxGeometry x="-0.4771" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-169" target="ninNOT8_ZLoJMXSdcKhE-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="761" y="230" />
+              <mxPoint x="761" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-175" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-174" vertex="1" connectable="0">
+          <mxGeometry x="-0.2064" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ninNOT8_ZLoJMXSdcKhE-169" value="启动电源且&lt;div&gt;未触发保护&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
