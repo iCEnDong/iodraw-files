@@ -192,16 +192,6 @@
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.864;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-157" target="ninNOT8_ZLoJMXSdcKhE-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ninNOT8_ZLoJMXSdcKhE-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ninNOT8_ZLoJMXSdcKhE-128" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="679.5" y="300" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ninNOT8_ZLoJMXSdcKhE-173" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ninNOT8_ZLoJMXSdcKhE-171" vertex="1" connectable="0">
-          <mxGeometry x="-0.4771" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-169" target="ninNOT8_ZLoJMXSdcKhE-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="150" as="targetPoint" />
@@ -217,7 +207,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-169" value="启动电源且&lt;div&gt;未触发保护&lt;/div&gt;" style="rhombus;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="619.5" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
