@@ -141,10 +141,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-37" value="充电截止" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700.33" y="575" width="110" height="50" as="geometry" />
+          <mxGeometry x="705.33" y="575" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X422TPK5UwQSnne7P16D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-38" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="695.33" y="645" width="120" height="60" as="geometry" />
+          <mxGeometry x="700.33" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
