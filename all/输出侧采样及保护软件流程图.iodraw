@@ -75,7 +75,7 @@
           <mxGeometry x="285" y="600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="980" width="80" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="970" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-23" target="T539Vg3fhHS5uWRARrG5-4">
           <mxGeometry relative="1" as="geometry" />
@@ -124,12 +124,12 @@
         <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="675" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-32">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="920" as="targetPoint" />
-            <mxPoint x="688" y="830" as="sourcePoint" />
+            <mxPoint x="513" y="950" as="targetPoint" />
+            <mxPoint x="685" y="860" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="685" y="920" />
+              <mxPoint x="685" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
