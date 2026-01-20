@@ -38,7 +38,7 @@
           <mxGeometry x="452.5" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-13" value="采集&lt;div&gt;交流/直流输入电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="100" width="110" height="50" as="geometry" />
+          <mxGeometry x="457.5" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RMXamxn0nOjy0jK08jtI-18" target="RMXamxn0nOjy0jK08jtI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,9 +123,6 @@
               <mxPoint x="769" y="870" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="j3kl3L51uy_rzPBQ8cWl-1" value="存在过欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
