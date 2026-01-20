@@ -75,7 +75,7 @@
           <mxGeometry x="145" y="910" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="472.5" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-23" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
@@ -113,7 +113,7 @@
             <mxPoint x="520" y="715" as="targetPoint" />
             <mxPoint x="692" y="625" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="692" y="715" />
+              <mxPoint x="640" y="715" />
             </Array>
           </mxGeometry>
         </mxCell>
