@@ -95,7 +95,7 @@
           <mxGeometry x="452.5" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-126" value="&lt;div&gt;切断交流输入&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="280" width="110" height="50" as="geometry" />
+          <mxGeometry x="245" y="270" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-8" target="W5Ow8FNKOgPTnfSUTwc4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
