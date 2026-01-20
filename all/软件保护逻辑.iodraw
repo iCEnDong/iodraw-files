@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-4" value="读取CAN通信指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="452.5" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-6" target="s1KcE1wlHEYcWyM3YdGm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-6" value="CAN指令是否合法" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="452.5" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-112" target="f3ikeLvIMA7b6u6srMxH-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-112" value="采集&lt;div&gt;检测地和机壳地之间的环路电阻&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="460" width="110" height="50" as="geometry" />
+          <mxGeometry x="457.5" y="440" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-117" target="W5Ow8FNKOgPTnfSUTwc4-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-117" target="f3ikeLvIMA7b6u6srMxH-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="532.5" y="660" as="targetPoint" />
+            <mxPoint x="532.5" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W5Ow8FNKOgPTnfSUTwc4-34" vertex="1" connectable="0">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-117" value="≥50kΩ±5kΩ" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="452.5" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-120" target="f3ikeLvIMA7b6u6srMxH-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -122,10 +122,10 @@
           <mxGeometry x="332.5" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-28" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="620" width="110" height="50" as="geometry" />
+          <mxGeometry x="337.5" y="600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-3" value="系统准备进入启动状态" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="880" width="80" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-6" target="f3ikeLvIMA7b6u6srMxH-120">
           <mxGeometry relative="1" as="geometry">
@@ -140,7 +140,7 @@
           <mxGeometry x="332.5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-12" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="327.5" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
