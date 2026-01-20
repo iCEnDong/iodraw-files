@@ -105,7 +105,7 @@
         <mxCell id="T539Vg3fhHS5uWRARrG5-26" value="电池充电" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;交流输出电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="830" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
