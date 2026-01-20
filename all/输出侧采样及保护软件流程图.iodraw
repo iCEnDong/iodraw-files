@@ -54,6 +54,11 @@
         <mxCell id="X422TPK5UwQSnne7P16D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-16" target="T539Vg3fhHS5uWRARrG5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="X422TPK5UwQSnne7P16D-2" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X422TPK5UwQSnne7P16D-1">
+          <mxGeometry x="-0.3069" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-16" value="存在过压/过流/短路" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="250" width="120" height="80" as="geometry" />
         </mxCell>
@@ -93,14 +98,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="675" width="110" height="50" as="geometry" />
+          <mxGeometry x="637" y="440" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="950" as="targetPoint" />
-            <mxPoint x="685" y="860" as="sourcePoint" />
+            <mxPoint x="520" y="715" as="targetPoint" />
+            <mxPoint x="692" y="625" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="685" y="950" />
+              <mxPoint x="692" y="715" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,25 +123,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-32" value="存在过压/过流" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="625" y="750" width="120" height="80" as="geometry" />
+          <mxGeometry x="632" y="515" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-37" target="T539Vg3fhHS5uWRARrG5-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-37" value="充电截止" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="810" width="110" height="50" as="geometry" />
+          <mxGeometry x="757" y="575" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="950" as="targetPoint" />
-            <mxPoint x="810" y="940" as="sourcePoint" />
+            <mxPoint x="692" y="715" as="targetPoint" />
+            <mxPoint x="817" y="705" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="805" y="950" />
+              <mxPoint x="812" y="715" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-38" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="745" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="752" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
