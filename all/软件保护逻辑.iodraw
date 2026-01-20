@@ -124,7 +124,7 @@
           <mxGeometry x="337.5" y="570" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-3" value="自检完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-6" target="f3ikeLvIMA7b6u6srMxH-120">
           <mxGeometry relative="1" as="geometry">
@@ -140,7 +140,7 @@
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="710" as="targetPoint" />
+            <mxPoint x="510" y="710" as="targetPoint" />
             <Array as="points">
               <mxPoint x="392" y="710" />
             </Array>
