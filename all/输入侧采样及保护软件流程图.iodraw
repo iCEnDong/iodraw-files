@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="472.5" y="-50" width="80" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RMXamxn0nOjy0jK08jtI-6" target="RMXamxn0nOjy0jK08jtI-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,12 +131,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j3kl3L51uy_rzPBQ8cWl-4" value="采集&lt;div&gt;直流输入/电池组输入反接信号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457.5" y="10" width="110" height="50" as="geometry" />
+          <mxGeometry x="457.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j3kl3L51uy_rzPBQ8cWl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j3kl3L51uy_rzPBQ8cWl-6" target="RMXamxn0nOjy0jK08jtI-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j3kl3L51uy_rzPBQ8cWl-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j3kl3L51uy_rzPBQ8cWl-8">
+        <mxCell id="j3kl3L51uy_rzPBQ8cWl-9" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j3kl3L51uy_rzPBQ8cWl-8">
           <mxGeometry x="-0.3209" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
