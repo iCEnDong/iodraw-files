@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ZUqzuVNba5w15OyyMEt5">
-    <mxGraphModel dx="600" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-147" value="CAN上报&lt;div&gt;工作状态&lt;span style=&quot;background-color: initial;&quot;&gt;信息和&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电压电流检测信息&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="614.5" y="950" width="130" height="60" as="geometry" />
+          <mxGeometry x="614.5" y="960" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-149" target="ninNOT8_ZLoJMXSdcKhE-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,7 +209,7 @@
         <mxCell id="ht-y_YULpIr5a9yGA5pf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ninNOT8_ZLoJMXSdcKhE-169" target="ninNOT8_ZLoJMXSdcKhE-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ht-y_YULpIr5a9yGA5pf-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ht-y_YULpIr5a9yGA5pf-2">
+        <mxCell id="ht-y_YULpIr5a9yGA5pf-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ht-y_YULpIr5a9yGA5pf-2">
           <mxGeometry x="-0.0803" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
