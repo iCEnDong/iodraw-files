@@ -219,6 +219,9 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-112" value="采集&lt;div&gt;检测地和机壳地之间的环路电阻&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="270" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-117" target="W5Ow8FNKOgPTnfSUTwc4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-117" value="≥50kΩ±5kΩ" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="340" width="120" height="80" as="geometry" />
         </mxCell>
@@ -239,7 +242,7 @@
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-125" target="f3ikeLvIMA7b6u6srMxH-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5Ow8FNKOgPTnfSUTwc4-26">
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-29" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5Ow8FNKOgPTnfSUTwc4-26">
           <mxGeometry x="-0.28" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
