@@ -70,7 +70,7 @@
         <mxCell id="pYshjimT05k-dWfylcja-43" value="指令合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.50000000000006" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-45" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="pYshjimT05k-dWfylcja-45" value="安全信号采集及保护" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="453" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
