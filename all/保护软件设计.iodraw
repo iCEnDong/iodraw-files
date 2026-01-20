@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="CJyFIjnghP4wZGYTthZv">
-    <mxGraphModel dx="500" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="100" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-4" target="pYshjimT05k-dWfylcja-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-4" value="采集&lt;div&gt;交流输出电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457.50000000000006" y="645" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-9" target="pYshjimT05k-dWfylcja-21">
           <mxGeometry relative="1" as="geometry">
@@ -37,36 +31,13 @@
         <mxCell id="pYshjimT05k-dWfylcja-9" value="存在过流/短路" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.50000000000006" y="710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-11" target="pYshjimT05k-dWfylcja-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pYshjimT05k-dWfylcja-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512.5" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-11" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="180" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-16" target="pYshjimT05k-dWfylcja-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-12">
-          <mxGeometry x="-0.2604" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-16" target="pYshjimT05k-dWfylcja-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-15" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-14">
-          <mxGeometry x="-0.3069" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-16" value="存在过压/过流/短路" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="250" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-18" target="pYshjimT05k-dWfylcja-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-18" value="&lt;div&gt;切断直流输出&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -80,9 +51,6 @@
         <mxCell id="pYshjimT05k-dWfylcja-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="940" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-22" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510.00000000000006" y="920" as="targetPoint" />
@@ -94,75 +62,6 @@
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-24" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="287.83000000000004" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-29" target="pYshjimT05k-dWfylcja-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-25">
-          <mxGeometry x="-0.3055" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-29" target="pYshjimT05k-dWfylcja-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-27">
-          <mxGeometry x="-0.3089" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-29" value="电池充电" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="370" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-31" target="pYshjimT05k-dWfylcja-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-31" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585.33" y="440" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-36" target="pYshjimT05k-dWfylcja-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-32">
-          <mxGeometry x="-0.4707" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="610" as="targetPoint" />
-            <mxPoint x="643.3299999999999" y="595" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="640" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-34">
-          <mxGeometry x="0.2055" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-36" value="存在过压/过流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580.33" y="515" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-38" target="pYshjimT05k-dWfylcja-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-38" value="充电截止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705.33" y="575" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="725" />
-              <mxPoint x="690" y="725" />
-              <mxPoint x="690" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-40" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="700.33" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
