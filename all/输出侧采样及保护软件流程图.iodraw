@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yjtjqAeACwkPwstoCv60">
-    <mxGraphModel dx="724" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="X422TPK5UwQSnne7P16D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-26" target="T539Vg3fhHS5uWRARrG5-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X422TPK5UwQSnne7P16D-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X422TPK5UwQSnne7P16D-3">
+        <mxCell id="X422TPK5UwQSnne7P16D-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X422TPK5UwQSnne7P16D-3">
           <mxGeometry x="-0.3055" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="637" y="440" width="110" height="50" as="geometry" />
+          <mxGeometry x="585.33" y="440" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-32" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -131,25 +131,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-32" value="存在过压/过流" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="632" y="515" width="120" height="80" as="geometry" />
+          <mxGeometry x="580.33" y="515" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-37" target="T539Vg3fhHS5uWRARrG5-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-37" value="充电截止" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="757" y="575" width="110" height="50" as="geometry" />
+          <mxGeometry x="705.33" y="575" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="692" y="715" as="targetPoint" />
-            <mxPoint x="817" y="705" as="sourcePoint" />
+            <mxPoint x="640.33" y="715" as="targetPoint" />
+            <mxPoint x="765.33" y="705" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="812" y="715" />
+              <mxPoint x="760.33" y="715" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-38" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="752" y="645" width="120" height="60" as="geometry" />
+          <mxGeometry x="700.33" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
