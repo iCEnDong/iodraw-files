@@ -169,6 +169,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RMXamxn0nOjy0jK08jtI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-18" target="RMXamxn0nOjy0jK08jtI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-18" value="存在过欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="250" width="120" height="80" as="geometry" />
         </mxCell>
@@ -176,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-20" value="切断交流/直流输入&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="300" width="110" height="50" as="geometry" />
+          <mxGeometry x="625" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-23" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="840" width="80" height="40" as="geometry" />
