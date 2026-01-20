@@ -204,7 +204,7 @@
           <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-27" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="715" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-29" target="RMXamxn0nOjy0jK08jtI-35">
           <mxGeometry relative="1" as="geometry" />
@@ -223,26 +223,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-29" value="微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="784" y="770" as="targetPoint" />
-            <mxPoint x="664" y="740" as="sourcePoint" />
+            <mxPoint x="774" y="770" as="targetPoint" />
+            <mxPoint x="654" y="740" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="660" y="740" />
-              <mxPoint x="660" y="770" />
+              <mxPoint x="650" y="740" />
+              <mxPoint x="650" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-35" value="蜂鸣器间歇报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="690" width="110" height="50" as="geometry" />
+          <mxGeometry x="595" y="690" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-36" target="RMXamxn0nOjy0jK08jtI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-36" value="切断直流输出&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="650" width="110" height="50" as="geometry" />
+          <mxGeometry x="720" y="650" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
