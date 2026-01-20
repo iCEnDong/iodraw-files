@@ -10,8 +10,10 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="472.5" y="-260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-2" target="W5Ow8FNKOgPTnfSUTwc4-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512.5" y="-100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-2" value="系统上电&lt;div&gt;初始化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="462.5" y="-190" width="100" height="40" as="geometry" />
@@ -74,36 +76,26 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-126" value="&lt;div&gt;切断交流输入&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="320" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-8" target="W5Ow8FNKOgPTnfSUTwc4-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-8" value="&lt;div&gt;采集&lt;/div&gt;&lt;div&gt;直流输入反接/&lt;/div&gt;&lt;div&gt;电池组输入反接&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="-100" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-13" target="W5Ow8FNKOgPTnfSUTwc4-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W5Ow8FNKOgPTnfSUTwc4-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.1545" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512.5" y="-50" as="sourcePoint" />
+            <mxPoint x="512.5" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-13" target="f3ikeLvIMA7b6u6srMxH-120" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="f3ikeLvIMA7b6u6srMxH-120" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512.5" y="50" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W5Ow8FNKOgPTnfSUTwc4-22" vertex="1" connectable="0">
           <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-13" value="存在反接" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="-30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="s1KcE1wlHEYcWyM3YdGm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-14" target="W5Ow8FNKOgPTnfSUTwc4-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-14" value="无法接入&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="50" width="110" height="50" as="geometry" />
+        <mxCell id="s1KcE1wlHEYcWyM3YdGm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="W5Ow8FNKOgPTnfSUTwc4-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="100" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-16">
           <mxGeometry relative="1" as="geometry">
