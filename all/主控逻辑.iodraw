@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-2" value="开始" style="rounded=1;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="640" y="-100" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="-70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-4" target="ninNOT8_ZLoJMXSdcKhE-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-4" value="系统上电&lt;div&gt;初始化&lt;/div&gt;" style="rounded=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="70" width="100" height="40" as="geometry" />
+          <mxGeometry x="630" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-6" target="ninNOT8_ZLoJMXSdcKhE-169" edge="1">
           <mxGeometry relative="1" as="geometry" />
