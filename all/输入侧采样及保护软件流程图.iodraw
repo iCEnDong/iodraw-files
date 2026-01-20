@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_WEwYDpCuJz7xEG4XX_A">
-    <mxGraphModel dx="724" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,17 +188,6 @@
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-23" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="870" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="514" y="140" as="targetPoint" />
-            <mxPoint x="674" y="450" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="680" y="470" />
-              <mxPoint x="860" y="470" />
-              <mxPoint x="860" y="140" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-25" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
