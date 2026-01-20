@@ -61,11 +61,17 @@
         <mxCell id="pYshjimT05k-dWfylcja-24" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="287.83000000000004" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pYshjimT05k-dWfylcja-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-41" target="pYshjimT05k-dWfylcja-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-41" value="读取CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-43" value="指令合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.50000000000006" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pYshjimT05k-dWfylcja-45" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
