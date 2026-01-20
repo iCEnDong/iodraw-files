@@ -169,14 +169,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-18" target="RMXamxn0nOjy0jK08jtI-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMXamxn0nOjy0jK08jtI-16">
-          <mxGeometry x="-0.2604" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-18" value="存在过欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="250" width="120" height="80" as="geometry" />
         </mxCell>
@@ -188,15 +180,6 @@
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-23" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="840" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="480" />
-              <mxPoint x="181" y="480" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-25" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
