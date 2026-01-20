@@ -139,6 +139,9 @@
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-6" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="s1KcE1wlHEYcWyM3YdGm-12" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
