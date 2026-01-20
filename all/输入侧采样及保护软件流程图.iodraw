@@ -195,8 +195,8 @@
             <mxPoint x="674" y="450" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="680" y="470" />
-              <mxPoint x="774" y="470" />
-              <mxPoint x="774" y="140" />
+              <mxPoint x="840" y="470" />
+              <mxPoint x="840" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -208,6 +208,9 @@
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-29" value="微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RMXamxn0nOjy0jK08jtI-35" value="蜂鸣器间歇报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="690" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
