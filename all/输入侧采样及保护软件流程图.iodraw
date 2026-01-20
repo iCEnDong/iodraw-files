@@ -141,10 +141,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j3kl3L51uy_rzPBQ8cWl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j3kl3L51uy_rzPBQ8cWl-6" target="j3kl3L51uy_rzPBQ8cWl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3kl3L51uy_rzPBQ8cWl-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j3kl3L51uy_rzPBQ8cWl-12">
+          <mxGeometry x="-0.4287" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j3kl3L51uy_rzPBQ8cWl-6" value="存在反接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j3kl3L51uy_rzPBQ8cWl-10" value="切断交流/直流输入&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j3kl3L51uy_rzPBQ8cWl-10" value="无法接入&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="160" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j3kl3L51uy_rzPBQ8cWl-11" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
