@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-115" value="读取CAN通信指令&lt;div&gt;/远程控制&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="619.5" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="619.5" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-117" target="ninNOT8_ZLoJMXSdcKhE-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="930" y="830" />
+              <mxPoint x="930" y="910" />
               <mxPoint x="930" y="150" />
             </Array>
           </mxGeometry>
@@ -140,14 +140,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="439.5" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="1060" />
-              <mxPoint x="441" y="1060" />
+              <mxPoint x="680" y="1080" />
+              <mxPoint x="441" y="1080" />
               <mxPoint x="441" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-147" value="CAN上报&lt;div&gt;工作状态&lt;span style=&quot;background-color: initial;&quot;&gt;信息和&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电压电流检测信息&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="614.5" y="990" width="130" height="60" as="geometry" />
+          <mxGeometry x="614.5" y="1000" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-149" target="ninNOT8_ZLoJMXSdcKhE-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
