@@ -206,6 +206,9 @@
         <mxCell id="RMXamxn0nOjy0jK08jtI-27" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RMXamxn0nOjy0jK08jtI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-29" target="RMXamxn0nOjy0jK08jtI-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-29" value="微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="570" width="120" height="80" as="geometry" />
         </mxCell>
