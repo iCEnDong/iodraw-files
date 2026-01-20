@@ -245,11 +245,6 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-117" value="≥50kΩ±5kΩ" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="-80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="loPKCyCnJGeJG1a6x8GD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-118" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-118" value="&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="70" width="70" height="50" as="geometry" />
         </mxCell>
@@ -277,11 +272,6 @@
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-125" value="电压≥36V±4V&lt;div&gt;/交流输入漏电流达到&lt;/div&gt;&lt;div&gt;25mA~30mA&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="80" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-126" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="440" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-126" value="&lt;div&gt;切断交流输入&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="230" width="110" height="50" as="geometry" />
