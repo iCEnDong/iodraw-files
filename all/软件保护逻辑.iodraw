@@ -89,7 +89,7 @@
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-8" target="W5Ow8FNKOgPTnfSUTwc4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-8" value="判断&lt;div&gt;直流输入反接/&lt;/div&gt;&lt;div&gt;电池组输入反接&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-8" value="&lt;div&gt;采集&lt;/div&gt;&lt;div&gt;直流输入反接/&lt;/div&gt;&lt;div&gt;电池组输入反接&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="-100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-13" target="W5Ow8FNKOgPTnfSUTwc4-14" edge="1">
@@ -151,7 +151,11 @@
           <mxGeometry x="332.5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-12" target="f3ikeLvIMA7b6u6srMxH-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-12" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="640" width="120" height="60" as="geometry" />
