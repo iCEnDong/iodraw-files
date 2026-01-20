@@ -49,8 +49,10 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-120" value="采集&lt;div&gt;监测地和机壳地之间的交流电压/输入漏电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="180" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-125" target="f3ikeLvIMA7b6u6srMxH-126" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="f3ikeLvIMA7b6u6srMxH-126" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W5Ow8FNKOgPTnfSUTwc4-23" vertex="1" connectable="0">
           <mxGeometry x="-0.2236" y="3" relative="1" as="geometry">
@@ -72,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-126" value="&lt;div&gt;切断交流输入&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="320" width="110" height="50" as="geometry" />
+          <mxGeometry x="285" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-8" target="W5Ow8FNKOgPTnfSUTwc4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -118,7 +120,7 @@
           <mxGeometry x="472.5" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-6" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-12">
           <mxGeometry relative="1" as="geometry">
