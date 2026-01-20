@@ -117,26 +117,17 @@
         <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585.33" y="440" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="710" as="targetPoint" />
-            <mxPoint x="692" y="625" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="640" y="715" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-34" vertex="1" connectable="0">
-          <mxGeometry x="-0.6762" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-32" target="T539Vg3fhHS5uWRARrG5-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-39" vertex="1" connectable="0">
           <mxGeometry x="-0.4707" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X422TPK5UwQSnne7P16D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-32" value="存在过压/过流" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
