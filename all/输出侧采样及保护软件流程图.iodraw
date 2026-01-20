@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-4" value="采集&lt;div&gt;交流输出电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="457.50000000000006" y="740" width="110" height="50" as="geometry" />
+          <mxGeometry x="457.50000000000006" y="645" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -148,8 +148,8 @@
             <mxPoint x="640" y="610" as="targetPoint" />
             <Array as="points">
               <mxPoint x="760" y="725" />
-              <mxPoint x="641" y="725" />
-              <mxPoint x="641" y="610" />
+              <mxPoint x="690" y="725" />
+              <mxPoint x="690" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
