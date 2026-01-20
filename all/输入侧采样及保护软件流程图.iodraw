@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j3kl3L51uy_rzPBQ8cWl-4" value="采集&lt;div&gt;交流/直流输入电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j3kl3L51uy_rzPBQ8cWl-4" value="采集&lt;div&gt;直流输入/电池组输入反接信号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="70" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
