@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-51">
+        <mxCell id="pYshjimT05k-dWfylcja-52" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-51">
           <mxGeometry x="-0.5347" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -95,7 +95,7 @@
         <mxCell id="pYshjimT05k-dWfylcja-45" value="安全信号采集及保护" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-48" value="指令合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pYshjimT05k-dWfylcja-48" value="系统启动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.50000000000006" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
