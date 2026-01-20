@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-14" value="无法接入&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="50" width="110" height="50" as="geometry" />
+          <mxGeometry x="255" y="50" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-16" target="f3ikeLvIMA7b6u6srMxH-2">
           <mxGeometry relative="1" as="geometry">
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-16" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-28" target="s1KcE1wlHEYcWyM3YdGm-12">
           <mxGeometry relative="1" as="geometry" />
