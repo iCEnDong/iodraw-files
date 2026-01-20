@@ -26,7 +26,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-9" edge="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-9" target="T539Vg3fhHS5uWRARrG5-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="513" y="1050" as="targetPoint" />
           </mxGeometry>
@@ -80,7 +80,7 @@
           <mxGeometry x="292.83000000000004" y="870" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="472.5" y="1060" width="80" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-23" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
