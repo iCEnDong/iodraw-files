@@ -366,6 +366,14 @@
         <mxCell id="loPKCyCnJGeJG1a6x8GD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.78;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-118" target="f3ikeLvIMA7b6u6srMxH-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="loPKCyCnJGeJG1a6x8GD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="loPKCyCnJGeJG1a6x8GD-2" target="loPKCyCnJGeJG1a6x8GD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loPKCyCnJGeJG1a6x8GD-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loPKCyCnJGeJG1a6x8GD-6">
+          <mxGeometry x="-0.7531" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="loPKCyCnJGeJG1a6x8GD-2" value="电池充电过压/过流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="820" width="120" height="80" as="geometry" />
         </mxCell>
