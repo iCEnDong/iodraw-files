@@ -128,6 +128,9 @@
         <mxCell id="X422TPK5UwQSnne7P16D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="720" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-32" value="存在过压/过流" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -144,7 +147,8 @@
             <mxPoint x="640.33" y="715" as="targetPoint" />
             <mxPoint x="765.33" y="705" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="760.33" y="715" />
+              <mxPoint x="760" y="720" />
+              <mxPoint x="640" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
