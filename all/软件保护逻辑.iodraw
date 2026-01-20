@@ -247,6 +247,14 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-120" value="采集&lt;div&gt;监测地和机壳地之间的交流电压/输入漏电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="90" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f3ikeLvIMA7b6u6srMxH-125" target="f3ikeLvIMA7b6u6srMxH-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W5Ow8FNKOgPTnfSUTwc4-23">
+          <mxGeometry x="-0.2236" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-125" value="电压≥36V±4V&lt;div&gt;/交流输入漏电流达到&lt;/div&gt;&lt;div&gt;25mA~30mA&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="160" width="120" height="80" as="geometry" />
         </mxCell>
