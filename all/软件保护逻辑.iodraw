@@ -103,19 +103,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-14" value="无法接入&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="40" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s1KcE1wlHEYcWyM3YdGm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-16" target="W5Ow8FNKOgPTnfSUTwc4-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="393" y="220" />
-              <mxPoint x="240" y="220" />
-              <mxPoint x="240" y="-75" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="295" y="50" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-16" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="332.5" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-28" target="s1KcE1wlHEYcWyM3YdGm-12">
           <mxGeometry relative="1" as="geometry" />
@@ -125,11 +116,6 @@
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-3" value="自检完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="730" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s1KcE1wlHEYcWyM3YdGm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="220" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-6" value="上报含有具体告警/故障信息的CAN指令" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="400" width="120" height="60" as="geometry" />
