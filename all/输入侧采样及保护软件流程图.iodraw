@@ -126,7 +126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="50" width="80" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-6" target="RMXamxn0nOjy0jK08jtI-11">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
         <mxCell id="RMXamxn0nOjy0jK08jtI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-13" target="RMXamxn0nOjy0jK08jtI-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-13" value="采集&lt;div&gt;监测地和机壳地之间的交流电压/输入漏电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RMXamxn0nOjy0jK08jtI-13" value="采集&lt;div&gt;交流/直流输入电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-18" target="RMXamxn0nOjy0jK08jtI-6">
