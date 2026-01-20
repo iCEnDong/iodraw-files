@@ -164,7 +164,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-152" target="ninNOT8_ZLoJMXSdcKhE-133" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="715" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-152" value="满足电池充电条件" style="rhombus;html=1;" parent="1" vertex="1">
           <mxGeometry x="619.5" y="635" width="120" height="80" as="geometry" />
