@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-2" value="采集&lt;div&gt;交流/直流输入电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="810" width="110" height="50" as="geometry" />
+          <mxGeometry x="530" y="550" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-4" target="dgEHb1_nlDoEsXombFio-16">
           <mxGeometry relative="1" as="geometry" />
