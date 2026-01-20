@@ -16,9 +16,6 @@
         <mxCell id="pYshjimT05k-dWfylcja-11" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="180" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pYshjimT05k-dWfylcja-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="940" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-41" target="pYshjimT05k-dWfylcja-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -50,6 +47,9 @@
         <mxCell id="pYshjimT05k-dWfylcja-43" value="指令合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.50000000000006" y="350" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pYshjimT05k-dWfylcja-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-45" target="pYshjimT05k-dWfylcja-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-45" value="安全信号采集及保护" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,6 +73,9 @@
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-48" value="系统启动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.50000000000006" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pYshjimT05k-dWfylcja-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-57" target="pYshjimT05k-dWfylcja-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-57" value="输入侧信号采集及保护" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="660" width="120" height="60" as="geometry" />
