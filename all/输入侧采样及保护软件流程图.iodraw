@@ -131,7 +131,7 @@
         <mxCell id="RMXamxn0nOjy0jK08jtI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-6" target="RMXamxn0nOjy0jK08jtI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-6" value="采集&lt;div&gt;检测地和机壳地之间的环路电阻&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RMXamxn0nOjy0jK08jtI-6" value="采集&lt;div&gt;电池组输入电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="440" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-11" target="RMXamxn0nOjy0jK08jtI-22">
