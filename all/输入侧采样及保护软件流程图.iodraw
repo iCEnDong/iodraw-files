@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_WEwYDpCuJz7xEG4XX_A">
-    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,11 +203,6 @@
         <mxCell id="RMXamxn0nOjy0jK08jtI-25" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-27" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -229,15 +224,6 @@
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-29" value="微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="570" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="514" y="840" as="targetPoint" />
-            <mxPoint x="680" y="880" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="680" y="840" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-35">
           <mxGeometry relative="1" as="geometry">
