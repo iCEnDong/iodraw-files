@@ -83,6 +83,14 @@
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-6" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qAxeWGCTHbzO4KyJLvjj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s1KcE1wlHEYcWyM3YdGm-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-12" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="670" width="120" height="60" as="geometry" />
         </mxCell>
