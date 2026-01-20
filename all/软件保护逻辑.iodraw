@@ -366,7 +366,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-8" value="判断&lt;div&gt;直流输入反接/&lt;/div&gt;&lt;div&gt;电池组输入反接&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="640" width="110" height="50" as="geometry" />
+          <mxGeometry x="255" y="80" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-13" target="W5Ow8FNKOgPTnfSUTwc4-14">
           <mxGeometry relative="1" as="geometry" />
@@ -378,10 +378,10 @@
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-13" target="W5Ow8FNKOgPTnfSUTwc4-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="660" as="targetPoint" />
+            <mxPoint x="395" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="215" y="750" />
-              <mxPoint x="215" y="665" />
+              <mxPoint x="385" y="190" />
+              <mxPoint x="385" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -391,10 +391,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-13" value="存在反接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W5Ow8FNKOgPTnfSUTwc4-14" value="无法接入&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="860" width="110" height="50" as="geometry" />
+          <mxGeometry x="255" y="300" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
