@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-133" value="为电池充电" style="rounded=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="740" width="600" height="30" as="geometry" />
+          <mxGeometry x="390" y="750" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-139" target="ninNOT8_ZLoJMXSdcKhE-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -163,13 +163,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ninNOT8_ZLoJMXSdcKhE-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ninNOT8_ZLoJMXSdcKhE-152" target="ninNOT8_ZLoJMXSdcKhE-133" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="690" y="715" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-152" value="满足电池充电条件" style="rhombus;html=1;" parent="1" vertex="1">
           <mxGeometry x="619.5" y="635" width="120" height="80" as="geometry" />
         </mxCell>
@@ -222,6 +215,9 @@
         </mxCell>
         <mxCell id="ninNOT8_ZLoJMXSdcKhE-169" value="启动电源且&lt;div&gt;未触发保护&lt;/div&gt;" style="rhombus;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ht-y_YULpIr5a9yGA5pf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.484;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ninNOT8_ZLoJMXSdcKhE-152" target="ninNOT8_ZLoJMXSdcKhE-133">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
