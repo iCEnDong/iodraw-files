@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="572" y="610" />
-              <mxPoint x="645" y="610" />
+              <mxPoint x="685" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="675" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T539Vg3fhHS5uWRARrG5-32" value="电池充电" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="750" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
