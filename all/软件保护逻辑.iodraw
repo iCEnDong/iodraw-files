@@ -184,18 +184,8 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-70" value="微欠压" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="820" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-73" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-73" value="蜂鸣器间歇报警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="930" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-77" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="1000" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-77" value="切断直流输出&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="930" width="110" height="50" as="geometry" />
@@ -255,11 +245,6 @@
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-109" value="存在过压/过流/短路" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="710" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="f3ikeLvIMA7b6u6srMxH-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f3ikeLvIMA7b6u6srMxH-110" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="1000" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="f3ikeLvIMA7b6u6srMxH-110" value="切断交流/直流输出&lt;br&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="930" width="110" height="50" as="geometry" />
@@ -397,11 +382,6 @@
         </mxCell>
         <mxCell id="loPKCyCnJGeJG1a6x8GD-2" value="电池充电过压/过流" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="810" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="loPKCyCnJGeJG1a6x8GD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="loPKCyCnJGeJG1a6x8GD-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="1000" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="loPKCyCnJGeJG1a6x8GD-5" value="充电截止" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="930" width="60" height="50" as="geometry" />
