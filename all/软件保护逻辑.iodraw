@@ -76,40 +76,6 @@
         <mxCell id="f3ikeLvIMA7b6u6srMxH-126" value="&lt;div&gt;切断交流输入&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="320" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="512.5" y="-50" as="sourcePoint" />
-            <mxPoint x="512.5" y="-30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="f3ikeLvIMA7b6u6srMxH-120" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="512.5" y="50" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W5Ow8FNKOgPTnfSUTwc4-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s1KcE1wlHEYcWyM3YdGm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="W5Ow8FNKOgPTnfSUTwc4-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="100" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s1KcE1wlHEYcWyM3YdGm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="-120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="210" />
-              <mxPoint x="180" y="210" />
-              <mxPoint x="180" y="-120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W5Ow8FNKOgPTnfSUTwc4-16" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="s1KcE1wlHEYcWyM3YdGm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5Ow8FNKOgPTnfSUTwc4-28" target="s1KcE1wlHEYcWyM3YdGm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
