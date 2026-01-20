@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-2" value="采集&lt;div&gt;交流/直流输入电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="640" width="110" height="50" as="geometry" />
+          <mxGeometry x="25" y="810" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-4" target="dgEHb1_nlDoEsXombFio-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-4" value="采集&lt;div&gt;电池组输入电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="640" width="110" height="50" as="geometry" />
+          <mxGeometry x="185" y="810" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-9" target="dgEHb1_nlDoEsXombFio-10">
           <mxGeometry relative="1" as="geometry" />
@@ -33,14 +33,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-9" value="存在过欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="20" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-10" value="切断交流/直流输入&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="860" width="110" height="50" as="geometry" />
+          <mxGeometry x="25" y="1030" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="1070" as="targetPoint" />
+            <mxPoint x="20" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-16" target="dgEHb1_nlDoEsXombFio-21">
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-16" value="存在欠压/微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-21" target="dgEHb1_nlDoEsXombFio-23">
           <mxGeometry relative="1" as="geometry" />
@@ -79,50 +79,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-21" value="微欠压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="990" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="1070" as="targetPoint" />
+            <mxPoint x="155" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-23" value="蜂鸣器间歇报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="970" width="110" height="50" as="geometry" />
+          <mxGeometry x="100" y="1140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgEHb1_nlDoEsXombFio-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495" y="1070" as="targetPoint" />
+            <mxPoint x="285" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-25" value="切断直流输出&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="970" width="110" height="50" as="geometry" />
+          <mxGeometry x="230" y="1140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-26" value="" style="endArrow=classic;html=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="385" y="600" as="sourcePoint" />
-            <mxPoint x="385.0000000000002" y="600" as="targetPoint" />
+            <mxPoint x="175" y="770" as="sourcePoint" />
+            <mxPoint x="175.00000000000023" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-27" value="" style="endArrow=classic;html=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="600" as="sourcePoint" />
-            <mxPoint x="520" y="600" as="targetPoint" />
+            <mxPoint x="310" y="770" as="sourcePoint" />
+            <mxPoint x="310" y="770" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dgEHb1_nlDoEsXombFio-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="600" as="sourcePoint" />
-            <mxPoint x="320" y="510" as="targetPoint" />
+            <mxPoint x="80" y="770" as="sourcePoint" />
+            <mxPoint x="110" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHb1_nlDoEsXombFio-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="449.8" y="600" as="sourcePoint" />
-            <mxPoint x="449.8" y="640" as="targetPoint" />
+            <mxPoint x="239.8" y="770" as="sourcePoint" />
+            <mxPoint x="239.8" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dgEHb1_nlDoEsXombFio-30" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="dgEHb1_nlDoEsXombFio-30" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="520" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
