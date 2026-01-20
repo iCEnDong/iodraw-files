@@ -189,13 +189,14 @@
         <mxCell id="RMXamxn0nOjy0jK08jtI-23" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="840" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RMXamxn0nOjy0jK08jtI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-25">
+        <mxCell id="RMXamxn0nOjy0jK08jtI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="140" as="targetPoint" />
+            <mxPoint x="517" y="140" as="targetPoint" />
+            <mxPoint x="677" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="680" y="470" />
-              <mxPoint x="780" y="470" />
-              <mxPoint x="780" y="140" />
+              <mxPoint x="677" y="470" />
+              <mxPoint x="777" y="470" />
+              <mxPoint x="777" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
