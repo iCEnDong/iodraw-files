@@ -191,7 +191,11 @@
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMXamxn0nOjy0jK08jtI-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="140" as="targetPoint" />
+            <mxPoint x="520" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="470" />
+              <mxPoint x="771" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RMXamxn0nOjy0jK08jtI-25" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
