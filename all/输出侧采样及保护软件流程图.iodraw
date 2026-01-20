@@ -1,89 +1,89 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yjtjqAeACwkPwstoCv60">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T539Vg3fhHS5uWRARrG5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-2" target="T539Vg3fhHS5uWRARrG5-11">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-2" target="T539Vg3fhHS5uWRARrG5-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="472.5" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-4" target="T539Vg3fhHS5uWRARrG5-9">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-4" target="T539Vg3fhHS5uWRARrG5-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-4" value="采集&lt;div&gt;交流输出电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-4" value="采集&lt;div&gt;交流输出电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="460" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-9" target="T539Vg3fhHS5uWRARrG5-20">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-9" target="T539Vg3fhHS5uWRARrG5-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-5">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3218" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-9" target="T539Vg3fhHS5uWRARrG5-26">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-9" target="T539Vg3fhHS5uWRARrG5-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="513" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-7">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-7" vertex="1" connectable="0">
           <mxGeometry x="-0.3733" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-9" value="存在过流/短路" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-9" value="存在过流/短路" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-11" target="T539Vg3fhHS5uWRARrG5-16">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-11" target="T539Vg3fhHS5uWRARrG5-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-11" value="采集&lt;div&gt;直流输出电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-11" value="采集&lt;div&gt;直流输出电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="180" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-16" target="T539Vg3fhHS5uWRARrG5-4">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-16" target="T539Vg3fhHS5uWRARrG5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-12">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-12" vertex="1" connectable="0">
           <mxGeometry x="-0.2013" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-16" target="T539Vg3fhHS5uWRARrG5-18">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-16" target="T539Vg3fhHS5uWRARrG5-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-14">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-14" vertex="1" connectable="0">
           <mxGeometry x="-0.2604" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-16" value="存在过压/过流/短路" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-16" value="存在过压/过流/短路" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-18" target="T539Vg3fhHS5uWRARrG5-23">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-18" target="T539Vg3fhHS5uWRARrG5-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-18" value="&lt;div&gt;切断直流输出&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-18" value="&lt;div&gt;切断直流输出&lt;/div&gt;&lt;div&gt;声光报警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="320" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-20" target="T539Vg3fhHS5uWRARrG5-25">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-20" target="T539Vg3fhHS5uWRARrG5-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;切断交流输出&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;切断交流输出&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;声光报警&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="600" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-21" value="检测完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="472.5" y="970" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-23" target="T539Vg3fhHS5uWRARrG5-4">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-23" target="T539Vg3fhHS5uWRARrG5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-23" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-23" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-25">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="750" as="targetPoint" />
             <Array as="points">
@@ -91,18 +91,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-25" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-25" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-26" target="T539Vg3fhHS5uWRARrG5-21">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-26" target="T539Vg3fhHS5uWRARrG5-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-27">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-27" vertex="1" connectable="0">
           <mxGeometry x="-0.2923" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-26" target="T539Vg3fhHS5uWRARrG5-29">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-26" target="T539Vg3fhHS5uWRARrG5-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="572" y="610" />
@@ -110,21 +110,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-30">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-30" vertex="1" connectable="0">
           <mxGeometry x="-0.3988" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-26" value="电池充电" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-26" value="电池充电" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-29" target="T539Vg3fhHS5uWRARrG5-32">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-29" target="T539Vg3fhHS5uWRARrG5-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-29" value="采集&lt;div&gt;电池充电电压/电流&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="675" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-32">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="513" y="950" as="targetPoint" />
             <mxPoint x="685" y="860" as="sourcePoint" />
@@ -133,29 +133,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-34">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-34" vertex="1" connectable="0">
           <mxGeometry x="-0.6762" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-32" target="T539Vg3fhHS5uWRARrG5-37">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-32" target="T539Vg3fhHS5uWRARrG5-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T539Vg3fhHS5uWRARrG5-39">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T539Vg3fhHS5uWRARrG5-39" vertex="1" connectable="0">
           <mxGeometry x="-0.4707" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-32" value="存在过压/过流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-32" value="存在过压/过流" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-37" target="T539Vg3fhHS5uWRARrG5-38">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-37" target="T539Vg3fhHS5uWRARrG5-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-37" value="充电截止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-37" value="充电截止" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="810" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T539Vg3fhHS5uWRARrG5-38">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T539Vg3fhHS5uWRARrG5-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="685" y="950" as="targetPoint" />
             <mxPoint x="810" y="940" as="sourcePoint" />
@@ -164,7 +164,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T539Vg3fhHS5uWRARrG5-38" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="T539Vg3fhHS5uWRARrG5-38" value="上报&lt;div&gt;含有具体告警/故障&lt;/div&gt;&lt;div&gt;信息的CAN指令&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
