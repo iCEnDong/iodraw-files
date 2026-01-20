@@ -78,6 +78,15 @@
         <mxCell id="pYshjimT05k-dWfylcja-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pYshjimT05k-dWfylcja-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="432" y="390" />
+              <mxPoint x="432" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pYshjimT05k-dWfylcja-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYshjimT05k-dWfylcja-51">
+          <mxGeometry x="-0.5347" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYshjimT05k-dWfylcja-43" value="指令合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
