@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-37" value="主控DSP/MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
