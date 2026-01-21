@@ -108,6 +108,9 @@
         <mxCell id="b5_7CCfUL2IyVKy5r42L-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-31" target="b5_7CCfUL2IyVKy5r42L-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-31" target="b5_7CCfUL2IyVKy5r42L-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-31" value="DC/DC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -126,7 +129,7 @@
         <mxCell id="b5_7CCfUL2IyVKy5r42L-37" value="主控DSP/MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b5_7CCfUL2IyVKy5r42L-44" value="输出检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-44" value="PWM驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
