@@ -22,6 +22,15 @@
         <mxCell id="b5_7CCfUL2IyVKy5r42L-7" value="有源PFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-8" value="有源PFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-9" value="有源PFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-10" value="有源PFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
