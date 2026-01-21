@@ -41,7 +41,7 @@
           <mxGeometry x="620" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-10" value="辅助电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="640" width="130" height="60" as="geometry" />
+          <mxGeometry x="480" y="640" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="b5_7CCfUL2IyVKy5r42L-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,6 +61,9 @@
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-13" value="EMI滤波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.939;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-10" target="b5_7CCfUL2IyVKy5r42L-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
