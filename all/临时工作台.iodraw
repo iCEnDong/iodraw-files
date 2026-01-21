@@ -52,7 +52,17 @@
         <mxCell id="b5_7CCfUL2IyVKy5r42L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-9" target="b5_7CCfUL2IyVKy5r42L-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b5_7CCfUL2IyVKy5r42L-9" value="有源PFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="829.9999999999998" y="760.2758620689656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b5_7CCfUL2IyVKy5r42L-28">
+          <mxGeometry x="-0.183" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-9" value="DC&lt;div&gt;DSP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-10" value="辅助电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
