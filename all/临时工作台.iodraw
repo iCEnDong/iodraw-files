@@ -99,7 +99,7 @@
         <mxCell id="b5_7CCfUL2IyVKy5r42L-30" value="输入滤波EMI/浪涌防反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b5_7CCfUL2IyVKy5r42L-31" value="输入滤波EMI/浪涌防反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-31" value="DC/DC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
