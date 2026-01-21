@@ -102,27 +102,17 @@
         <mxCell id="b5_7CCfUL2IyVKy5r42L-30" value="输入滤波EMI/浪涌防反接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b5_7CCfUL2IyVKy5r42L-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1750" y="340.33333333333337" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5_7CCfUL2IyVKy5r42L-34" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b5_7CCfUL2IyVKy5r42L-33">
-          <mxGeometry x="-0.2211" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-31" value="DC/DC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-32" target="b5_7CCfUL2IyVKy5r42L-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-32" value="输入检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-35" value="输出检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b5_7CCfUL2IyVKy5r42L-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.164;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b5_7CCfUL2IyVKy5r42L-31" target="b5_7CCfUL2IyVKy5r42L-35">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-37" value="主控DSP/MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="540" width="120" height="60" as="geometry" />
