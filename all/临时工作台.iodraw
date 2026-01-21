@@ -154,6 +154,9 @@
         <mxCell id="b5_7CCfUL2IyVKy5r42L-49" value="CAN通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b5_7CCfUL2IyVKy5r42L-53" value="风机/接触控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
