@@ -185,7 +185,7 @@
           <mxGeometry x="2320" y="830" width="800" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-8" value="文件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="2310" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-9" value="工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2490" y="810" width="60" height="30" as="geometry" />
@@ -194,7 +194,7 @@
           <mxGeometry x="2528.14" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-12" value="综合电源上位机操作平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="786" width="140" height="30" as="geometry" />
+          <mxGeometry x="2320" y="790" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i-blog.csdnimg.cn/blog_migrate/e4c341372c792c7c47f1dd013c84d7cc.png;" vertex="1" parent="1">
           <mxGeometry x="2339" y="891.6" width="78.14" height="68.4" as="geometry" />
