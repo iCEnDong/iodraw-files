@@ -37,9 +37,9 @@
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6bgRnK-Yur5uUtKIW7y-14" target="q6bgRnK-Yur5uUtKIW7y-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q6bgRnK-Yur5uUtKIW7y-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q6bgRnK-Yur5uUtKIW7y-29">
+        <mxCell id="q6bgRnK-Yur5uUtKIW7y-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q6bgRnK-Yur5uUtKIW7y-29">
           <mxGeometry x="0.1789" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-14" value="存在故障/告警" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q6bgRnK-Yur5uUtKIW7y-26">
           <mxGeometry x="-0.6836" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-28" value="具体故障/告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
