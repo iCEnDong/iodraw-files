@@ -354,7 +354,7 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-48" value="正常电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-47">
           <mxGeometry x="0.0772" y="-2" relative="1" as="geometry">
-            <mxPoint x="105" as="offset" />
+            <mxPoint x="42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -363,7 +363,7 @@
             <mxPoint x="1950" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-50" value="选择直流输入供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-49">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-50" value="选择交流输入供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-49">
           <mxGeometry x="-0.2697" y="1" relative="1" as="geometry">
             <mxPoint x="-147" as="offset" />
           </mxGeometry>
