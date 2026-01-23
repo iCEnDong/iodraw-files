@@ -675,6 +675,17 @@
             <mxPoint x="43" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-153" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="2460" as="sourcePoint" />
+            <mxPoint x="1970" y="2460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-154" value="选择交流输入供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-153">
+          <mxGeometry x="-0.2697" y="1" relative="1" as="geometry">
+            <mxPoint x="-147" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
