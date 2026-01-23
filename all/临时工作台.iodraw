@@ -203,7 +203,7 @@
           <mxGeometry x="2450" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-19" value="交流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2417.14" y="861.6" width="60" height="30" as="geometry" />
+          <mxGeometry x="2330" y="855" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-20" value="状态信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2339" y="990" width="60" height="30" as="geometry" />
@@ -266,7 +266,7 @@
           <mxGeometry x="2640" y="1355" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-64" value="实时监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="1360" width="51" height="20" as="geometry" />
+          <mxGeometry x="2349" y="1362" width="51" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-65" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2426.1400000000003" y="1362" width="51" height="20" as="geometry" />
