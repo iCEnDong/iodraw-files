@@ -455,6 +455,22 @@
             <mxPoint x="-36" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-65" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1800" as="sourcePoint" />
+            <mxPoint x="1190" y="1820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="1790" />
+              <mxPoint x="1270" y="1810" />
+              <mxPoint x="1240" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-66" value="启动保护检测计时t2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-65">
+          <mxGeometry x="0.0938" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
