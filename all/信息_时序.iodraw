@@ -134,6 +134,11 @@
             <mxPoint x="1190" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-11" value="正常电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-10">
+          <mxGeometry x="0.0772" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
