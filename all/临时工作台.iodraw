@@ -202,8 +202,8 @@
         <mxCell id="sGsmZRo8s-4kzaG7Am05-12" value="综合电源上位机操作平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2320" y="805" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sGsmZRo8s-4kzaG7Am05-14" value="综合电源上位机操作平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="780" width="140" height="30" as="geometry" />
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i-blog.csdnimg.cn/blog_migrate/e4c341372c792c7c47f1dd013c84d7cc.png;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="950" width="842" height="737" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
