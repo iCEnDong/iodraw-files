@@ -7,7 +7,7 @@
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-5" value="CAN通信总线" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q6bgRnK-Yur5uUtKIW7y-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q6bgRnK-Yur5uUtKIW7y-6" value="通信接口/上位机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
