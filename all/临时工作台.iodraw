@@ -316,7 +316,7 @@
         <mxCell id="sGsmZRo8s-4kzaG7Am05-81" value="电流:xxA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2680" y="965" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sGsmZRo8s-4kzaG7Am05-82" value="直流输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-82" value="交流输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2560" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-83" value="状态信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
