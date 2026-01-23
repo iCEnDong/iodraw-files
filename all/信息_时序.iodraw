@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="nc6HXRhGF41j_cOq3pXl">
-    <mxGraphModel dx="500" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -620,17 +620,6 @@
             <mxPoint x="-147" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1590" y="2440" as="sourcePoint" />
-            <mxPoint x="1210" y="2440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-106" value="异常电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-105">
-          <mxGeometry x="-0.6641" y="-1" relative="1" as="geometry">
-            <mxPoint x="-36" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-107" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="2500" as="sourcePoint" />
@@ -640,38 +629,6 @@
         <mxCell id="nOmfzruTBQzRwfCopKa5-108" value="保持正常输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-107">
           <mxGeometry x="-0.3018" y="1" relative="1" as="geometry">
             <mxPoint x="115" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-109" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="2460" as="sourcePoint" />
-            <mxPoint x="1210" y="2480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1260" y="2450" />
-              <mxPoint x="1290" y="2470" />
-              <mxPoint x="1260" y="2490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-110" value="启动保护检测计时t2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-109">
-          <mxGeometry x="0.0938" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-111" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="2520" as="sourcePoint" />
-            <mxPoint x="1210" y="2540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1260" y="2510" />
-              <mxPoint x="1290" y="2530" />
-              <mxPoint x="1260" y="2550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-112" value="确认不可用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-111">
-          <mxGeometry x="0.0938" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
