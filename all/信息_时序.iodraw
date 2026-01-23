@@ -898,7 +898,7 @@
             <mxPoint x="1970" y="2250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-146" value="保持正常输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-145">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-146" value="短暂轻微波动后恢复" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-145">
           <mxGeometry x="-0.3018" y="1" relative="1" as="geometry">
             <mxPoint x="115" as="offset" />
           </mxGeometry>
