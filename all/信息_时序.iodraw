@@ -272,7 +272,7 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="1380" as="sourcePoint" />
+            <mxPoint x="1570" y="1380" as="sourcePoint" />
             <mxPoint x="1190" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -303,7 +303,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-40" value="启动保护检测计时t1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-39">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-40" value="启动保护检测计时t2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-39">
           <mxGeometry x="0.0938" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
