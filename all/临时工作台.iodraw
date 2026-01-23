@@ -217,8 +217,8 @@
         <mxCell id="sGsmZRo8s-4kzaG7Am05-19" value="交流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2417.14" y="861.6" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sGsmZRo8s-4kzaG7Am05-20" value="故障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="990" width="60" height="30" as="geometry" />
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-20" value="状态信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2339" y="990" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
