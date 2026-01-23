@@ -251,7 +251,7 @@
         <mxCell id="nOmfzruTBQzRwfCopKa5-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="1320" as="sourcePoint" />
-            <mxPoint x="1950" y="1320" as="targetPoint" />
+            <mxPoint x="1870" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-32" value="选择直流输入供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-31">
@@ -262,7 +262,7 @@
         <mxCell id="nOmfzruTBQzRwfCopKa5-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="1350" as="sourcePoint" />
-            <mxPoint x="1950" y="1350" as="targetPoint" />
+            <mxPoint x="1870" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-34" value="稳定输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-33">
