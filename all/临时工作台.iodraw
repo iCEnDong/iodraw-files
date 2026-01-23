@@ -209,9 +209,9 @@
           <mxGeometry x="2450" y="891.6" width="78.14" height="68.4" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-17" value="电压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2339" y="960" width="60" height="30" as="geometry" />
+          <mxGeometry x="2330" y="980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sGsmZRo8s-4kzaG7Am05-18" value="电压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-18" value="电流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2459.07" y="960" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
