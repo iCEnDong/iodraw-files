@@ -471,6 +471,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-67" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1850" as="sourcePoint" />
+            <mxPoint x="1190" y="1870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="1840" />
+              <mxPoint x="1270" y="1860" />
+              <mxPoint x="1240" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-68" value="确认不可用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-67">
+          <mxGeometry x="0.0938" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
