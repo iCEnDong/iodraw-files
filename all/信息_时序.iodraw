@@ -96,7 +96,7 @@
           <mxGeometry x="1700" y="960" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-40" value="输出" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="1847" y="960" width="50" height="30" as="geometry" />
+          <mxGeometry x="1845" y="960" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="q6bgRnK-Yur5uUtKIW7y-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,8 +124,8 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="q6bgRnK-Yur5uUtKIW7y-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1872" y="1580" as="sourcePoint" />
-            <mxPoint x="1867" y="1060" as="targetPoint" />
+            <mxPoint x="1870" y="1580" as="sourcePoint" />
+            <mxPoint x="1865" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -164,7 +164,7 @@
         <mxCell id="nOmfzruTBQzRwfCopKa5-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="1100" as="sourcePoint" />
-            <mxPoint x="1950" y="1100" as="targetPoint" />
+            <mxPoint x="1870" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-17" value="稳定输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-16">
@@ -191,7 +191,7 @@
         <mxCell id="nOmfzruTBQzRwfCopKa5-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="1190" as="sourcePoint" />
-            <mxPoint x="1950" y="1190" as="targetPoint" />
+            <mxPoint x="1870" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-21" value="保持正常输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-20">
