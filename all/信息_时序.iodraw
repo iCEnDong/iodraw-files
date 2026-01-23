@@ -40,8 +40,8 @@
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-17" value="打包所有需要上报的信息，按照协议约定格式上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="490" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q6bgRnK-Yur5uUtKIW7y-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="q6bgRnK-Yur5uUtKIW7y-18" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="940" y="240" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
