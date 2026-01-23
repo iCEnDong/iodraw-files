@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sGsmZRo8s-4kzaG7Am05-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="810" width="800" height="20" as="geometry" />
+          <mxGeometry x="2320" y="800" width="800" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b5_7CCfUL2IyVKy5r42L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b5_7CCfUL2IyVKy5r42L-1" target="b5_7CCfUL2IyVKy5r42L-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -194,7 +194,7 @@
           <mxGeometry x="2460" y="825" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-12" value="综合电源上位机操作平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="805" width="140" height="30" as="geometry" />
+          <mxGeometry x="2320" y="795" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i-blog.csdnimg.cn/blog_migrate/e4c341372c792c7c47f1dd013c84d7cc.png;" vertex="1" parent="1">
           <mxGeometry x="2339" y="891.6" width="78.14" height="68.4" as="geometry" />
