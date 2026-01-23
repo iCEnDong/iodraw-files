@@ -436,12 +436,12 @@
         <mxCell id="nOmfzruTBQzRwfCopKa5-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="1750" as="sourcePoint" />
-            <mxPoint x="1570" y="1750" as="targetPoint" />
+            <mxPoint x="1380" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-62" value="关闭交流回路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-61">
           <mxGeometry x="-0.0035" y="-1" relative="1" as="geometry">
-            <mxPoint x="-59" as="offset" />
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
