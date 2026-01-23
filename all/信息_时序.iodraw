@@ -136,7 +136,7 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-11" value="正常电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-10">
           <mxGeometry x="0.0772" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="207" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -145,7 +145,7 @@
             <mxPoint x="1950" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-13" value="选择交流供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-12">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-13" value="选择电池组供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-12">
           <mxGeometry x="-0.2697" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
