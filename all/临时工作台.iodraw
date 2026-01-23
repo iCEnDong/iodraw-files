@@ -191,7 +191,7 @@
           <mxGeometry x="2460" y="825" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-12" value="综合电源上位机操作平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="1350" width="140" height="30" as="geometry" />
+          <mxGeometry x="2750" y="1415" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i-blog.csdnimg.cn/blog_migrate/e4c341372c792c7c47f1dd013c84d7cc.png;" vertex="1" parent="1">
           <mxGeometry x="2339" y="891.6" width="78.14" height="68.4" as="geometry" />
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-65" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2590" y="1420" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1360" width="570" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
