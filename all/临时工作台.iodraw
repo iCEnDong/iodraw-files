@@ -185,7 +185,7 @@
           <mxGeometry x="2350" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="2330" y="870" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="830" width="800" height="20" as="geometry" />
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-12" value="综合电源上位机操作平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2320" y="805" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-14" value="综合电源上位机操作平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="780" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
