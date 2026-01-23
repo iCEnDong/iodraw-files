@@ -214,6 +214,9 @@
         <mxCell id="sGsmZRo8s-4kzaG7Am05-18" value="电流:xxA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2459.07" y="980" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-19" value="交流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="862" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
