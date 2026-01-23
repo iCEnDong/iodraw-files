@@ -573,7 +573,7 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-86" value="正常电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-85">
           <mxGeometry x="-0.6641" y="-1" relative="1" as="geometry">
-            <mxPoint x="-16" as="offset" />
+            <mxPoint x="-46" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-87" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -596,17 +596,6 @@
         <mxCell id="nOmfzruTBQzRwfCopKa5-92" value="保持正常输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-91">
           <mxGeometry x="-0.3018" y="1" relative="1" as="geometry">
             <mxPoint x="115" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="2310" as="sourcePoint" />
-            <mxPoint x="1780" y="2310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-96" value="关闭电池组回路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-95">
-          <mxGeometry x="-0.0035" y="-1" relative="1" as="geometry">
-            <mxPoint x="-154" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
