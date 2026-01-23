@@ -232,9 +232,9 @@
             <mxPoint x="1190" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-27" value="重启或清除故障" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-26">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-27" value="清除故障" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-26">
           <mxGeometry x="-0.4476" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint x="15" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
