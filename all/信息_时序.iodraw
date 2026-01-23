@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="nc6HXRhGF41j_cOq3pXl">
-    <mxGraphModel dx="600" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,10 +87,10 @@
           <mxGeometry x="1130" y="970" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-37" value="交流输入" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="960" width="120" height="30" as="geometry" />
+          <mxGeometry x="1320" y="960" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-38" value="直流输入" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="960" width="120" height="30" as="geometry" />
+          <mxGeometry x="1510" y="960" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-39" value="电池组输入" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="1700" y="960" width="120" height="30" as="geometry" />
