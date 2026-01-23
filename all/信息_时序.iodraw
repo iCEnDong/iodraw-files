@@ -615,7 +615,7 @@
             <mxPoint x="1970" y="2340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-102" value="选择直流输入供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-101">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-102" value="选择交流输入供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-101">
           <mxGeometry x="-0.2697" y="1" relative="1" as="geometry">
             <mxPoint x="-147" as="offset" />
           </mxGeometry>
