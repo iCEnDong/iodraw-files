@@ -271,7 +271,7 @@
         <mxCell id="sGsmZRo8s-4kzaG7Am05-65" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2426.1400000000003" y="1362" width="51" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sGsmZRo8s-4kzaG7Am05-67" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-67" value="参数设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2500.0000000000005" y="1362" width="51" height="20" as="geometry" />
         </mxCell>
       </root>
