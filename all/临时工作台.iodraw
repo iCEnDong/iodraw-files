@@ -227,7 +227,7 @@
           <mxGeometry x="2450" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-27" value="直流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2417.14" y="1031.6" width="60" height="30" as="geometry" />
+          <mxGeometry x="2330" y="1019.9999999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-28" value="状态信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2339" y="1160" width="60" height="30" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry x="2450" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-35" value="电池组输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2417.14" y="1191.6" width="72.86" height="30" as="geometry" />
+          <mxGeometry x="2327" y="1182.5" width="72.86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-36" value="状态信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2339" y="1320" width="60" height="30" as="geometry" />
@@ -270,6 +270,9 @@
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-65" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2426.1400000000003" y="1362" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-67" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2500.0000000000005" y="1362" width="51" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
