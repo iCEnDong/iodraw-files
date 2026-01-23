@@ -84,7 +84,7 @@
           <mxGeometry x="300.5" y="970" width="679" height="1032.7" as="geometry" />
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-36" value="主控" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1130" y="970" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-37" value="交流输入" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="960" width="120" height="60" as="geometry" />
