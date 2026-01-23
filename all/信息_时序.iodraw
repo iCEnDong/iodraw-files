@@ -670,7 +670,7 @@
             <mxPoint x="1210" y="2430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-152" value="正常电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-151">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-152" value="断开输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-151">
           <mxGeometry x="0.0772" y="-2" relative="1" as="geometry">
             <mxPoint x="43" as="offset" />
           </mxGeometry>
