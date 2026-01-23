@@ -86,11 +86,6 @@
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-36" value="主控" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="960" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q6bgRnK-Yur5uUtKIW7y-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1360" y="1400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-37" value="交流输入" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="960" width="120" height="30" as="geometry" />
         </mxCell>
@@ -107,6 +102,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="1571.3333129882812" as="sourcePoint" />
             <mxPoint x="1260" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="q6bgRnK-Yur5uUtKIW7y-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="1570" as="sourcePoint" />
+            <mxPoint x="1520" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
