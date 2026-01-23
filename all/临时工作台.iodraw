@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="830" width="800" height="480" as="geometry" />
+          <mxGeometry x="2320" y="830" width="800" height="530" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2330" y="860" width="220" height="160" as="geometry" />
@@ -240,6 +240,30 @@
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2400" y="1167.5" width="122" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="1190" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i-blog.csdnimg.cn/blog_migrate/e4c341372c792c7c47f1dd013c84d7cc.png;" vertex="1" parent="1">
+          <mxGeometry x="2339" y="1221.6" width="78.14" height="68.4" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i-blog.csdnimg.cn/blog_migrate/e4c341372c792c7c47f1dd013c84d7cc.png;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="1221.6" width="78.14" height="68.4" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-33" value="电压:xxV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-34" value="电流:xxA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-35" value="交流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2417.14" y="1191.6" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-36" value="状态信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2339" y="1320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="1327.5" width="122" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
