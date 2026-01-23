@@ -22,9 +22,6 @@
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-10" value="采集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q6bgRnK-Yur5uUtKIW7y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6bgRnK-Yur5uUtKIW7y-11" target="q6bgRnK-Yur5uUtKIW7y-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-11" value="系统上电" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,6 +36,9 @@
         </mxCell>
         <mxCell id="q6bgRnK-Yur5uUtKIW7y-17" value="打包所有需要上报的信息，按照协议约定格式上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="340" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q6bgRnK-Yur5uUtKIW7y-20" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
