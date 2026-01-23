@@ -598,21 +598,10 @@
             <mxPoint x="115" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="2330" as="sourcePoint" />
-            <mxPoint x="1210" y="2330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-98" value="清除故障" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-97">
-          <mxGeometry x="-0.4476" relative="1" as="geometry">
-            <mxPoint x="6" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-99" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1590" y="2350" as="sourcePoint" />
-            <mxPoint x="1210" y="2350" as="targetPoint" />
+            <mxPoint x="1590" y="2310" as="sourcePoint" />
+            <mxPoint x="1210" y="2310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-100" value="正常电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-99">
@@ -878,7 +867,7 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-142" value="选择直流输入供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-141">
           <mxGeometry x="-0.2697" y="1" relative="1" as="geometry">
-            <mxPoint x="-9" as="offset" />
+            <mxPoint x="-147" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-145" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
