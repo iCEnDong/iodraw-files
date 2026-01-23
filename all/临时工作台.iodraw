@@ -185,7 +185,7 @@
           <mxGeometry x="2320" y="830" width="800" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-8" value="文件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="825" width="60" height="30" as="geometry" />
+          <mxGeometry x="2490" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-9" value="工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2390" y="825" width="60" height="30" as="geometry" />
@@ -256,8 +256,8 @@
         <mxCell id="sGsmZRo8s-4kzaG7Am05-34" value="电流:xxA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2450" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sGsmZRo8s-4kzaG7Am05-35" value="交流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2417.14" y="1191.6" width="60" height="30" as="geometry" />
+        <mxCell id="sGsmZRo8s-4kzaG7Am05-35" value="电池组输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2417.14" y="1191.6" width="72.86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGsmZRo8s-4kzaG7Am05-36" value="状态信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2339" y="1320" width="60" height="30" as="geometry" />
