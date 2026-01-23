@@ -210,7 +210,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-23" value="启动保护检测计时t1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-22">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-23" value="确认交流不可用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-22">
           <mxGeometry x="0.0938" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
