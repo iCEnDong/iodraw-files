@@ -724,7 +724,7 @@
           <mxGeometry x="1130" y="3110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-163" value="直流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="3070" width="60" height="30" as="geometry" />
+          <mxGeometry x="1135" y="3070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-164" value="电池组输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="3040" width="70" height="30" as="geometry" />
