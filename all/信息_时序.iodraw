@@ -899,9 +899,9 @@
               <mxPoint x="1280" y="2940" />
               <mxPoint x="1280" y="2900" />
               <mxPoint x="1430" y="2900" />
-              <mxPoint x="1550" y="2900" />
-              <mxPoint x="1550" y="2940" />
-              <mxPoint x="1580" y="2940" />
+              <mxPoint x="1590" y="2900" />
+              <mxPoint x="1590" y="2940" />
+              <mxPoint x="1630" y="2940" />
               <mxPoint x="1630" y="2900" />
             </Array>
           </mxGeometry>
