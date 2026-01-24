@@ -789,9 +789,9 @@
             <mxPoint x="1290" y="2900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-177" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-176">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-177" value="28V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-176">
           <mxGeometry x="-0.2838" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
