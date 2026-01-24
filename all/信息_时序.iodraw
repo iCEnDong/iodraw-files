@@ -721,7 +721,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-162" value="交流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="3080" width="60" height="30" as="geometry" />
+          <mxGeometry x="1130" y="3080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-163" value="交流输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="3020" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
