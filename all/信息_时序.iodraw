@@ -772,7 +772,10 @@
             <Array as="points">
               <mxPoint x="1360" y="3060" />
               <mxPoint x="1360" y="3020" />
+              <mxPoint x="1460" y="3020" />
               <mxPoint x="1460" y="3060" />
+              <mxPoint x="1480" y="3060" />
+              <mxPoint x="1480" y="3020" />
               <mxPoint x="1550" y="3020" />
               <mxPoint x="1550" y="3060" />
               <mxPoint x="1580" y="3060" />
