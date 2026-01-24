@@ -734,8 +734,8 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-166" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1410" y="3100" as="sourcePoint" />
-            <mxPoint x="1460" y="3050" as="targetPoint" />
+            <mxPoint x="1200" y="3130" as="sourcePoint" />
+            <mxPoint x="1610" y="3130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
