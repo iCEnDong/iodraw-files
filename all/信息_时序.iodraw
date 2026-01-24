@@ -880,7 +880,7 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-197" value="供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-196">
           <mxGeometry x="0.3684" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-201" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -914,6 +914,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-204" value="运行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-203">
+          <mxGeometry x="0.3684" y="1" relative="1" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-205" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="2830" as="sourcePoint" />
+            <mxPoint x="1280" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-206" value="运行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-205">
           <mxGeometry x="0.3684" y="1" relative="1" as="geometry">
             <mxPoint x="-15" as="offset" />
           </mxGeometry>
