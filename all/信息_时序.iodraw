@@ -856,7 +856,7 @@
             <mxPoint x="1430" y="3090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-193" value="接入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-192">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-193" value="供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-192">
           <mxGeometry x="0.3684" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -867,7 +867,7 @@
             <mxPoint x="1360" y="3020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOmfzruTBQzRwfCopKa5-195" value="接入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-194">
+        <mxCell id="nOmfzruTBQzRwfCopKa5-195" value="供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-194">
           <mxGeometry x="0.3684" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
