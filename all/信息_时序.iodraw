@@ -843,7 +843,7 @@
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-190" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1519" y="2893.5" as="sourcePoint" />
+            <mxPoint x="1520" y="2760" as="sourcePoint" />
             <mxPoint x="1520" y="2960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -905,6 +905,17 @@
               <mxPoint x="1520" y="2830" />
               <mxPoint x="1520" y="2870" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-203" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="2900" as="sourcePoint" />
+            <mxPoint x="1280" y="2900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOmfzruTBQzRwfCopKa5-204" value="供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOmfzruTBQzRwfCopKa5-203">
+          <mxGeometry x="0.3684" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
