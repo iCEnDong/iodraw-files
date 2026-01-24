@@ -745,7 +745,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-171" value="DCDC单元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="2850" width="70" height="30" as="geometry" />
+          <mxGeometry x="1050" y="2850" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -848,7 +848,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-191" value="ACDC单元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="2790" width="70" height="30" as="geometry" />
+          <mxGeometry x="1050" y="2790" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOmfzruTBQzRwfCopKa5-192" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
