@@ -31,9 +31,6 @@
         <mxCell id="7As9KLxd16c6zoAkbixb-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
           <mxGeometry x="7.390000000000043" y="164.60000000000002" width="283.74" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="7As9KLxd16c6zoAkbixb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
-          <mxGeometry x="2" y="50.35" width="308" height="40.05" as="geometry" />
-        </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-16" value="配电箱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
           <mxGeometry x="129.13" y="2.3999999999999773" width="60" height="30" as="geometry" />
         </mxCell>
@@ -86,13 +83,16 @@
           <mxGeometry width="10.790134733957524" height="12.75" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;" vertex="1" parent="1">
-          <mxGeometry x="576" y="227.72" width="44.25" height="37.31" as="geometry" />
+          <mxGeometry x="680" y="95.69" width="44.25" height="37.31" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-35" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;(Hz)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="569" y="224.5" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-21" value="市 电 输 入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=right;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="384.13" y="90" width="84.53" height="21.47" as="geometry" />
+        </mxCell>
+        <mxCell id="7As9KLxd16c6zoAkbixb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="308" height="40.05" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
