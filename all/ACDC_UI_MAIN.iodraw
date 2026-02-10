@@ -11,10 +11,10 @@
           <mxGeometry x="680" y="95.69" width="44.25" height="37.31" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-21" value="市 电 输 入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=right;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="384.13" y="90" width="84.53" height="21.47" as="geometry" />
+          <mxGeometry x="210" y="190" width="84.53" height="21.47" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="308" height="40.05" as="geometry" />
+          <mxGeometry x="315" y="320" width="308" height="40.05" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-27" value="" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="1">
           <mxGeometry x="650" y="396" width="215.21" height="16" as="geometry" />
