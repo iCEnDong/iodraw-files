@@ -26,10 +26,10 @@
           <mxGeometry x="191.8246174925782" y="140.625" width="6.850879196163508" height="8.625" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-21" value="&amp;nbsp;输 入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=right;fontSize=13;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
-          <mxGeometry x="11.76" y="25" width="38.24" height="26.84" as="geometry" />
+          <mxGeometry x="11.76" y="25" width="18.24" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-38" value="" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
-          <mxGeometry x="15" y="60" width="155" height="16" as="geometry" />
+          <mxGeometry x="40" y="60" width="155" height="16" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-33" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#000000;fillColor=#bbf6ff;shadow=1;" vertex="1" parent="7As9KLxd16c6zoAkbixb-37">
           <mxGeometry width="6.850879196163508" height="9.375" as="geometry" />
