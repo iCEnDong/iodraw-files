@@ -49,9 +49,6 @@
         <mxCell id="7As9KLxd16c6zoAkbixb-20" value="DC24V输出" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;labelPosition=center;align=left;fillColor=#CBD8EB;gradientColor=#0E3AA3;strokeColor=none;gradientDirection=west;flipH=1;fontFamily=微软雅黑;fontStyle=1;fontSize=13;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
           <mxGeometry x="211.90999999999997" y="32.39999999999998" width="99" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="7As9KLxd16c6zoAkbixb-22" value="自发电输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=right;fontSize=13;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
-          <mxGeometry x="5.47" y="102.69" width="84.53" height="21.47" as="geometry" />
-        </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-23" value="蓄电池输入" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#142D45;fontColor=#FFFFFF;fillColor=#5995AB;gradientDirection=south;align=right;fontSize=13;" vertex="1" parent="7As9KLxd16c6zoAkbixb-8">
           <mxGeometry x="5.47" y="138.46" width="84.53" height="21.47" as="geometry" />
         </mxCell>
