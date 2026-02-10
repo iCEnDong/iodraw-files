@@ -14,13 +14,13 @@
           <mxGeometry x="384.13" y="90" width="84.53" height="21.47" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="308" height="40.05" as="geometry" />
+          <mxGeometry x="310" y="310" width="308" height="40.05" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-27" value="" style="shape=display;whiteSpace=wrap;html=1;size=0.03954802259887006;" vertex="1" parent="1">
           <mxGeometry x="650" y="396" width="215.21" height="16" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-37" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="400" width="170" height="120" as="geometry" />
+          <mxGeometry x="320" y="180" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7As9KLxd16c6zoAkbixb-8" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="7As9KLxd16c6zoAkbixb-37">
           <mxGeometry width="170" height="120" as="geometry" />
