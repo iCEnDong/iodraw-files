@@ -102,7 +102,7 @@
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-34" value="采集到≥60A, 屏幕显示过流信息, 3s后发送指令给BMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="400" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dPTOKYKhxwAhfOSRs8aL-35" value="实际需求: BMS收到指令能够&lt;div&gt;1.停止放电 2.P+P-此时仍处于短接但是BMS不应放电 3.P+P-复位并短接恢复正常流程&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-35" value="实际需求: BMS收到指令能够&lt;div&gt;1.停止放电 2.P+P-此时仍处于短接但是BMS不应放电 3.P+P-复位并短接恢复正常流程&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="270" y="510" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-37" value="P+P-短接&lt;div&gt;BMS闭合充放电MOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
