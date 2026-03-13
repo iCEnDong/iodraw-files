@@ -102,13 +102,8 @@
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-34" value="采集到≥60A, 屏幕显示过流信息, 3s后发送指令给BMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="400" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dPTOKYKhxwAhfOSRs8aL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dPTOKYKhxwAhfOSRs8aL-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dPTOKYKhxwAhfOSRs8aL-35" value="实际需求: BMS收到指令能够&lt;div&gt;1.停止放电&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="450" height="30" as="geometry" />
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-35" value="实际需求: BMS收到指令能够&lt;div&gt;1.停止放电 2.P+P-未复位此时依然&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="450" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
