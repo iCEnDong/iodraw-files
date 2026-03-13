@@ -99,8 +99,8 @@
             <mxPoint x="360" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dPTOKYKhxwAhfOSRs8aL-34" value="采集到≥60A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="400" width="60" height="30" as="geometry" />
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-34" value="采集到≥60A, 屏幕显示过流信息, 3s后发送指令给BMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
