@@ -10,7 +10,7 @@
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="150" width="310" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="dPTOKYKhxwAhfOSRs8aL-17" value="控制板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-17" value="控制板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="390" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -93,7 +93,7 @@
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-32" value="控制板供电也来自" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dPTOKYKhxwAhfOSRs8aL-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dPTOKYKhxwAhfOSRs8aL-16">
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dPTOKYKhxwAhfOSRs8aL-32" target="dPTOKYKhxwAhfOSRs8aL-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="240" as="sourcePoint" />
             <mxPoint x="360" y="190" as="targetPoint" />
