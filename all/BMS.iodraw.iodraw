@@ -105,6 +105,9 @@
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-35" value="实际需求: BMS收到指令能够&lt;div&gt;1.停止放电 2.P+P-未复位此时依然&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="510" width="450" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-37" value="P+P-短接&lt;div&gt;BMS闭合充放电MOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
