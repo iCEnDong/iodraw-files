@@ -93,6 +93,12 @@
         <mxCell id="dPTOKYKhxwAhfOSRs8aL-32" value="控制板供电也来自" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dPTOKYKhxwAhfOSRs8aL-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
