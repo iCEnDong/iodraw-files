@@ -90,7 +90,7 @@
             <mxPoint x="-111" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dPTOKYKhxwAhfOSRs8aL-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dPTOKYKhxwAhfOSRs8aL-32" value="控制板供电也来自" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
