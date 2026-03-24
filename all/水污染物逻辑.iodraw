@@ -93,11 +93,14 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-30" value="上电开机自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ckf6diDJOZ9V69YLAcaq-31" target="ckf6diDJOZ9V69YLAcaq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ckf6diDJOZ9V69YLAcaq-31" value="正常运行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ckf6diDJOZ9V69YLAcaq-32" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="700" width="80" height="80" as="geometry" />
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
