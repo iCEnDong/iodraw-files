@@ -108,6 +108,11 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-35" value="弹窗提示扫码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ckf6diDJOZ9V69YLAcaq-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ckf6diDJOZ9V69YLAcaq-37" value="30s内扫码" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="800" width="80" height="80" as="geometry" />
         </mxCell>
