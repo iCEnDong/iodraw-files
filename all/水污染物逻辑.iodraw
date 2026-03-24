@@ -111,6 +111,9 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-37" value="30s内扫码" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="800" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
