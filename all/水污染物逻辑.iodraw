@@ -21,6 +21,11 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ckf6diDJOZ9V69YLAcaq-2" target="ckf6diDJOZ9V69YLAcaq-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-12" value="至多30s" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ckf6diDJOZ9V69YLAcaq-11">
+          <mxGeometry x="-0.2434" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ckf6diDJOZ9V69YLAcaq-2" value="自检&lt;div&gt;网络/流量计通信/设备码&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -31,7 +36,7 @@
           <mxGeometry x="780" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckf6diDJOZ9V69YLAcaq-10" value="正常或仅网络故障" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="640" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
