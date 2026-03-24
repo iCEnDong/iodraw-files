@@ -30,7 +30,7 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ckf6diDJOZ9V69YLAcaq-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-10" value="正常或仅网络故障" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
