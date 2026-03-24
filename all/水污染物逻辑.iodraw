@@ -204,6 +204,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ckf6diDJOZ9V69YLAcaq-58" target="ckf6diDJOZ9V69YLAcaq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ckf6diDJOZ9V69YLAcaq-58" value="30s内按下启动键" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="710" width="80" height="80" as="geometry" />
         </mxCell>
