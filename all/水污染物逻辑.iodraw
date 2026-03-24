@@ -188,7 +188,7 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-52" value="扫码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ckf6diDJOZ9V69YLAcaq-56" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-56" value="30s内按下启动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
