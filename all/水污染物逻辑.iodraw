@@ -21,7 +21,7 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-2" value="自检&lt;div&gt;网络/流量计通信/设备码&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ckf6diDJOZ9V69YLAcaq-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-6" value="使用中" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
