@@ -222,7 +222,7 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-58" value="30s内按下启动键" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckf6diDJOZ9V69YLAcaq-64" value="上电开机自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-64" value="运行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
