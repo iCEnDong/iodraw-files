@@ -90,8 +90,11 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-18" value="网络故障" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckf6diDJOZ9V69YLAcaq-30" value="上电开机自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-30" value="上电开机自检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
