@@ -208,6 +208,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809.9999999999998" y="711" as="sourcePoint" />
             <mxPoint x="350" y="751" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="690" />
+              <mxPoint x="350" y="690" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ckf6diDJOZ9V69YLAcaq-58" value="30s内按下启动键" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
