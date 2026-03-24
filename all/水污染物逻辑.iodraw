@@ -72,6 +72,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ckf6diDJOZ9V69YLAcaq-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="469.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ckf6diDJOZ9V69YLAcaq-27">
+          <mxGeometry x="-0.2472" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ckf6diDJOZ9V69YLAcaq-18" value="网络故障" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="430" width="80" height="80" as="geometry" />
         </mxCell>
