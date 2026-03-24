@@ -13,7 +13,7 @@
         <mxCell id="ckf6diDJOZ9V69YLAcaq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ckf6diDJOZ9V69YLAcaq-2" target="ckf6diDJOZ9V69YLAcaq-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ckf6diDJOZ9V69YLAcaq-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ckf6diDJOZ9V69YLAcaq-7">
+        <mxCell id="ckf6diDJOZ9V69YLAcaq-8" value="网络连接失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ckf6diDJOZ9V69YLAcaq-7">
           <mxGeometry x="-0.3814" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
