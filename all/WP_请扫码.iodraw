@@ -28,9 +28,6 @@
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-8" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="tfvNJ5yYNCzRf5C2TuuD-7">
           <mxGeometry width="315" height="219.00000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="tfvNJ5yYNCzRf5C2TuuD-10" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" vertex="1" parent="tfvNJ5yYNCzRf5C2TuuD-8">
-          <mxGeometry x="302.12377255081066" y="205.31250000000006" width="10.790134733957522" height="12.592500000000003" as="geometry" />
-        </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 13px;&quot;&gt;市电输入运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;fontSize=13;" vertex="1" parent="tfvNJ5yYNCzRf5C2TuuD-8">
           <mxGeometry x="4.350000000000023" y="3.430000000000007" width="304.57" height="17.02" as="geometry" />
         </mxCell>
@@ -150,6 +147,9 @@
         </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6.92;gradientDirection=north;shadow=1;gradientColor=#07305E;fillColor=#1a6385;" vertex="1" parent="1">
           <mxGeometry x="671.13" y="270" width="312.91390728476813" height="217.91044776119406" as="geometry" />
+        </mxCell>
+        <mxCell id="tfvNJ5yYNCzRf5C2TuuD-10" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="920.0037725508107" y="580.0025" width="10.790134733957522" height="12.592500000000003" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
