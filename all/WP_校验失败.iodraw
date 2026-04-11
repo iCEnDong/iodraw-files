@@ -16,7 +16,7 @@
         <mxCell id="f6AQb-A8E_S2Vp8PKNKl-4" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;fillColor=#BBF6FF;shadow=1;" vertex="1" parent="f6AQb-A8E_S2Vp8PKNKl-1">
           <mxGeometry x="0.0036168582375683484" y="0.0018355780923737974" width="10.344827586206893" height="9.24580685129523" as="geometry" />
         </mxCell>
-        <mxCell id="f6AQb-A8E_S2Vp8PKNKl-5" value="请扫船舶二维码, 谢谢!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="f6AQb-A8E_S2Vp8PKNKl-1">
+        <mxCell id="f6AQb-A8E_S2Vp8PKNKl-5" value="校验失败, 请确保网络正常&lt;div&gt;二维码正确&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="f6AQb-A8E_S2Vp8PKNKl-1">
           <mxGeometry x="9.66" y="90" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f6AQb-A8E_S2Vp8PKNKl-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="f6AQb-A8E_S2Vp8PKNKl-1">
