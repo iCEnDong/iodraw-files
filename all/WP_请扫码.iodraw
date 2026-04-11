@@ -17,7 +17,7 @@
           <mxGeometry x="0.0036168582375683484" y="0.0018355780923737974" width="10.344827586206893" height="9.24580685129523" as="geometry" />
         </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-53" value="请扫船舶二维码, 谢谢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tfvNJ5yYNCzRf5C2TuuD-52">
-          <mxGeometry x="80" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="9.66" y="90" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
