@@ -37,9 +37,6 @@
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 13px;&quot;&gt;市电输入运行信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07325A;fontSize=13;" vertex="1" parent="tfvNJ5yYNCzRf5C2TuuD-8">
           <mxGeometry x="4.350000000000023" y="3.430000000000007" width="304.57" height="17.02" as="geometry" />
         </mxCell>
-        <mxCell id="tfvNJ5yYNCzRf5C2TuuD-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A447A;gradientColor=#17324D;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="tfvNJ5yYNCzRf5C2TuuD-8">
-          <mxGeometry x="2.1299999999999955" y="22.450000000000045" width="308.74" height="189.12" as="geometry" />
-        </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A6085;" vertex="1" parent="tfvNJ5yYNCzRf5C2TuuD-8">
           <mxGeometry x="6.1299999999999955" y="24.450000000000045" width="301" height="17" as="geometry" />
         </mxCell>
