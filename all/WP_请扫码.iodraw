@@ -19,6 +19,9 @@
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-53" value="请扫船舶二维码, 谢谢!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="tfvNJ5yYNCzRf5C2TuuD-52">
           <mxGeometry x="9.66" y="90" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tfvNJ5yYNCzRf5C2TuuD-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADMElEQVR4AcRWPWhTYRS934tOQl10dxC0maRoKIJN/aGtce0gODhoBwcXhwqCQTuJm1OHCtJBkNJVWztIEzGUIMUpUXBw10Woi9T3ec/tu1++5P0lEGN599377j33nNP3XtIGa2tU+J8R0AA/c+XTpcrF4tO5qfGdynTx67Xp4k8EaulhxpgBKKkvA1fLxYVKudgITNAgS/eCwJxlkROW6AgCtfQwYwyw2OF+7pFpYPbC+A0mahpDy2SolMumAMZiB7vg0HZSTjXAy9VCwawaQxO6aLTIyD4Gu+AAV9pKogEs8HLVLUWsfLtdK61wmGgHOHCBE3VvxAzMTI3PY6EL6Fg73b09otoHI4G6M4mqnh1wgjuautRlAIBDgXnlphnFYjWg+w+NBOoMqBuBGxquwUWXgYIxi9zLPXY/ESEUiBqh11m5V8MZ4Ge0wLfp4IXznl8S2cSZeDep14WKOKEBLZ05A9baW9rkz7or04rbNzsP2a/T8D6nryUGZs6fKssXCbY7vLhKDYjuvAsJgToV6A8ibmhBEyMxUDgczONCIrpVUg/75HGrphiwls4NqvV81dDkpUAC9aD7qikG+JYcG5TAF/XrfnlUUwzwnTne7yJwSR+5pB6waaGaYiANNIq+GOCX8/soxHwN1RQDYWh/+MNR1KopBoKCqY9C1NdQTTEQhuG6Dvnl0HLo2edWTTGwWfvc5K/KJhT52SD9k3DclpqiySpigDPr0wtkCd+qNIZw8jjZiNNyBjZqrRX+dtoVKUZIHuYp4oQGtJTaGUAjDO0z5LzAn16E4lAj9Dor92p0GXj7vv2SHS5lEejsyaOQHj+wEqi1n5XBDQ0f02UAA749SwCiduE9P+2NjRHNXrESqLXvcs8OOMHt5lERM4A+gPuhvY5aInp+pFmaKSfFaGYYuMDJZexINADUVr29jkV2fvBiotnzW6EVCw+DXXCAK4aLGqkGMMciOy8x0R1+eT6i108Aix3sgiNrJ9OALjLRyma9Pbn/+89l/n9uGQI8+8a/7C8EavQwAwZY7HA/9+jLgLJsNb7UNmrtuxB4s906+Xq7dRSBGj3MgFE8cl78BQAA//94ssPVAAAABklEQVQDANOrbTChJOreAAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="960" y="300" width="32" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
