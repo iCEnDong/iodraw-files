@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-52" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="620" y="280" width="300" height="160" as="geometry" />
+          <mxGeometry x="620" y="280" width="300" height="240" as="geometry" />
         </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6.92;gradientDirection=north;shadow=0;gradientColor=#07305E;fillColor=#1a6385;opacity=80;" parent="tfvNJ5yYNCzRf5C2TuuD-52" vertex="1">
-          <mxGeometry width="299.9999999999999" height="159.99665760407058" as="geometry" />
+          <mxGeometry width="299.9999999999999" height="239.99498640610585" as="geometry" />
         </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-10" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=0;fillColor=#BBF6FF;shadow=1;" parent="tfvNJ5yYNCzRf5C2TuuD-52" vertex="1">
-          <mxGeometry x="289.65517241379314" y="150.75419314870476" width="10.344827586206893" height="9.24580685129523" as="geometry" />
+          <mxGeometry x="289.65517241379314" y="226.13128972305714" width="10.344827586206893" height="13.868710276942846" as="geometry" />
         </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-51" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;fillColor=#BBF6FF;shadow=1;" parent="tfvNJ5yYNCzRf5C2TuuD-52" vertex="1">
-          <mxGeometry x="0.0036168582375683484" y="0.0018355780923737974" width="10.344827586206893" height="9.24580685129523" as="geometry" />
+          <mxGeometry x="0.0036168582375683484" y="0.0027533671385606964" width="10.344827586206893" height="13.868710276942846" as="geometry" />
         </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-53" value="请扫船舶二维码, 谢谢!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" parent="tfvNJ5yYNCzRf5C2TuuD-52" vertex="1">
-          <mxGeometry x="9.66" y="90" width="280" height="30" as="geometry" />
+          <mxGeometry x="9.66" y="135" width="280" height="45" as="geometry" />
         </mxCell>
         <mxCell id="tfvNJ5yYNCzRf5C2TuuD-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADMElEQVR4AcRWPWhTYRS934tOQl10dxC0maRoKIJN/aGtce0gODhoBwcXhwqCQTuJm1OHCtJBkNJVWztIEzGUIMUpUXBw10Woi9T3ec/tu1++5P0lEGN599377j33nNP3XtIGa2tU+J8R0AA/c+XTpcrF4tO5qfGdynTx67Xp4k8EaulhxpgBKKkvA1fLxYVKudgITNAgS/eCwJxlkROW6AgCtfQwYwyw2OF+7pFpYPbC+A0mahpDy2SolMumAMZiB7vg0HZSTjXAy9VCwawaQxO6aLTIyD4Gu+AAV9pKogEs8HLVLUWsfLtdK61wmGgHOHCBE3VvxAzMTI3PY6EL6Fg73b09otoHI4G6M4mqnh1wgjuautRlAIBDgXnlphnFYjWg+w+NBOoMqBuBGxquwUWXgYIxi9zLPXY/ESEUiBqh11m5V8MZ4Ge0wLfp4IXznl8S2cSZeDep14WKOKEBLZ05A9baW9rkz7or04rbNzsP2a/T8D6nryUGZs6fKssXCbY7vLhKDYjuvAsJgToV6A8ibmhBEyMxUDgczONCIrpVUg/75HGrphiwls4NqvV81dDkpUAC9aD7qikG+JYcG5TAF/XrfnlUUwzwnTne7yJwSR+5pB6waaGaYiANNIq+GOCX8/soxHwN1RQDYWh/+MNR1KopBoKCqY9C1NdQTTEQhuG6Dvnl0HLo2edWTTGwWfvc5K/KJhT52SD9k3DclpqiySpigDPr0wtkCd+qNIZw8jjZiNNyBjZqrRX+dtoVKUZIHuYp4oQGtJTaGUAjDO0z5LzAn16E4lAj9Dor92p0GXj7vv2SHS5lEejsyaOQHj+wEqi1n5XBDQ0f02UAA749SwCiduE9P+2NjRHNXrESqLXvcs8OOMHt5lERM4A+gPuhvY5aInp+pFmaKSfFaGYYuMDJZexINADUVr29jkV2fvBiotnzW6EVCw+DXXCAK4aLGqkGMMciOy8x0R1+eT6i108Aix3sgiNrJ9OALjLRyma9Pbn/+89l/n9uGQI8+8a/7C8EavQwAwZY7HA/9+jLgLJsNb7UNmrtuxB4s906+Xq7dRSBGj3MgFE8cl78BQAA//94ssPVAAAABklEQVQDANOrbTChJOreAAAAAElFTkSuQmCC;rotation=-180;" parent="tfvNJ5yYNCzRf5C2TuuD-52" vertex="1">
-          <mxGeometry x="133.66" y="30" width="32" height="32" as="geometry" />
+          <mxGeometry x="133.66" y="45" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
