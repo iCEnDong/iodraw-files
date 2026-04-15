@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dyw3tAPJ5NaOeT6tCFyG">
-    <mxGraphModel dx="600" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="f6AQb-A8E_S2Vp8PKNKl-4" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;fillColor=#BBF6FF;shadow=1;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
           <mxGeometry x="0.003074329501933097" y="0.0020650253539205216" width="8.793103448275861" height="10.401532707707137" as="geometry" />
         </mxCell>
-        <mxCell id="f6AQb-A8E_S2Vp8PKNKl-5" value="校验失败, 请确保网络正常&lt;div&gt;二维码正确&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
+        <mxCell id="f6AQb-A8E_S2Vp8PKNKl-5" value="校验失败, 请确保网络正常&lt;div style=&quot;font-size: 32px;&quot;&gt;二维码正确&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontColor=#FFFFFF;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
           <mxGeometry x="8.210999999999999" y="101.25" width="238.00000000000006" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="f6AQb-A8E_S2Vp8PKNKl-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
