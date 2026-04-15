@@ -16,7 +16,7 @@
         <mxCell id="f6AQb-A8E_S2Vp8PKNKl-4" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-180;fillColor=#BBF6FF;shadow=1;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
           <mxGeometry x="0.003074329501933097" y="0.0020650253539205216" width="8.793103448275861" height="10.401532707707137" as="geometry" />
         </mxCell>
-        <mxCell id="f6AQb-A8E_S2Vp8PKNKl-5" value="校验失败, 请确保网络正常&lt;div style=&quot;font-size: 24px;&quot;&gt;二维码正确&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#FFFFFF;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
+        <mxCell id="f6AQb-A8E_S2Vp8PKNKl-5" value="校验失败, 请确保&lt;div&gt;网络正常&lt;div style=&quot;font-size: 24px;&quot;&gt;二维码正确&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#FFFFFF;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
           <mxGeometry x="8.210999999999999" y="101.25" width="238.00000000000006" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="f6AQb-A8E_S2Vp8PKNKl-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" parent="f6AQb-A8E_S2Vp8PKNKl-1" vertex="1">
