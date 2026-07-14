@@ -76,12 +76,6 @@
         <mxCell id="tcGHU5kLaxb08-1Bjw79-25" value="19:23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="750" y="705" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tcGHU5kLaxb08-1Bjw79-26" value="23°07.278 N" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="836" y="690" width="185" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tcGHU5kLaxb08-1Bjw79-27" value="113°32.267 E" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="841" y="720" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tcGHU5kLaxb08-1Bjw79-30" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=31.5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;rounded=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="273.12" y="452.38" width="327.75" height="100" as="geometry" />
         </mxCell>
