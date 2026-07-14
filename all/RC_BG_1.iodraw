@@ -19,9 +19,6 @@
         <mxCell id="tcGHU5kLaxb08-1Bjw79-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="284" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tcGHU5kLaxb08-1Bjw79-6" value="19:23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="750" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tcGHU5kLaxb08-1Bjw79-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="480" height="210" as="geometry" />
         </mxCell>
@@ -100,7 +97,7 @@
         <mxCell id="tcGHU5kLaxb08-1Bjw79-33" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=31.5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;rounded=1;shadow=1;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="953.5" y="454.5" width="337" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tcGHU5kLaxb08-1Bjw79-34" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;size=31.5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;rounded=1;shadow=1;flipH=0;flipV=1;" vertex="1" parent="1">
+        <mxCell id="tcGHU5kLaxb08-1Bjw79-34" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;size=31.5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;rounded=1;shadow=1;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="530.15" y="600" width="499.71" height="70" as="geometry" />
         </mxCell>
       </root>
