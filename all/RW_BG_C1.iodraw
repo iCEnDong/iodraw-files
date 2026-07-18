@@ -70,8 +70,8 @@
             <mxPoint x="850" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaxXcWOtXMTdOovFC9nD-26" value="RX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="595" y="490" width="60" height="30" as="geometry" />
+        <mxCell id="FaxXcWOtXMTdOovFC9nD-26" value="SSB /" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="706" y="705.01" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
