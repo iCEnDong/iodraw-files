@@ -55,7 +55,7 @@
         <mxCell id="FaxXcWOtXMTdOovFC9nD-17" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=-90;flipV=0;flipH=1;size=33;strokeWidth=2;fillColor=#C9CACA;" vertex="1" parent="1">
           <mxGeometry x="886.13" y="467.19" width="80" height="507.71" as="geometry" />
         </mxCell>
-        <mxCell id="FaxXcWOtXMTdOovFC9nD-19" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=31.5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;rounded=1;shadow=1;flipH=0;flipV=1;" vertex="1" parent="1">
+        <mxCell id="FaxXcWOtXMTdOovFC9nD-19" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=31.5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;rounded=1;shadow=1;flipH=0;flipV=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="953.5" y="454.5" width="337" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FaxXcWOtXMTdOovFC9nD-20" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;size=-10.150000000000091;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;rounded=1;shadow=1;flipH=0;flipV=1;" vertex="1" parent="1">
